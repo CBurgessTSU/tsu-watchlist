@@ -62,8 +62,11 @@ function makeRow({ symbol, name, isEtf, optionsWarning }) {
   const warn = document.createElement('span');
   warn.className = 'cell-warn';
   if (optionsWarning) {
-    warn.textContent = '⚠️';
-    warn.title = 'No liquid call options found near the money (monthly expirations within 50 days, OI < 500)';
+    const icon = document.createElement('span');
+    icon.className = 'warn-icon';
+    icon.textContent = '!';
+    icon.title = 'No liquid monthly calls within 50 days (OI < 500 in the 5-ITM/2-OTM strike window)';
+    warn.appendChild(icon);
   }
 
   const tagWrap = document.createElement('span');
