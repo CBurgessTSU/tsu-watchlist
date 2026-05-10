@@ -65,7 +65,7 @@ function makeRow({ symbol, name, isEtf, optionsWarning }) {
     const icon = document.createElement('span');
     icon.className = 'warn-icon';
     icon.textContent = '!';
-    icon.title = 'No liquid monthly calls within 50 days (OI < 500 in the 5-ITM/2-OTM strike window)';
+    icon.title = 'Low options liquidity';
     warn.appendChild(icon);
   }
 
