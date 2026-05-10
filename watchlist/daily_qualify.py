@@ -1,9 +1,9 @@
 """Helpers for the daily qualification pass.
 
-Reads the frozen sectors.json, fetches each sector's top-10 holdings via the
-existing refresh/holdings.py + refresh/filter.py modules (US-listed only,
-foreign-primary dropped, dual-class deduped), and produces a flat symbol list
-for the slash command to feed into batch_run.
+Reads the frozen sectors.json, fetches each sector's top-10 holdings via
+holdings.py + filter.py (US-listed only, foreign-primary dropped,
+dual-class deduped), and produces a flat symbol list for the slash command
+to feed into batch_run.
 
 The actual qualification (reading the three CB Swing Labels plots) happens via
 MCP in the slash command itself — this module stays pure-python so it can be
@@ -13,16 +13,11 @@ tested and reused without an MCP context.
 from __future__ import annotations
 
 import json
-import sys
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
-# Reach the sibling refresh/ module without polluting sys.path globally.
-_REPO_ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(_REPO_ROOT / "refresh"))
-import holdings as _holdings  # noqa: E402
-import filter as _filter      # noqa: E402
-sys.path.pop(0)
+import holdings as _holdings
+import filter as _filter
 
 
 @dataclass(frozen=True)

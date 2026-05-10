@@ -1,4 +1,8 @@
 mcp-server/
+refresh/
+.mcp.json
+PROJECT.md
+rules.json
 .DS_Store
 __pycache__/
 *.pyc
