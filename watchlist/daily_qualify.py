@@ -94,6 +94,7 @@ def assemble_watchlist_payload(
     qualified: dict[str, bool],
     sectors_frozen_at: str,
     generated_at: str,
+    options_warnings: dict[str, bool] | None = None,
 ) -> dict:
     """Build the final watchlist.json payload.
 
@@ -103,14 +104,21 @@ def assemble_watchlist_payload(
                          A symbol missing from the dict is treated as not qualified.
       sectors_frozen_at: Timestamp when sectors.json was generated.
       generated_at:      Timestamp for this watchlist run.
+      options_warnings:  {symbol: True} for symbols with no liquid monthly calls.
+                         Omit or pass None to skip options annotation entirely.
     """
     core: list[dict] = []
     honoraries: list[dict] = []
+    warn = options_warnings or {}
 
     for b in bundles:
         etf_qualified = qualified.get(b.etf, False)
         qualified_stocks = [
-            {"symbol": c.symbol, "name": c.name}
+            {
+                "symbol": c.symbol,
+                "name": c.name,
+                "options_warning": bool(warn.get(c.symbol, False)),
+            }
             for c in b.candidates
             if c.symbol != b.etf and qualified.get(c.symbol, False)
         ]
@@ -120,6 +128,7 @@ def assemble_watchlist_payload(
             "return_pct": b.return_pct,
             "spy_return_pct": b.spy_return_pct,
             "etf_qualified": etf_qualified,
+            "etf_options_warning": bool(warn.get(b.etf, False)),
             "stocks": qualified_stocks,
         }
         (core if b.bucket == "core" else honoraries).append(section)

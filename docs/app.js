@@ -47,7 +47,7 @@ function fmtTimestamp(iso, mode = 'long') {
   } catch { return iso; }
 }
 
-function makeRow({ symbol, name, isEtf }) {
+function makeRow({ symbol, name, isEtf, optionsWarning }) {
   const li = document.createElement('li');
   li.className = 'row' + (isEtf ? ' is-etf' : '');
 
@@ -59,6 +59,13 @@ function makeRow({ symbol, name, isEtf }) {
   n.className = 'cell-name';
   n.textContent = name || (isEtf ? 'Sector ETF' : '—');
 
+  const warn = document.createElement('span');
+  warn.className = 'cell-warn';
+  if (optionsWarning) {
+    warn.textContent = '⚠️';
+    warn.title = 'No liquid call options found near the money (monthly expirations within 50 days, OI < 500)';
+  }
+
   const tagWrap = document.createElement('span');
   tagWrap.className = 'cell-tag';
   if (isEtf) {
@@ -68,7 +75,7 @@ function makeRow({ symbol, name, isEtf }) {
     tagWrap.appendChild(tag);
   }
 
-  li.append(t, n, tagWrap);
+  li.append(t, n, warn, tagWrap);
   return li;
 }
 
@@ -94,10 +101,10 @@ function makeSection(section) {
   const list = root.querySelector('.row-list');
   const rows = [];
   if (section.etf_qualified) {
-    rows.push({ symbol: section.etf, name: '', isEtf: true });
+    rows.push({ symbol: section.etf, name: '', isEtf: true, optionsWarning: !!section.etf_options_warning });
   }
   for (const s of (section.stocks || [])) {
-    rows.push({ symbol: s.symbol, name: s.name || '', isEtf: false });
+    rows.push({ symbol: s.symbol, name: s.name || '', isEtf: false, optionsWarning: !!s.options_warning });
   }
 
   if (rows.length === 0) {

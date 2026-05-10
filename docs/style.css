@@ -248,7 +248,7 @@ main {
 /* ---------- COLUMN HEADERS ---------- */
 .col-headers {
   display: grid;
-  grid-template-columns: 110px 1fr 80px;
+  grid-template-columns: 110px 1fr 20px 80px;
   gap: 16px;
   padding: 8px 14px;
   border-bottom: 1px solid var(--hairline);
@@ -269,7 +269,7 @@ main {
 }
 .row {
   display: grid;
-  grid-template-columns: 110px 1fr 80px;
+  grid-template-columns: 110px 1fr 20px 80px;
   gap: 16px;
   align-items: center;
   padding: 10px 14px;
@@ -300,6 +300,15 @@ main {
   white-space: nowrap;
 }
 .row.is-etf .cell-name { color: var(--text); }
+
+.cell-warn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  line-height: 1;
+  cursor: default;
+}
 
 .cell-tag {
   text-align: right;
@@ -370,6 +379,6 @@ main {
   main { padding: 0 18px 48px; }
   .sector-head { flex-direction: column; gap: 8px; padding: 18px 0 12px; }
   .sector-name { font-size: 22px; }
-  .col-headers, .row { grid-template-columns: 84px 1fr 64px; gap: 12px; padding: 8px 8px; }
+  .col-headers, .row { grid-template-columns: 84px 1fr 18px 64px; gap: 12px; padding: 8px 8px; }
   .cell-name { font-size: 12px; }
 }
