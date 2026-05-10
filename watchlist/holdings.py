@@ -13,6 +13,7 @@ Ticker format in 's' field:
 """
 
 import json
+import subprocess
 import urllib.request
 from typing import Optional
 
@@ -63,6 +64,21 @@ def _parse_sveltekit_holdings(payload: dict, n: int) -> list[dict]:
     return []
 
 
+def _fetch_url(url: str) -> bytes:
+    """Fetch URL, using curl subprocess as fallback when urllib SSL is blocked."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": _UA})
+        resp = urllib.request.urlopen(req, timeout=15)
+        return resp.read()
+    except Exception:
+        result = subprocess.run(
+            ["curl", "-s", "--max-time", "20", "-A", _UA, url],
+            capture_output=True,
+            check=True,
+        )
+        return result.stdout
+
+
 def get_holdings(etf_ticker: str, n: int = 10) -> list[dict]:
     """Return top-N holdings for an ETF as filter.py-compatible dicts.
 
@@ -73,9 +89,7 @@ def get_holdings(etf_ticker: str, n: int = 10) -> list[dict]:
       rank    int   1-based position in holdings list
     """
     url = f"https://stockanalysis.com/etf/{etf_ticker.lower()}/holdings/__data.json"
-    req = urllib.request.Request(url, headers={"User-Agent": _UA})
-    resp = urllib.request.urlopen(req, timeout=15)
-    payload = json.loads(resp.read())
+    payload = json.loads(_fetch_url(url))
 
     rows = _parse_sveltekit_holdings(payload, n)
     result = []

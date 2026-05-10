@@ -13,6 +13,7 @@ tested and reused without an MCP context.
 from __future__ import annotations
 
 import json
+import sys
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
