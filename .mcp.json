@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tradingview": {
+      "command": "node",
+      "args": ["/Users/chris/dev/tradingview-integration/mcp-server/src/server.js"]
+    }
+  }
+}

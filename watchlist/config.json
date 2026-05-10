@@ -1,0 +1,15 @@
+{
+  "$comment": "Sector ETFs that are NOT 'core' for watchlist tier 1/2 ranking. The full universe is read at runtime from the Relative Sector Performance layout in TradingView; anything in this list is bucketed as a candidate for Honorary Mentions instead of core slots.",
+  "non_core_etfs": ["MAGS", "XMAG", "BUZZ", "FFTY", "XLRE", "IBB"],
+
+  "lookback_bars": 21,
+  "$comment_lookback": "Trading days used for sector return ranking. ~21 = 1 calendar month.",
+
+  "core_target_count": 10,
+  "$comment_target": "Always include this many core sectors (Tier 1 + Tier 2 combined), provided enough are positive on an absolute basis.",
+
+  "rsp_layout_name": "🚀Relative Sector Performance",
+  "$comment_layout": "Exact TradingView layout name for the weekly sector ranking source. Update if you rename the layout.",
+
+  "spy_symbol": "SPY"
+}

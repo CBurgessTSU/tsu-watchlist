@@ -1,0 +1,30 @@
+{
+  "$comment": "Project config for sector-layout rotation and ticker qualification. Edit this file — it drives the watchlist-update agent.",
+
+  "sectors": {
+    "$comment": "Map each sector key to (1) the exact TradingView layout name as saved in your account, and (2) the max number of tickers that fit in that layout (so we know how many to pass in per sector).",
+
+    "_EXAMPLE_semiconductors": {
+      "layout_name": "TODO: exact TV layout name, e.g. 'Semis Top-Down'",
+      "pane_count": 4,
+      "notes": "TODO: optional freeform notes about this sector's layout (timeframe, indicators present, etc.)"
+    }
+  },
+
+  "qualification_rules": {
+    "$comment": "OPTIONAL — used later when Claude reads indicator values via data_get_study_values to decide if a ticker meets your criteria. Leave empty for now if you just want the ticker-swap workflow first.",
+
+    "_EXAMPLE_trend_up": {
+      "description": "Stock is above rising 50EMA and 200EMA",
+      "requires_indicators": ["Moving Average Exponential"],
+      "conditions": [
+        "TODO: describe in plain language — we'll translate to study_values checks"
+      ]
+    }
+  },
+
+  "defaults": {
+    "timeframe": "D",
+    "$comment_timeframe": "TODO: your preferred timeframe for top-down review — D, W, 60, etc."
+  }
+}
