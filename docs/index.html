@@ -77,6 +77,10 @@
   </section>
 </template>
 
-<script src="app.js"></script>
+<script>
+  var s = document.createElement('script');
+  s.src = 'app.js?v=' + Date.now();
+  document.head.appendChild(s);
+</script>
 </body>
 </html>
