@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T11:13:01.623468-04:00",
+  "generated_at": "2026-05-12T13:02:47.849579-04:00",
   "sectors_frozen_at": "2026-05-09T22:02:28-04:00",
   "core_sectors": [
     {
@@ -61,23 +61,18 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "BLDP",
-          "name": "Ballard Power Systems Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "FCEL",
           "name": "FuelCell Energy, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BE",
-          "name": "Bloom Energy Corporation",
+          "symbol": "NVTS",
+          "name": "Navitas Semiconductor Corporation",
           "options_warning": false
         },
         {
-          "symbol": "NVTS",
-          "name": "Navitas Semiconductor Corporation",
+          "symbol": "BE",
+          "name": "Bloom Energy Corporation",
           "options_warning": false
         },
         {
@@ -93,6 +88,16 @@
         {
           "symbol": "POWL",
           "name": "Powell Industries, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "BLDP",
+          "name": "Ballard Power Systems Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MYRG",
+          "name": "MYR Group Inc.",
           "options_warning": true
         }
       ]
@@ -193,7 +198,7 @@
         {
           "symbol": "ENLT",
           "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "HASI",
@@ -232,17 +237,12 @@
       "tier": "absolute",
       "return_pct": 8.34,
       "spy_return_pct": 8.49,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "UEC",
           "name": "Uranium Energy Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UUUU",
-          "name": "Energy Fuels Inc.",
           "options_warning": false
         }
       ]
@@ -268,7 +268,7 @@
         {
           "symbol": "RS",
           "name": "Reliance, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MP",
@@ -328,11 +328,6 @@
           "options_warning": false
         },
         {
-          "symbol": "APLD",
-          "name": "Applied Digital Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
           "options_warning": false
@@ -340,6 +335,11 @@
         {
           "symbol": "IREN",
           "name": "IREN Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "APLD",
+          "name": "Applied Digital Corporation",
           "options_warning": false
         },
         {
@@ -365,7 +365,7 @@
         {
           "symbol": "STRL",
           "name": "Sterling Infrastructure, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "MU",
@@ -380,26 +380,21 @@
         {
           "symbol": "AGX",
           "name": "Argan, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "FIX",
           "name": "Comfort Systems USA, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "SITM",
           "name": "SiTime Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "VRT",
           "name": "Vertiv Holdings Co",
-          "options_warning": false
-        },
-        {
-          "symbol": "CLS",
-          "name": "Celestica Inc.",
           "options_warning": false
         },
         {
