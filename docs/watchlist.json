@@ -198,7 +198,7 @@
         {
           "symbol": "ENLT",
           "name": "Enlight Renewable Energy Ltd",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "HASI",

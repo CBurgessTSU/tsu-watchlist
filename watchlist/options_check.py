@@ -74,24 +74,41 @@ def _strip_exchange_prefix(symbol: str) -> str:
     return symbol.split(":")[-1] if ":" in symbol else symbol
 
 
+_FETCH_RETRIES = 2
+_RETRY_DELAY = 3.0
+
+
+def _fetch_cboe(cboe_sym: str) -> dict | None:
+    """Fetch CBOE delayed-quote data for a symbol. Retries on transient errors.
+
+    Returns the parsed 'data' dict, or None if all attempts fail (fail open).
+    """
+    url = _CBOE_URL.format(symbol=cboe_sym)
+    req = urllib.request.Request(url, headers={"User-Agent": _UA})
+    for attempt in range(_FETCH_RETRIES):
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                return json.loads(resp.read())["data"]
+        except (urllib.error.URLError, KeyError, json.JSONDecodeError):
+            if attempt < _FETCH_RETRIES - 1:
+                time.sleep(_RETRY_DELAY)
+    return None
+
+
 def check_symbol(symbol: str, today: Optional[date] = None) -> bool:
     """Return True if the symbol should show the ⚠️ warning (no liquid calls found).
 
-    Fetches from CBOE once per symbol. Any HTTP or parse error returns False
-    (fail open — don't flag data gaps as illiquidity).
+    Fetches from CBOE with retries. All attempts failing → fail open (no warning),
+    so transient CDN errors don't generate false warnings.
     """
     if today is None:
         today = date.today()
     cutoff = today + timedelta(days=DAYS_HORIZON)
     cboe_sym = _strip_exchange_prefix(symbol).replace(".", "-")  # BRK.B → BRK-B on CBOE
 
-    try:
-        url = _CBOE_URL.format(symbol=cboe_sym)
-        req = urllib.request.Request(url, headers={"User-Agent": _UA})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read())["data"]
-    except (urllib.error.URLError, KeyError, json.JSONDecodeError):
-        return False  # can't reach CBOE → no warning
+    data = _fetch_cboe(cboe_sym)
+    if data is None:
+        return False  # can't reach CBOE after retries → no warning
 
     price = data.get("current_price")
     if not price:
