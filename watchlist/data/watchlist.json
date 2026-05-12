@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T19:09:18-04:00",
+  "generated_at": "2026-05-12T11:13:01.623468-04:00",
   "sectors_frozen_at": "2026-05-09T22:02:28-04:00",
   "core_sectors": [
     {
@@ -36,13 +36,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
+          "symbol": "QCOM",
+          "name": "QUALCOMM Incorporated",
           "options_warning": false
         },
         {
-          "symbol": "QCOM",
-          "name": "QUALCOMM Incorporated",
+          "symbol": "TXN",
+          "name": "Texas Instruments Incorporated",
           "options_warning": false
         },
         {
@@ -103,7 +103,7 @@
       "return_pct": 23.54,
       "spy_return_pct": 8.49,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "AAPL",
@@ -111,13 +111,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AVGO",
-          "name": "Broadcom Inc.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "AVGO",
+          "name": "Broadcom Inc.",
           "options_warning": false
         },
         {
@@ -154,11 +154,6 @@
           "symbol": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "CDNS",
-          "name": "Cadence Design Systems, Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -176,18 +171,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PL",
-          "name": "Planet Labs PBC",
-          "options_warning": false
-        },
-        {
           "symbol": "GSAT",
           "name": "Globalstar, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VSAT",
-          "name": "Viasat, Inc.",
           "options_warning": false
         }
       ]
@@ -200,6 +185,11 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "FSLR",
+          "name": "First Solar, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "ENLT",
           "name": "Enlight Renewable Energy Ltd",
@@ -217,8 +207,8 @@
       "tier": "absolute_relative",
       "return_pct": 9.1,
       "spy_return_pct": 8.49,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "AMZN",
@@ -231,8 +221,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ANET",
-          "name": "Arista Networks, Inc.",
+          "symbol": "CIEN",
+          "name": "Ciena Corporation",
           "options_warning": false
         }
       ]
@@ -242,19 +232,9 @@
       "tier": "absolute",
       "return_pct": 8.34,
       "spy_return_pct": 8.49,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "CCJ",
-          "name": "Cameco Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "NXE",
-          "name": "NexGen Energy Ltd.",
-          "options_warning": false
-        },
         {
           "symbol": "UEC",
           "name": "Uranium Energy Corp.",
@@ -288,12 +268,7 @@
         {
           "symbol": "RS",
           "name": "Reliance, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CLF",
-          "name": "Cleveland-Cliffs Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "MP",
@@ -317,7 +292,7 @@
       "tier": "absolute",
       "return_pct": 6.62,
       "spy_return_pct": 8.49,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -345,7 +320,7 @@
       "return_pct": 24.41,
       "spy_return_pct": 8.49,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "INTC",
