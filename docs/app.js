@@ -4,6 +4,39 @@
  * three tiers as a dense table layout. Pure DOM, no framework.
  */
 
+// --- Review marks (localStorage, per-browser only) ---
+const MARKS_KEY = 'swm_review_marks';
+
+function loadMarks() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(MARKS_KEY) || '[]'));
+  } catch { return new Set(); }
+}
+
+function saveMarks(set) {
+  localStorage.setItem(MARKS_KEY, JSON.stringify([...set]));
+}
+
+function toggleMark(rowEl, symbol) {
+  const marks = loadMarks();
+  if (marks.has(symbol)) {
+    marks.delete(symbol);
+    rowEl.classList.remove('is-marked');
+  } else {
+    marks.add(symbol);
+    rowEl.classList.add('is-marked');
+  }
+  saveMarks(marks);
+}
+
+function rehydrateMarks() {
+  const marks = loadMarks();
+  if (marks.size === 0) return;
+  document.querySelectorAll('.row[data-symbol]').forEach(row => {
+    if (marks.has(row.dataset.symbol)) row.classList.add('is-marked');
+  });
+}
+
 const TIER_PILL_LABELS = {
   absolute_relative: 'Strong',
   absolute:          'Positive',
@@ -50,6 +83,8 @@ function fmtTimestamp(iso, mode = 'long') {
 function makeRow({ symbol, name, isEtf, optionsWarning }) {
   const li = document.createElement('li');
   li.className = 'row' + (isEtf ? ' is-etf' : '');
+  li.dataset.symbol = symbol;
+  li.addEventListener('click', () => toggleMark(li, symbol));
 
   const t = document.createElement('span');
   t.className = 'cell-ticker';
@@ -180,6 +215,8 @@ function render(payload) {
     p.textContent = 'No sectors qualified — check back next update.';
     main.appendChild(p);
   }
+
+  rehydrateMarks();
 }
 
 (async () => {

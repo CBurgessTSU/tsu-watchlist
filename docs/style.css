@@ -274,12 +274,21 @@ main {
   align-items: center;
   padding: 10px 14px;
   border-bottom: 1px solid var(--hairline);
+  cursor: pointer;
   transition: background 0.12s ease;
 }
 .row:last-child { border-bottom: 0; }
 .row:hover { background: var(--bg-row-hover); }
 .row.is-etf { background: rgba(78, 205, 196, 0.04); }
 .row.is-etf:hover { background: rgba(78, 205, 196, 0.09); }
+
+.row.is-marked {
+  background: var(--amber-glow);
+  border-left: 3px solid var(--amber);
+  padding-left: 11px; /* compensate for border so text stays aligned */
+}
+.row.is-marked:hover { background: rgba(244, 185, 66, 0.18); }
+.row.is-marked .cell-ticker { color: var(--amber); }
 
 .cell-ticker {
   font-family: 'JetBrains Mono', 'SF Mono', Menlo, monospace;
