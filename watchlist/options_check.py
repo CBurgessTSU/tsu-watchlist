@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import bisect
 import json
+import sys
 import time
 import urllib.error
 import urllib.request
@@ -74,12 +75,13 @@ def _strip_exchange_prefix(symbol: str) -> str:
     return symbol.split(":")[-1] if ":" in symbol else symbol
 
 
-_FETCH_RETRIES = 2
-_RETRY_DELAY = 3.0
+_FETCH_RETRIES = 3
+# Exponential backoff delays between retries (seconds): 5s after 1st fail, 15s after 2nd.
+_RETRY_DELAYS = [5.0, 15.0]
 
 
 def _fetch_cboe(cboe_sym: str) -> dict | None:
-    """Fetch CBOE delayed-quote data for a symbol. Retries on transient errors.
+    """Fetch CBOE delayed-quote data for a symbol. Retries with exponential backoff.
 
     Returns the parsed 'data' dict, or None if all attempts fail (fail open).
     """
@@ -89,9 +91,21 @@ def _fetch_cboe(cboe_sym: str) -> dict | None:
         try:
             with urllib.request.urlopen(req, timeout=15) as resp:
                 return json.loads(resp.read())["data"]
-        except (urllib.error.URLError, KeyError, json.JSONDecodeError):
+        except (urllib.error.URLError, KeyError, json.JSONDecodeError) as exc:
+            delay = _RETRY_DELAYS[attempt] if attempt < len(_RETRY_DELAYS) else _RETRY_DELAYS[-1]
             if attempt < _FETCH_RETRIES - 1:
-                time.sleep(_RETRY_DELAY)
+                print(
+                    f"[options] CBOE fetch failed for {cboe_sym} "
+                    f"(attempt {attempt + 1}/{_FETCH_RETRIES}): {exc} — retrying in {delay:.0f}s",
+                    file=sys.stderr,
+                )
+                time.sleep(delay)
+            else:
+                print(
+                    f"[options] CBOE fetch failed for {cboe_sym} "
+                    f"(attempt {attempt + 1}/{_FETCH_RETRIES}): {exc} — giving up, skipping symbol",
+                    file=sys.stderr,
+                )
     return None
 
 
@@ -108,10 +122,12 @@ def check_symbol(symbol: str, today: Optional[date] = None) -> bool:
 
     data = _fetch_cboe(cboe_sym)
     if data is None:
+        print(f"[options] {symbol}: no CBOE data after {_FETCH_RETRIES} attempts — skipping (no warning)", file=sys.stderr)
         return False  # can't reach CBOE after retries → no warning
 
     price = data.get("current_price")
     if not price:
+        print(f"[options] {symbol}: CBOE returned no current_price — skipping (no warning)", file=sys.stderr)
         return False
 
     options = data.get("options", [])
@@ -156,7 +172,9 @@ def check_options_liquidity(
     result: dict[str, bool] = {}
     for i, sym in enumerate(symbols):
         if i > 0:
-            time.sleep(0.4)  # stay well under CBOE's rate limit
-        if check_symbol(sym, today):
+            time.sleep(1.0)  # 1s between requests — CBOE rate-limits under heavy load
+        warned = check_symbol(sym, today)
+        print(f"[options] {sym}: {'⚠️  illiquid' if warned else 'ok'}", file=sys.stderr)
+        if warned:
             result[sym] = True
     return result
