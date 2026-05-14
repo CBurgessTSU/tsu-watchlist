@@ -55,9 +55,11 @@ def build_sector_bundles(sectors_payload: dict, n_holdings: int = 10) -> list[Se
         for entry in sectors_payload.get(bucket_name, []):
             etf = entry["etf"]
             try:
+                etf_name = _holdings.get_etf_name(etf)
                 raw = _holdings.get_holdings(etf, n=n_holdings)
             except Exception as exc:
                 print(f"[daily_qualify] {etf} holdings fetch failed: {exc}", file=sys.stderr)
+                etf_name = ""
                 raw = []
 
             filtered = _filter.filter_holdings(
@@ -65,7 +67,7 @@ def build_sector_bundles(sectors_payload: dict, n_holdings: int = 10) -> list[Se
             )
 
             # ETF itself is the first candidate, then its US-listed top-N holdings.
-            candidates: list[Candidate] = [Candidate(symbol=etf, name="")]
+            candidates: list[Candidate] = [Candidate(symbol=etf, name=etf_name)]
             for h in filtered.kept:
                 candidates.append(Candidate(symbol=h.ticker, name=h.name))
 

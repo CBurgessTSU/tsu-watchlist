@@ -79,6 +79,34 @@ def _fetch_url(url: str) -> bytes:
         return result.stdout
 
 
+def _parse_etf_name(payload: dict) -> str:
+    """Extract ETF full name from a holdings __data.json payload.
+
+    StockAnalysis consistently stores the ETF name at nodes[1]["data"][5].
+    Returns "" if not found.
+    """
+    try:
+        name = payload["nodes"][1]["data"][5]
+        if isinstance(name, str) and name:
+            return name
+    except (KeyError, IndexError, TypeError):
+        pass
+    return ""
+
+
+def _load_holdings_page(etf_ticker: str) -> tuple[str, dict]:
+    """Fetch the holdings __data.json and return (etf_name, parsed_payload)."""
+    url = f"https://stockanalysis.com/etf/{etf_ticker.lower()}/holdings/__data.json"
+    payload = json.loads(_fetch_url(url))
+    return _parse_etf_name(payload), payload
+
+
+def get_etf_name(etf_ticker: str) -> str:
+    """Return the full ETF name from StockAnalysis (e.g. 'VanEck Semiconductor ETF')."""
+    name, _ = _load_holdings_page(etf_ticker)
+    return name
+
+
 def get_holdings(etf_ticker: str, n: int = 10) -> list[dict]:
     """Return top-N holdings for an ETF as filter.py-compatible dicts.
 
@@ -88,8 +116,7 @@ def get_holdings(etf_ticker: str, n: int = 10) -> list[dict]:
       weight  float percentage weight (e.g. 11.99), or 0.0 if unavailable
       rank    int   1-based position in holdings list
     """
-    url = f"https://stockanalysis.com/etf/{etf_ticker.lower()}/holdings/__data.json"
-    payload = json.loads(_fetch_url(url))
+    _, payload = _load_holdings_page(etf_ticker)
 
     rows = _parse_sveltekit_holdings(payload, n)
     result = []
