@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T19:44:06.192350-04:00",
+  "generated_at": "2026-05-13T20:48:49.344849-04:00",
   "sectors_frozen_at": "2026-05-09T22:02:28-04:00",
   "core_sectors": [
     {
@@ -76,6 +76,11 @@
           "options_warning": false
         },
         {
+          "symbol": "LAR",
+          "name": "Lithium Argentina AG",
+          "options_warning": false
+        },
+        {
           "symbol": "LZM",
           "name": "Lifezone Metals Limited",
           "options_warning": false
@@ -91,14 +96,14 @@
           "options_warning": true
         },
         {
-          "symbol": "BLDP",
-          "name": "Ballard Power Systems Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MYRG",
           "name": "MYR Group Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -136,6 +141,11 @@
           "options_warning": false
         },
         {
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
           "options_warning": false
@@ -159,11 +169,6 @@
           "symbol": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "CDNS",
-          "name": "Cadence Design Systems, Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -216,6 +221,11 @@
           "options_warning": false
         },
         {
+          "symbol": "ENPH",
+          "name": "Enphase Energy, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "HASI",
           "name": "HA Sustainable Infrastructure Capital, Inc.",
           "options_warning": false
@@ -227,12 +237,17 @@
       "tier": "absolute_relative",
       "return_pct": 9.1,
       "spy_return_pct": 8.49,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "AMZN",
           "name": "Amazon.com, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
           "options_warning": false
         },
         {
@@ -243,7 +258,7 @@
         {
           "symbol": "CIEN",
           "name": "Ciena Corporation",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -252,17 +267,12 @@
       "tier": "absolute",
       "return_pct": 8.34,
       "spy_return_pct": 8.49,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "UEC",
           "name": "Uranium Energy Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UUUU",
-          "name": "Energy Fuels Inc.",
           "options_warning": false
         }
       ]
@@ -286,14 +296,14 @@
           "options_warning": false
         },
         {
-          "symbol": "CLF",
-          "name": "Cleveland-Cliffs Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "RS",
           "name": "Reliance, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "CLF",
+          "name": "Cleveland-Cliffs Inc.",
+          "options_warning": false
         },
         {
           "symbol": "UEC",
@@ -308,6 +318,11 @@
         {
           "symbol": "CMC",
           "name": "Commercial Metals Company",
+          "options_warning": true
+        },
+        {
+          "symbol": "USAR",
+          "name": "USA Rare Earth, Inc.",
           "options_warning": false
         }
       ]
@@ -358,13 +373,18 @@
           "options_warning": false
         },
         {
+          "symbol": "APLD",
+          "name": "Applied Digital Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "IREN",
           "name": "IREN Limited",
           "options_warning": false
         },
         {
-          "symbol": "APLD",
-          "name": "Applied Digital Corporation",
+          "symbol": "NBIS",
+          "name": "Nebius Group N.V.",
           "options_warning": false
         },
         {
@@ -428,11 +448,6 @@
           "options_warning": true
         },
         {
-          "symbol": "CLS",
-          "name": "Celestica Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "SEI",
           "name": "Solaris Energy Infrastructure, Inc.",
           "options_warning": false
@@ -453,13 +468,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "TSLA",
-          "name": "Tesla, Inc.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
