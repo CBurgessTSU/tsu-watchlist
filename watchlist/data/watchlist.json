@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T20:48:49.344849-04:00",
+  "generated_at": "2026-05-14T20:53:00.777942-04:00",
   "sectors_frozen_at": "2026-05-09T22:02:28-04:00",
   "core_sectors": [
     {
@@ -149,6 +149,11 @@
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -169,6 +174,11 @@
           "symbol": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "CDNS",
+          "name": "Cadence Design Systems, Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -186,13 +196,28 @@
           "options_warning": false
         },
         {
+          "symbol": "SATS",
+          "name": "EchoStar Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "PL",
           "name": "Planet Labs PBC",
           "options_warning": false
         },
         {
+          "symbol": "LUNR",
+          "name": "Intuitive Machines, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "GSAT",
           "name": "Globalstar, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MDA",
+          "name": "MDA Space Ltd.",
           "options_warning": false
         }
       ]
@@ -218,7 +243,7 @@
         {
           "symbol": "ENLT",
           "name": "Enlight Renewable Energy Ltd",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "ENPH",
@@ -311,14 +336,9 @@
           "options_warning": false
         },
         {
-          "symbol": "MP",
-          "name": "MP Materials Corp.",
-          "options_warning": false
-        },
-        {
           "symbol": "CMC",
           "name": "Commercial Metals Company",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "USAR",
@@ -425,7 +445,7 @@
         {
           "symbol": "AGX",
           "name": "Argan, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "FIX",
