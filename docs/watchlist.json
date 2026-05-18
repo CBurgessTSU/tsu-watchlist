@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T23:06:56.939452-04:00",
+  "generated_at": "2026-05-18T19:44:11.463597-04:00",
   "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
   "core_sectors": [
     {
@@ -69,11 +69,6 @@
           "symbol": "FSLR",
           "name": "First Solar, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "ENLT",
-          "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
         },
         {
           "symbol": "ENPH",
@@ -288,16 +283,11 @@
         {
           "symbol": "PANW",
           "name": "Palo Alto Networks, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "APP",
-          "name": "AppLovin Corporation",
           "options_warning": false
         }
       ]
@@ -326,8 +316,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TS",
-          "name": "Tenaris S.A.",
+          "symbol": "RIG",
+          "name": "Transocean Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VAL",
+          "name": "Valaris Limited",
           "options_warning": false
         },
         {
@@ -356,8 +351,18 @@
           "options_warning": false
         },
         {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         }
       ]
@@ -383,6 +388,11 @@
         {
           "symbol": "PM",
           "name": "Philip Morris International Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MDLZ",
+          "name": "Mondelez International, Inc.",
           "options_warning": false
         },
         {
@@ -426,11 +436,6 @@
           "symbol": "BE",
           "name": "Bloom Energy Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
-          "options_warning": true
         },
         {
           "symbol": "VRT",
