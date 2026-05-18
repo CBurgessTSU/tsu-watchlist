@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T19:41:42.918038-04:00",
+  "generated_at": "2026-05-17T23:06:56.939452-04:00",
   "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
   "core_sectors": [
     {
@@ -8,47 +8,47 @@
       "return_pct": 22.33,
       "spy_return_pct": 5.35,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "TSM",
           "name": "Taiwan Semiconductor Manufacturing Company Limited",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "INTC",
           "name": "Intel Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "TXN",
           "name": "Texas Instruments Incorporated",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "QCOM",
           "name": "QUALCOMM Incorporated",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -58,7 +58,7 @@
       "return_pct": 19.21,
       "spy_return_pct": 5.35,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "NXT",
@@ -68,7 +68,7 @@
         {
           "symbol": "FSLR",
           "name": "First Solar, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "ENLT",
@@ -78,17 +78,17 @@
         {
           "symbol": "ENPH",
           "name": "Enphase Energy, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "SEDG",
           "name": "SolarEdge Technologies, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "HASI",
           "name": "HA Sustainable Infrastructure Capital, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -103,22 +103,22 @@
         {
           "symbol": "FCEL",
           "name": "FuelCell Energy, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "NVTS",
           "name": "Navitas Semiconductor Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "BE",
           "name": "Bloom Energy Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "HYLN",
           "name": "Hyliion Holdings Corp.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "ASPN",
@@ -128,12 +128,12 @@
         {
           "symbol": "NRGV",
           "name": "Energy Vault Holdings, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMSC",
           "name": "American Superconductor Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MYRG",
@@ -143,7 +143,7 @@
         {
           "symbol": "IONQ",
           "name": "IonQ, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -153,47 +153,47 @@
       "return_pct": 15.95,
       "spy_return_pct": 5.35,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "AAPL",
           "name": "Apple Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "INTC",
           "name": "Intel Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMAT",
           "name": "Applied Materials, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -208,37 +208,37 @@
         {
           "symbol": "IREN",
           "name": "IREN Limited",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "HUT",
           "name": "Hut 8 Corp.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "WULF",
           "name": "TeraWulf Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "RIOT",
           "name": "Riot Platforms, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CORZ",
           "name": "Core Scientific, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CIFR",
           "name": "Cipher Digital Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "GLXY",
           "name": "Galaxy Digital Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -253,27 +253,27 @@
         {
           "symbol": "RKLB",
           "name": "Rocket Lab Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "SATS",
           "name": "EchoStar Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "PL",
           "name": "Planet Labs PBC",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "LUNR",
           "name": "Intuitive Machines, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "GSAT",
           "name": "Globalstar, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -288,17 +288,17 @@
         {
           "symbol": "PANW",
           "name": "Palo Alto Networks, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "APP",
           "name": "AppLovin Corporation",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -313,22 +313,22 @@
         {
           "symbol": "SLB",
           "name": "SLB N.V.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "BKR",
           "name": "Baker Hughes Company",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "NYSE:HAL",
           "name": "Halliburton Company",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "TS",
           "name": "Tenaris S.A.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "SEI",
@@ -348,17 +348,17 @@
         {
           "symbol": "SLB",
           "name": "SLB N.V.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "WMB",
           "name": "The Williams Companies, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -368,37 +368,37 @@
       "return_pct": 3.94,
       "spy_return_pct": 5.35,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "COST",
           "name": "Costco Wholesale Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "KO",
           "name": "The Coca-Cola Company",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "PM",
           "name": "Philip Morris International Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MO",
           "name": "Altria Group, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CL",
           "name": "Colgate-Palmolive Company",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MNST",
           "name": "Monster Beverage Corporation",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     }
@@ -420,12 +420,12 @@
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "BE",
           "name": "Bloom Energy Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "LITE",
@@ -435,7 +435,7 @@
         {
           "symbol": "VRT",
           "name": "Vertiv Holdings Co",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AGX",
@@ -450,7 +450,7 @@
         {
           "symbol": "HUT",
           "name": "Hut 8 Corp.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "ANAB",
@@ -470,42 +470,42 @@
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "APLD",
           "name": "Applied Digital Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "INTC",
           "name": "Intel Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "NBIS",
           "name": "Nebius Group N.V.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "IREN",
           "name": "IREN Limited",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "TSLA",
           "name": "Tesla, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "RKLB",
           "name": "Rocket Lab Corporation",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -515,22 +515,22 @@
       "return_pct": 6.94,
       "spy_return_pct": 5.35,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "AMZN",
           "name": "Amazon.com, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "TSLA",
           "name": "Tesla, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     }

@@ -32,9 +32,9 @@ STRIKES_OTM = 2   # strikes strictly above current price
 DAYS_HORIZON = 50
 
 
-def _is_third_friday(d: date) -> bool:
-    """Monthly option expiration: the 3rd Friday falls on days 15–21."""
-    return d.weekday() == 4 and 15 <= d.day <= 21
+def _is_monthly_expiry(d: date) -> bool:
+    """Monthly option expiration: 3rd Friday (days 15–21), or Thursday if that Friday is a holiday."""
+    return d.weekday() in (3, 4) and 15 <= d.day <= 21
 
 
 def _parse_occ(symbol: str) -> tuple[str, float, date] | tuple[None, None, None]:
@@ -142,7 +142,7 @@ def check_symbol(symbol: str, today: Optional[date] = None) -> bool:
         kind, strike, exp = _parse_occ(opt.get("option", ""))
         if kind != "C" or exp is None:
             continue
-        if today <= exp <= cutoff and _is_third_friday(exp):
+        if today <= exp <= cutoff and _is_monthly_expiry(exp):
             monthly[exp][strike] = opt.get("open_interest") or 0
 
     if not monthly:
