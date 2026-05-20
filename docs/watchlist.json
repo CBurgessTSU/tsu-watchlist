@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T08:58:27.884674-04:00",
+  "generated_at": "2026-05-20T19:41:22.329389-04:00",
   "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
   "core_sectors": [
     {
@@ -11,13 +11,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "TSM",
-          "name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "AVGO",
-          "name": "Broadcom Inc.",
+          "symbol": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Company Limited",
           "options_warning": false
         },
         {
@@ -46,6 +46,11 @@
           "options_warning": false
         },
         {
+          "symbol": "ADI",
+          "name": "Analog Devices, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
           "options_warning": false
@@ -61,13 +66,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "FSLR",
+          "name": "First Solar, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "NXT",
           "name": "Nextpower Inc.",
           "options_warning": true
         },
         {
-          "symbol": "FSLR",
-          "name": "First Solar, Inc.",
+          "symbol": "ENPH",
+          "name": "Enphase Energy, Inc.",
           "options_warning": false
         },
         {
@@ -87,9 +97,50 @@
       "tier": "absolute_relative",
       "return_pct": 16.81,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "FCEL",
+          "name": "FuelCell Energy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HYLN",
+          "name": "Hyliion Holdings Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NVTS",
+          "name": "Navitas Semiconductor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "BE",
+          "name": "Bloom Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "BLDP",
+          "name": "Ballard Power Systems Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MYRG",
+          "name": "MYR Group Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "SHLS",
+          "name": "Shoals Technologies Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LAR",
+          "name": "Lithium Argentina AG",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XLK",
@@ -100,13 +151,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "AVGO",
-          "name": "Broadcom Inc.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
@@ -150,13 +201,13 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
+          "symbol": "IREN",
+          "name": "IREN Limited",
           "options_warning": false
         },
         {
-          "symbol": "WULF",
-          "name": "TeraWulf Inc.",
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
           "options_warning": false
         },
         {
@@ -167,6 +218,11 @@
         {
           "symbol": "CORZ",
           "name": "Core Scientific, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WULF",
+          "name": "TeraWulf Inc.",
           "options_warning": false
         },
         {
@@ -218,13 +274,7 @@
       "spy_return_pct": 5.35,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "OIH",
@@ -234,11 +284,6 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
         {
           "symbol": "NYSE:HAL",
           "name": "Halliburton Company",
@@ -270,11 +315,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
           "symbol": "WMB",
           "name": "The Williams Companies, Inc.",
           "options_warning": false
@@ -285,6 +325,11 @@
           "options_warning": false
         },
         {
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
           "options_warning": false
@@ -292,6 +337,11 @@
         {
           "symbol": "PSX",
           "name": "Phillips 66",
+          "options_warning": false
+        },
+        {
+          "symbol": "KMI",
+          "name": "Kinder Morgan, Inc.",
           "options_warning": false
         }
       ]
@@ -362,8 +412,8 @@
           "options_warning": false
         },
         {
-          "symbol": "VRT",
-          "name": "Vertiv Holdings Co",
+          "symbol": "BE",
+          "name": "Bloom Energy Corporation",
           "options_warning": false
         },
         {
@@ -412,8 +462,18 @@
           "options_warning": false
         },
         {
+          "symbol": "IREN",
+          "name": "IREN Limited",
+          "options_warning": false
+        },
+        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
           "options_warning": false
         },
         {
@@ -431,6 +491,11 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "AMZN",
           "name": "Amazon.com, Inc.",
