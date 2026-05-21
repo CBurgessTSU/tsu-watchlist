@@ -4,6 +4,7 @@
   "core_sectors": [
     {
       "etf": "SMH",
+      "etf_name": "VanEck Semiconductor ETF",
       "tier": "absolute_relative",
       "return_pct": 22.33,
       "spy_return_pct": 5.35,
@@ -59,6 +60,7 @@
     },
     {
       "etf": "TAN",
+      "etf_name": "Invesco Solar ETF",
       "tier": "absolute_relative",
       "return_pct": 19.21,
       "spy_return_pct": 5.35,
@@ -94,6 +96,7 @@
     },
     {
       "etf": "PBW",
+      "etf_name": "Invesco WilderHill Clean Energy ETF",
       "tier": "absolute_relative",
       "return_pct": 16.81,
       "spy_return_pct": 5.35,
@@ -144,6 +147,7 @@
     },
     {
       "etf": "XLK",
+      "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
       "return_pct": 15.95,
       "spy_return_pct": 5.35,
@@ -194,6 +198,7 @@
     },
     {
       "etf": "BITQ",
+      "etf_name": "Bitwise Crypto Industry Innovators ETF",
       "tier": "absolute_relative",
       "return_pct": 11.63,
       "spy_return_pct": 5.35,
@@ -239,6 +244,7 @@
     },
     {
       "etf": "MARS",
+      "etf_name": "Roundhill Space & Technology ETF",
       "tier": "absolute_relative",
       "return_pct": 10.75,
       "spy_return_pct": 5.35,
@@ -269,6 +275,7 @@
     },
     {
       "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
       "return_pct": 8.8,
       "spy_return_pct": 5.35,
@@ -278,6 +285,7 @@
     },
     {
       "etf": "OIH",
+      "etf_name": "VanEck Oil Services ETF",
       "tier": "absolute_relative",
       "return_pct": 8.07,
       "spy_return_pct": 5.35,
@@ -308,6 +316,7 @@
     },
     {
       "etf": "XLE",
+      "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute",
       "return_pct": 5.05,
       "spy_return_pct": 5.35,
@@ -348,6 +357,7 @@
     },
     {
       "etf": "XLP",
+      "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
       "tier": "absolute",
       "return_pct": 3.94,
       "spy_return_pct": 5.35,
@@ -395,6 +405,7 @@
   "honorable_mentions": [
     {
       "etf": "FFTY",
+      "etf_name": "CapForce IBD 50 ETF",
       "tier": "honorary",
       "return_pct": 13.49,
       "spy_return_pct": 5.35,
@@ -435,6 +446,7 @@
     },
     {
       "etf": "BUZZ",
+      "etf_name": "VanEck Social Sentiment ETF",
       "tier": "honorary",
       "return_pct": 8.49,
       "spy_return_pct": 5.35,
@@ -485,6 +497,7 @@
     },
     {
       "etf": "MAGS",
+      "etf_name": "Roundhill Magnificent Seven ETF",
       "tier": "honorary",
       "return_pct": 6.94,
       "spy_return_pct": 5.35,

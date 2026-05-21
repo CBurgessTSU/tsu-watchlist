@@ -139,7 +139,7 @@ function makeSection(section) {
   const list = root.querySelector('.row-list');
   const rows = [];
   if (section.etf_qualified) {
-    rows.push({ symbol: section.etf, name: '', isEtf: true, optionsWarning: !!section.etf_options_warning });
+    rows.push({ symbol: section.etf, name: section.etf_name || '', isEtf: true, optionsWarning: !!section.etf_options_warning });
   }
   for (const s of (section.stocks || [])) {
     rows.push({ symbol: s.symbol, name: s.name || '', isEtf: false, optionsWarning: !!s.options_warning });

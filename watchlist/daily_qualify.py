@@ -24,7 +24,7 @@ import filter as _filter
 @dataclass(frozen=True)
 class Candidate:
     symbol: str
-    name: str  # "" for the ETF itself (we don't fetch ETF names)
+    name: str
 
 
 @dataclass(frozen=True)
@@ -127,6 +127,7 @@ def assemble_watchlist_payload(
         ]
         section = {
             "etf": b.etf,
+            "etf_name": b.candidates[0].name if b.candidates else "",
             "tier": b.tier,
             "return_pct": b.return_pct,
             "spy_return_pct": b.spy_return_pct,
