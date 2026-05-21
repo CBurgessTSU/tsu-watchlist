@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-05-20T19:41:22.329389-04:00",
+  "generated_at": "2026-05-21T19:50:33.477871-04:00",
   "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
   "core_sectors": [
     {
       "etf": "SMH",
+      "etf_name": "VanEck Semiconductor ETF",
       "tier": "absolute_relative",
       "return_pct": 22.33,
       "spy_return_pct": 5.35,
@@ -46,11 +47,6 @@
           "options_warning": false
         },
         {
-          "symbol": "ADI",
-          "name": "Analog Devices, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
           "options_warning": false
@@ -59,6 +55,7 @@
     },
     {
       "etf": "TAN",
+      "etf_name": "Invesco Solar ETF",
       "tier": "absolute_relative",
       "return_pct": 19.21,
       "spy_return_pct": 5.35,
@@ -71,19 +68,9 @@
           "options_warning": false
         },
         {
-          "symbol": "NXT",
-          "name": "Nextpower Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "ENPH",
           "name": "Enphase Energy, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "ENLT",
-          "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
         },
         {
           "symbol": "SEDG",
@@ -94,6 +81,7 @@
     },
     {
       "etf": "PBW",
+      "etf_name": "Invesco WilderHill Clean Energy ETF",
       "tier": "absolute_relative",
       "return_pct": 16.81,
       "spy_return_pct": 5.35,
@@ -131,19 +119,20 @@
           "options_warning": true
         },
         {
-          "symbol": "SHLS",
-          "name": "Shoals Technologies Group, Inc.",
+          "symbol": "ASPN",
+          "name": "Aspen Aerogels, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LAR",
-          "name": "Lithium Argentina AG",
+          "symbol": "SHLS",
+          "name": "Shoals Technologies Group, Inc.",
           "options_warning": false
         }
       ]
     },
     {
       "etf": "XLK",
+      "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
       "return_pct": 15.95,
       "spy_return_pct": 5.35,
@@ -194,6 +183,7 @@
     },
     {
       "etf": "BITQ",
+      "etf_name": "Bitwise Crypto Industry Innovators ETF",
       "tier": "absolute_relative",
       "return_pct": 11.63,
       "spy_return_pct": 5.35,
@@ -216,13 +206,18 @@
           "options_warning": false
         },
         {
+          "symbol": "WULF",
+          "name": "TeraWulf Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "CORZ",
           "name": "Core Scientific, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "WULF",
-          "name": "TeraWulf Inc.",
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -239,6 +234,7 @@
     },
     {
       "etf": "MARS",
+      "etf_name": "Roundhill Space & Technology ETF",
       "tier": "absolute_relative",
       "return_pct": 10.75,
       "spy_return_pct": 5.35,
@@ -251,8 +247,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PL",
-          "name": "Planet Labs PBC",
+          "symbol": "SATS",
+          "name": "EchoStar Corporation",
           "options_warning": false
         },
         {
@@ -269,6 +265,7 @@
     },
     {
       "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
       "return_pct": 8.8,
       "spy_return_pct": 5.35,
@@ -278,11 +275,12 @@
     },
     {
       "etf": "OIH",
+      "etf_name": "VanEck Oil Services ETF",
       "tier": "absolute_relative",
       "return_pct": 8.07,
       "spy_return_pct": 5.35,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "NYSE:HAL",
@@ -298,16 +296,12 @@
           "symbol": "VAL",
           "name": "Valaris Limited",
           "options_warning": false
-        },
-        {
-          "symbol": "SEI",
-          "name": "Solaris Energy Infrastructure, Inc.",
-          "options_warning": true
         }
       ]
     },
     {
       "etf": "XLE",
+      "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute",
       "return_pct": 5.05,
       "spy_return_pct": 5.35,
@@ -320,16 +314,6 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
           "options_warning": false
@@ -338,16 +322,12 @@
           "symbol": "PSX",
           "name": "Phillips 66",
           "options_warning": false
-        },
-        {
-          "symbol": "KMI",
-          "name": "Kinder Morgan, Inc.",
-          "options_warning": false
         }
       ]
     },
     {
       "etf": "XLP",
+      "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
       "tier": "absolute",
       "return_pct": 3.94,
       "spy_return_pct": 5.35,
@@ -395,6 +375,7 @@
   "honorable_mentions": [
     {
       "etf": "FFTY",
+      "etf_name": "CapForce IBD 50 ETF",
       "tier": "honorary",
       "return_pct": 13.49,
       "spy_return_pct": 5.35,
@@ -402,39 +383,45 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "SITM",
-          "name": "SiTime Corporation",
+          "symbol": "ECO",
+          "name": "Okeanis Eco Tankers Corp.",
           "options_warning": true
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "WT",
+          "name": "WisdomTree, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BE",
-          "name": "Bloom Energy Corporation",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "VRT",
+          "name": "Vertiv Holdings Co",
           "options_warning": false
         },
         {
           "symbol": "FIX",
           "name": "Comfort Systems USA, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ANAB",
-          "name": "AnaptysBio, Inc.",
-          "options_warning": true
         }
       ]
     },
     {
       "etf": "BUZZ",
+      "etf_name": "VanEck Social Sentiment ETF",
       "tier": "honorary",
       "return_pct": 8.49,
       "spy_return_pct": 5.35,
@@ -442,23 +429,23 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "INTC",
           "name": "Intel Corporation",
           "options_warning": false
         },
         {
-          "symbol": "APLD",
-          "name": "Applied Digital Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
           "symbol": "NBIS",
           "name": "Nebius Group N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "APLD",
+          "name": "Applied Digital Corporation",
           "options_warning": false
         },
         {
@@ -480,11 +467,17 @@
           "symbol": "TSLA",
           "name": "Tesla, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
+          "options_warning": false
         }
       ]
     },
     {
       "etf": "MAGS",
+      "etf_name": "Roundhill Magnificent Seven ETF",
       "tier": "honorary",
       "return_pct": 6.94,
       "spy_return_pct": 5.35,

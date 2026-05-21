@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T19:41:22.329389-04:00",
+  "generated_at": "2026-05-21T19:50:33.477871-04:00",
   "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
   "core_sectors": [
     {
@@ -47,11 +47,6 @@
           "options_warning": false
         },
         {
-          "symbol": "ADI",
-          "name": "Analog Devices, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
           "options_warning": false
@@ -73,19 +68,9 @@
           "options_warning": false
         },
         {
-          "symbol": "NXT",
-          "name": "Nextpower Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "ENPH",
           "name": "Enphase Energy, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "ENLT",
-          "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
         },
         {
           "symbol": "SEDG",
@@ -134,13 +119,13 @@
           "options_warning": true
         },
         {
-          "symbol": "SHLS",
-          "name": "Shoals Technologies Group, Inc.",
+          "symbol": "ASPN",
+          "name": "Aspen Aerogels, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LAR",
-          "name": "Lithium Argentina AG",
+          "symbol": "SHLS",
+          "name": "Shoals Technologies Group, Inc.",
           "options_warning": false
         }
       ]
@@ -221,13 +206,18 @@
           "options_warning": false
         },
         {
+          "symbol": "WULF",
+          "name": "TeraWulf Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "CORZ",
           "name": "Core Scientific, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "WULF",
-          "name": "TeraWulf Inc.",
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -257,8 +247,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PL",
-          "name": "Planet Labs PBC",
+          "symbol": "SATS",
+          "name": "EchoStar Corporation",
           "options_warning": false
         },
         {
@@ -289,8 +279,8 @@
       "tier": "absolute_relative",
       "return_pct": 8.07,
       "spy_return_pct": 5.35,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "NYSE:HAL",
@@ -306,11 +296,6 @@
           "symbol": "VAL",
           "name": "Valaris Limited",
           "options_warning": false
-        },
-        {
-          "symbol": "SEI",
-          "name": "Solaris Energy Infrastructure, Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -329,16 +314,6 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
           "options_warning": false
@@ -346,11 +321,6 @@
         {
           "symbol": "PSX",
           "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "KMI",
-          "name": "Kinder Morgan, Inc.",
           "options_warning": false
         }
       ]
@@ -413,33 +383,38 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "SITM",
-          "name": "SiTime Corporation",
+          "symbol": "ECO",
+          "name": "Okeanis Eco Tankers Corp.",
           "options_warning": true
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "WT",
+          "name": "WisdomTree, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BE",
-          "name": "Bloom Energy Corporation",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "VRT",
+          "name": "Vertiv Holdings Co",
           "options_warning": false
         },
         {
           "symbol": "FIX",
           "name": "Comfort Systems USA, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ANAB",
-          "name": "AnaptysBio, Inc.",
           "options_warning": true
         }
       ]
@@ -454,23 +429,23 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "INTC",
           "name": "Intel Corporation",
           "options_warning": false
         },
         {
-          "symbol": "APLD",
-          "name": "Applied Digital Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
           "symbol": "NBIS",
           "name": "Nebius Group N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "APLD",
+          "name": "Applied Digital Corporation",
           "options_warning": false
         },
         {
@@ -491,6 +466,11 @@
         {
           "symbol": "TSLA",
           "name": "Tesla, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
           "options_warning": false
         }
       ]
