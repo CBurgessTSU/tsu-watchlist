@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:40:26.935068-04:00",
+  "generated_at": "2026-05-23T19:45:34.589403-04:00",
   "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
   "core_sectors": [
     {
@@ -8,17 +8,52 @@
       "tier": "absolute_relative",
       "return_pct": 22.33,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "TSM",
           "name": "Taiwan Semiconductor Manufacturing Company Limited",
           "options_warning": false
         },
         {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "TXN",
           "name": "Texas Instruments Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "QCOM",
+          "name": "QUALCOMM Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding N.V.",
           "options_warning": false
         }
       ]
@@ -33,8 +68,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NXT",
-          "name": "Nextpower Inc.",
+          "symbol": "FSLR",
+          "name": "First Solar, Inc.",
           "options_warning": false
         },
         {
@@ -43,18 +78,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ENLT",
-          "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
+          "symbol": "NXT",
+          "name": "Nextpower Inc.",
+          "options_warning": false
         },
         {
           "symbol": "SEDG",
           "name": "SolarEdge Technologies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "HASI",
-          "name": "HA Sustainable Infrastructure Capital, Inc.",
           "options_warning": false
         }
       ]
@@ -65,18 +95,48 @@
       "tier": "absolute_relative",
       "return_pct": 16.81,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
+        {
+          "symbol": "NVTS",
+          "name": "Navitas Semiconductor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "HYLN",
+          "name": "Hyliion Holdings Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BE",
+          "name": "Bloom Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "BLDP",
+          "name": "Ballard Power Systems Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASPN",
+          "name": "Aspen Aerogels, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PLUG",
+          "name": "Plug Power Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "MYRG",
           "name": "MYR Group Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "SHLS",
-          "name": "Shoals Technologies Group, Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -86,17 +146,42 @@
       "tier": "absolute_relative",
       "return_pct": 15.95,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "AAPL",
           "name": "Apple Inc.",
           "options_warning": false
         },
         {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         },
         {
@@ -112,12 +197,47 @@
       "tier": "absolute_relative",
       "return_pct": 11.63,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
+        {
+          "symbol": "IREN",
+          "name": "IREN Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RIOT",
+          "name": "Riot Platforms, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CORZ",
+          "name": "Core Scientific, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "WULF",
           "name": "TeraWulf Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CIFR",
+          "name": "Cipher Digital Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GLXY",
+          "name": "Galaxy Digital Inc.",
           "options_warning": false
         }
       ]
@@ -132,8 +252,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "OHB.GR",
-          "name": "OHB SE",
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "GSAT",
+          "name": "Globalstar, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LUNR",
+          "name": "Intuitive Machines, Inc.",
           "options_warning": false
         }
       ]
@@ -154,27 +284,12 @@
       "tier": "absolute_relative",
       "return_pct": 8.07,
       "spy_return_pct": 5.35,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BKR",
-          "name": "Baker Hughes Company",
-          "options_warning": false
-        },
         {
           "symbol": "NYSE:HAL",
           "name": "Halliburton Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "TS",
-          "name": "Tenaris S.A.",
           "options_warning": false
         },
         {
@@ -186,11 +301,6 @@
           "symbol": "VAL",
           "name": "Valaris Limited",
           "options_warning": false
-        },
-        {
-          "symbol": "LBRT",
-          "name": "Liberty Energy Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -200,7 +310,7 @@
       "tier": "absolute",
       "return_pct": 5.05,
       "spy_return_pct": 5.35,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -209,33 +319,8 @@
           "options_warning": false
         },
         {
-          "symbol": "CVX",
-          "name": "Chevron Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "COP",
-          "name": "ConocoPhillips",
-          "options_warning": false
-        },
-        {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
           "symbol": "WMB",
           "name": "The Williams Companies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -265,18 +350,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "WMT",
-          "name": "Walmart Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "COST",
           "name": "Costco Wholesale Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PG",
-          "name": "The Procter & Gamble Company",
           "options_warning": false
         },
         {
@@ -295,13 +370,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CL",
-          "name": "Colgate-Palmolive Company",
+          "symbol": "MDLZ",
+          "name": "Mondelez International, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PEP",
-          "name": "PepsiCo, Inc.",
+          "symbol": "CL",
+          "name": "Colgate-Palmolive Company",
           "options_warning": false
         },
         {
@@ -319,12 +394,42 @@
       "tier": "honorary",
       "return_pct": 13.49,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "ECO",
           "name": "Okeanis Eco Tankers Corp.",
+          "options_warning": true
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WT",
+          "name": "WisdomTree, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FIX",
+          "name": "Comfort Systems USA, Inc.",
           "options_warning": true
         },
         {
@@ -336,11 +441,6 @@
           "symbol": "VRT",
           "name": "Vertiv Holdings Co",
           "options_warning": false
-        },
-        {
-          "symbol": "FIX",
-          "name": "Comfort Systems USA, Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -350,9 +450,55 @@
       "tier": "honorary",
       "return_pct": 8.49,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "APLD",
+          "name": "Applied Digital Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "NBIS",
+          "name": "Nebius Group N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "IREN",
+          "name": "IREN Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "MAGS",
@@ -360,9 +506,19 @@
       "tier": "honorary",
       "return_pct": 6.94,
       "spy_return_pct": 5.35,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "AAPL",
           "name": "Apple Inc.",
