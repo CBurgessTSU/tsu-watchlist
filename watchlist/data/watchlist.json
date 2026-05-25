@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T21:12:53.746359-04:00",
+  "generated_at": "2026-05-25T19:42:48.066069-04:00",
   "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
   "core_sectors": [
     {
@@ -301,6 +301,11 @@
           "symbol": "VAL",
           "name": "Valaris Limited",
           "options_warning": false
+        },
+        {
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -433,11 +438,6 @@
           "options_warning": true
         },
         {
-          "symbol": "AGX",
-          "name": "Argan, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "VRT",
           "name": "Vertiv Holdings Co",
           "options_warning": false
@@ -510,13 +510,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
+          "symbol": "AMZN",
+          "name": "Amazon.com, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AMZN",
-          "name": "Amazon.com, Inc.",
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
           "options_warning": false
         },
         {
