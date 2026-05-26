@@ -1,13 +1,90 @@
 {
-  "generated_at": "2026-05-25T19:42:48.066069-04:00",
-  "sectors_frozen_at": "2026-05-16T10:56:07.330046-04:00",
+  "generated_at": "2026-05-26T11:57:56.715544-04:00",
+  "sectors_frozen_at": "2026-05-26T10:48:57.405488-04:00",
   "core_sectors": [
+    {
+      "etf": "MARS",
+      "etf_name": "Roundhill Space & Technology ETF",
+      "tier": "absolute_relative",
+      "return_pct": 47.92941562705187,
+      "spy_return_pct": 5.291761212426804,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "GSAT",
+          "name": "Globalstar, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LUNR",
+          "name": "Intuitive Machines, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "PBW",
+      "etf_name": "Invesco WilderHill Clean Energy ETF",
+      "tier": "absolute_relative",
+      "return_pct": 20.684082951791005,
+      "spy_return_pct": 5.291761212426804,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "NVTS",
+          "name": "Navitas Semiconductor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "HYLN",
+          "name": "Hyliion Holdings Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BE",
+          "name": "Bloom Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "BLDP",
+          "name": "Ballard Power Systems Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "IONQ",
+          "name": "IonQ, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASPN",
+          "name": "Aspen Aerogels, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PLUG",
+          "name": "Plug Power Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MYRG",
+          "name": "MYR Group Inc.",
+          "options_warning": true
+        }
+      ]
+    },
     {
       "etf": "SMH",
       "etf_name": "VanEck Semiconductor ETF",
       "tier": "absolute_relative",
-      "return_pct": 22.33,
-      "spy_return_pct": 5.35,
+      "return_pct": 19.147381723402578,
+      "spy_return_pct": 5.291761212426804,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -62,8 +139,8 @@
       "etf": "TAN",
       "etf_name": "Invesco Solar ETF",
       "tier": "absolute_relative",
-      "return_pct": 19.21,
-      "spy_return_pct": 5.35,
+      "return_pct": 17.146776406035656,
+      "spy_return_pct": 5.291761212426804,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -90,62 +167,11 @@
       ]
     },
     {
-      "etf": "PBW",
-      "etf_name": "Invesco WilderHill Clean Energy ETF",
-      "tier": "absolute_relative",
-      "return_pct": 16.81,
-      "spy_return_pct": 5.35,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "NVTS",
-          "name": "Navitas Semiconductor Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "HYLN",
-          "name": "Hyliion Holdings Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BE",
-          "name": "Bloom Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "BLDP",
-          "name": "Ballard Power Systems Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASPN",
-          "name": "Aspen Aerogels, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PLUG",
-          "name": "Plug Power Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MYRG",
-          "name": "MYR Group Inc.",
-          "options_warning": true
-        }
-      ]
-    },
-    {
       "etf": "XLK",
       "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 15.95,
-      "spy_return_pct": 5.35,
+      "return_pct": 15.946823118212471,
+      "spy_return_pct": 5.291761212426804,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -195,8 +221,8 @@
       "etf": "BITQ",
       "etf_name": "Bitwise Crypto Industry Innovators ETF",
       "tier": "absolute_relative",
-      "return_pct": 11.63,
-      "spy_return_pct": 5.35,
+      "return_pct": 13.086017121891548,
+      "spy_return_pct": 5.291761212426804,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -243,11 +269,79 @@
       ]
     },
     {
-      "etf": "MARS",
-      "etf_name": "Roundhill Space & Technology ETF",
+      "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
-      "return_pct": 10.75,
-      "spy_return_pct": 5.35,
+      "return_pct": 11.021126760563371,
+      "spy_return_pct": 5.291761212426804,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "APP",
+          "name": "AppLovin Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "JETS",
+      "etf_name": "U.S. Global Jets ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.499999999999996,
+      "spy_return_pct": 5.291761212426804,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AAL",
+          "name": "American Airlines Group Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ULCC",
+          "name": "Frontier Group Holdings, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IYZ",
+      "etf_name": "iShares U.S. Telecommunications ETF",
+      "tier": "absolute_relative",
+      "return_pct": 6.373365041617118,
+      "spy_return_pct": 5.291761212426804,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "IRDM",
+          "name": "Iridium Communications Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ROKU",
+          "name": "Roku, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "ITA",
+      "etf_name": "iShares U.S. Aerospace & Defense ETF",
+      "tier": "absolute_relative",
+      "return_pct": 6.360055607043558,
+      "spy_return_pct": 5.291761212426804,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
@@ -257,199 +351,25 @@
           "options_warning": false
         },
         {
-          "symbol": "GSAT",
-          "name": "Globalstar, Inc.",
+          "symbol": "HWM",
+          "name": "Howmet Aerospace Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LUNR",
-          "name": "Intuitive Machines, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "IGV",
-      "etf_name": "iShares Expanded Tech-Software Sector ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.8,
-      "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
-      "etf": "OIH",
-      "etf_name": "VanEck Oil Services ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.07,
-      "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "NYSE:HAL",
-          "name": "Halliburton Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "RIG",
-          "name": "Transocean Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VAL",
-          "name": "Valaris Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "SEI",
-          "name": "Solaris Energy Infrastructure, Inc.",
+          "symbol": "GD",
+          "name": "General Dynamics Corporation",
           "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "XLE",
-      "etf_name": "State Street Energy Select Sector SPDR ETF",
-      "tier": "absolute",
-      "return_pct": 5.05,
-      "spy_return_pct": 5.35,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "XOM",
-          "name": "Exxon Mobil Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "WMB",
-          "name": "The Williams Companies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "KMI",
-          "name": "Kinder Morgan, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLP",
-      "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
-      "tier": "absolute",
-      "return_pct": 3.94,
-      "spy_return_pct": 5.35,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "COST",
-          "name": "Costco Wholesale Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "KO",
-          "name": "The Coca-Cola Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "PM",
-          "name": "Philip Morris International Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MO",
-          "name": "Altria Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MDLZ",
-          "name": "Mondelez International, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CL",
-          "name": "Colgate-Palmolive Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "MNST",
-          "name": "Monster Beverage Corporation",
-          "options_warning": false
         }
       ]
     }
   ],
   "honorable_mentions": [
     {
-      "etf": "FFTY",
-      "etf_name": "CapForce IBD 50 ETF",
-      "tier": "honorary",
-      "return_pct": 13.49,
-      "spy_return_pct": 5.35,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "ECO",
-          "name": "Okeanis Eco Tankers Corp.",
-          "options_warning": true
-        },
-        {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "WT",
-          "name": "WisdomTree, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SEI",
-          "name": "Solaris Energy Infrastructure, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FIX",
-          "name": "Comfort Systems USA, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "VRT",
-          "name": "Vertiv Holdings Co",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "BUZZ",
       "etf_name": "VanEck Social Sentiment ETF",
       "tier": "honorary",
-      "return_pct": 8.49,
-      "spy_return_pct": 5.35,
+      "return_pct": 13.12481730488162,
+      "spy_return_pct": 5.291761212426804,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -501,27 +421,47 @@
       ]
     },
     {
-      "etf": "MAGS",
-      "etf_name": "Roundhill Magnificent Seven ETF",
+      "etf": "FFTY",
+      "etf_name": "CapForce IBD 50 ETF",
       "tier": "honorary",
-      "return_pct": 6.94,
-      "spy_return_pct": 5.35,
+      "return_pct": 8.627968337730874,
+      "spy_return_pct": 5.291761212426804,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "AMZN",
-          "name": "Amazon.com, Inc.",
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         },
         {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
+          "symbol": "WT",
+          "name": "WisdomTree, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FIX",
+          "name": "Comfort Systems USA, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "VRT",
+          "name": "Vertiv Holdings Co",
           "options_warning": false
         }
       ]
