@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T11:57:56.715544-04:00",
+  "generated_at": "2026-05-26T20:39:40.120471-04:00",
   "sectors_frozen_at": "2026-05-26T10:48:57.405488-04:00",
   "core_sectors": [
     {
@@ -114,13 +114,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
+          "symbol": "QCOM",
+          "name": "QUALCOMM Incorporated",
           "options_warning": false
         },
         {
-          "symbol": "QCOM",
-          "name": "QUALCOMM Incorporated",
+          "symbol": "TXN",
+          "name": "Texas Instruments Incorporated",
           "options_warning": false
         },
         {
@@ -281,6 +281,11 @@
           "symbol": "APP",
           "name": "AppLovin Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "CDNS",
+          "name": "Cadence Design Systems, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -322,6 +327,11 @@
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc.",
           "options_warning": false
         },
         {
@@ -458,11 +468,6 @@
           "symbol": "FIX",
           "name": "Comfort Systems USA, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "VRT",
-          "name": "Vertiv Holdings Co",
-          "options_warning": false
         }
       ]
     }
