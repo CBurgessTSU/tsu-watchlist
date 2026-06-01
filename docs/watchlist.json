@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T10:14:21.603792-04:00",
+  "generated_at": "2026-05-31T21:40:06.785288-04:00",
   "sectors_frozen_at": "2026-05-30T08:13:47.092798-04:00",
   "core_sectors": [
     {
@@ -170,13 +170,13 @@
           "options_warning": false
         },
         {
-          "symbol": "BE",
-          "name": "Bloom Energy Corporation",
+          "symbol": "IONQ",
+          "name": "IonQ, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ASPN",
-          "name": "Aspen Aerogels, Inc.",
+          "symbol": "BE",
+          "name": "Bloom Energy Corporation",
           "options_warning": false
         },
         {
@@ -185,19 +185,19 @@
           "options_warning": false
         },
         {
-          "symbol": "IONQ",
-          "name": "IonQ, Inc.",
+          "symbol": "ASPN",
+          "name": "Aspen Aerogels, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "QBTS",
+          "name": "D-Wave Quantum Inc.",
           "options_warning": false
         },
         {
           "symbol": "PLUG",
           "name": "Plug Power Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "MYRG",
-          "name": "MYR Group Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -497,11 +497,6 @@
         {
           "symbol": "LQDA",
           "name": "Liquidia Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
         }
       ]
