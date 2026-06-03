@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:01:48.377910-04:00",
+  "generated_at": "2026-06-03T19:51:59.127443-04:00",
   "sectors_frozen_at": "2026-05-30T08:13:47.092798-04:00",
   "core_sectors": [
     {
@@ -24,16 +24,6 @@
         {
           "symbol": "LUNR",
           "name": "Intuitive Machines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VSAT",
-          "name": "Viasat, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GSAT",
-          "name": "Globalstar, Inc.",
           "options_warning": false
         },
         {
@@ -78,11 +68,6 @@
           "options_warning": false
         },
         {
-          "symbol": "RUN",
-          "name": "Sunrun Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "SHLS",
           "name": "Shoals Technologies Group, Inc.",
           "options_warning": false
@@ -114,13 +99,13 @@
           "options_warning": false
         },
         {
-          "symbol": "WULF",
-          "name": "TeraWulf Inc.",
+          "symbol": "CORZ",
+          "name": "Core Scientific, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CORZ",
-          "name": "Core Scientific, Inc.",
+          "symbol": "WULF",
+          "name": "TeraWulf Inc.",
           "options_warning": false
         },
         {
@@ -165,11 +150,6 @@
           "options_warning": false
         },
         {
-          "symbol": "BE",
-          "name": "Bloom Energy Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "SHLS",
           "name": "Shoals Technologies Group, Inc.",
           "options_warning": false
@@ -180,13 +160,18 @@
           "options_warning": false
         },
         {
+          "symbol": "BE",
+          "name": "Bloom Energy Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "QBTS",
           "name": "D-Wave Quantum Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PLUG",
-          "name": "Plug Power Inc.",
+          "symbol": "FLNC",
+          "name": "Fluence Energy, Inc.",
           "options_warning": false
         }
       ]
@@ -197,12 +182,17 @@
       "tier": "absolute_relative",
       "return_pct": 20.3077,
       "spy_return_pct": 6.3099,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "PANW",
           "name": "Palo Alto Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -213,7 +203,7 @@
         {
           "symbol": "CDNS",
           "name": "Cadence Design Systems, Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -239,6 +229,11 @@
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc.",
           "options_warning": false
         },
         {
@@ -285,6 +280,11 @@
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc.",
           "options_warning": false
         },
         {
@@ -342,6 +342,11 @@
           "symbol": "ULCC",
           "name": "Frontier Group Holdings, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "ALGT",
+          "name": "Allegiant Travel Company",
+          "options_warning": true
         }
       ]
     },
@@ -357,6 +362,11 @@
         {
           "symbol": "HBM",
           "name": "Hudbay Minerals Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TECK",
+          "name": "Teck Resources Limited",
           "options_warning": false
         },
         {
@@ -404,11 +414,6 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "SMCI",
           "name": "Super Micro Computer, Inc.",
           "options_warning": false
@@ -416,6 +421,16 @@
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASTS",
+          "name": "AST SpaceMobile, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NBIS",
+          "name": "Nebius Group N.V.",
           "options_warning": false
         },
         {
@@ -450,18 +465,28 @@
           "options_warning": false
         },
         {
-          "symbol": "ALAB",
-          "name": "Astera Labs, Inc.",
+          "symbol": "INOD",
+          "name": "Innodata Inc.",
           "options_warning": false
         },
         {
-          "symbol": "RKLB",
-          "name": "Rocket Lab Corporation",
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRDO",
+          "name": "Credo Technology Group Holding Ltd",
           "options_warning": false
         },
         {
           "symbol": "LQDA",
           "name": "Liquidia Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
           "options_warning": false
         }
       ]
@@ -476,6 +501,11 @@
       "etf_options_warning": true,
       "stocks": [
         {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
           "options_warning": false
@@ -488,6 +518,11 @@
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "XOM",
+          "name": "Exxon Mobil Corporation",
           "options_warning": false
         }
       ]
