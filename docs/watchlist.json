@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T19:48:40.625615-04:00",
+  "generated_at": "2026-06-02T22:01:48.377910-04:00",
   "sectors_frozen_at": "2026-05-30T08:13:47.092798-04:00",
   "core_sectors": [
     {
@@ -32,13 +32,13 @@
           "options_warning": false
         },
         {
-          "symbol": "RDW",
-          "name": "Redwire Corporation",
+          "symbol": "GSAT",
+          "name": "Globalstar, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "GSAT",
-          "name": "Globalstar, Inc.",
+          "symbol": "RDW",
+          "name": "Redwire Corporation",
           "options_warning": false
         }
       ]
@@ -58,13 +58,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ENPH",
-          "name": "Enphase Energy, Inc.",
+          "symbol": "NXT",
+          "name": "Nextpower Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NXT",
-          "name": "Nextpower Inc.",
+          "symbol": "ENPH",
+          "name": "Enphase Energy, Inc.",
           "options_warning": false
         },
         {
@@ -201,8 +201,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "ORCL",
-          "name": "Oracle Corporation",
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
           "options_warning": false
         },
         {
@@ -247,11 +247,6 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
           "options_warning": false
@@ -259,11 +254,6 @@
         {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -288,18 +278,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
         },
         {
@@ -366,7 +351,7 @@
       "tier": "absolute_relative",
       "return_pct": 13.3925,
       "spy_return_pct": 6.3099,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -442,11 +427,6 @@
           "symbol": "IREN",
           "name": "IREN Limited",
           "options_warning": false
-        },
-        {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
         }
       ]
     },
@@ -508,11 +488,6 @@
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
