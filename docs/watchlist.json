@@ -1,187 +1,13 @@
 {
-  "generated_at": "2026-06-03T19:51:59.127443-04:00",
-  "sectors_frozen_at": "2026-05-30T08:13:47.092798-04:00",
+  "generated_at": "2026-06-06T20:01:35.853104-04:00",
+  "sectors_frozen_at": "2026-06-06T09:10:55.216330-04:00",
   "core_sectors": [
-    {
-      "etf": "MARS",
-      "etf_name": "Roundhill Space & Technology ETF",
-      "tier": "absolute_relative",
-      "return_pct": 47.3937,
-      "spy_return_pct": 6.3099,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "RKLB",
-          "name": "Rocket Lab Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "LUNR",
-          "name": "Intuitive Machines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RDW",
-          "name": "Redwire Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "TAN",
-      "etf_name": "Invesco Solar ETF",
-      "tier": "absolute_relative",
-      "return_pct": 31.7356,
-      "spy_return_pct": 6.3099,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "FSLR",
-          "name": "First Solar, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NXT",
-          "name": "Nextpower Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ENPH",
-          "name": "Enphase Energy, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ENLT",
-          "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
-        },
-        {
-          "symbol": "SEDG",
-          "name": "SolarEdge Technologies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SHLS",
-          "name": "Shoals Technologies Group, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "BITQ",
-      "etf_name": "Bitwise Crypto Industry Innovators ETF",
-      "tier": "absolute_relative",
-      "return_pct": 26.3693,
-      "spy_return_pct": 6.3099,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "IREN",
-          "name": "IREN Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RIOT",
-          "name": "Riot Platforms, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CORZ",
-          "name": "Core Scientific, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "WULF",
-          "name": "TeraWulf Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CIFR",
-          "name": "Cipher Digital Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MARA",
-          "name": "MARA Holdings, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "PBW",
-      "etf_name": "Invesco WilderHill Clean Energy ETF",
-      "tier": "absolute_relative",
-      "return_pct": 24.0898,
-      "spy_return_pct": 6.3099,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "HYLN",
-          "name": "Hyliion Holdings Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NVTS",
-          "name": "Navitas Semiconductor Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "BLDP",
-          "name": "Ballard Power Systems Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "IONQ",
-          "name": "IonQ, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SHLS",
-          "name": "Shoals Technologies Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASPN",
-          "name": "Aspen Aerogels, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BE",
-          "name": "Bloom Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "QBTS",
-          "name": "D-Wave Quantum Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FLNC",
-          "name": "Fluence Energy, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
     {
       "etf": "IGV",
       "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
-      "return_pct": 20.3077,
-      "spy_return_pct": 6.3099,
+      "return_pct": 9.143701670691451,
+      "spy_return_pct": 0.5069253936868634,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
@@ -203,7 +29,28 @@
         {
           "symbol": "CDNS",
           "name": "Cadence Design Systems, Inc.",
-          "options_warning": true
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "MARS",
+      "etf_name": "Roundhill Space & Technology ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.037674836047358,
+      "spy_return_pct": 0.5069253936868634,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "ASTS",
+          "name": "AST SpaceMobile, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RDW",
+          "name": "Redwire Corporation",
+          "options_warning": false
         }
       ]
     },
@@ -211,16 +58,11 @@
       "etf": "XLK",
       "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 20.0553,
-      "spy_return_pct": 6.3099,
+      "return_pct": 6.0401131248560835,
+      "spy_return_pct": 0.5069253936868634,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
         {
           "symbol": "AAPL",
           "name": "Apple Inc.",
@@ -229,11 +71,6 @@
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AVGO",
-          "name": "Broadcom Inc.",
           "options_warning": false
         },
         {
@@ -254,19 +91,117 @@
       ]
     },
     {
-      "etf": "SMH",
-      "etf_name": "VanEck Semiconductor ETF",
+      "etf": "TAN",
+      "etf_name": "Invesco Solar ETF",
       "tier": "absolute_relative",
-      "return_pct": 19.8867,
-      "spy_return_pct": 6.3099,
+      "return_pct": 5.920293961940581,
+      "spy_return_pct": 0.5069253936868634,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
+          "symbol": "FSLR",
+          "name": "First Solar, Inc.",
           "options_warning": false
         },
+        {
+          "symbol": "NXT",
+          "name": "Nextpower Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "ENPH",
+          "name": "Enphase Energy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SEDG",
+          "name": "SolarEdge Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SHLS",
+          "name": "Shoals Technologies Group, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLV",
+      "etf_name": "State Street Health Care Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.2338383286105294,
+      "spy_return_pct": 0.5069253936868634,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson",
+          "options_warning": false
+        },
+        {
+          "symbol": "ABBV",
+          "name": "AbbVie Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRK",
+          "name": "Merck & Co., Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IYT",
+      "etf_name": "iShares US Transportation ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.676020068084007,
+      "spy_return_pct": 0.5069253936868634,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "FDX",
+          "name": "FedEx Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ODFL",
+          "name": "Old Dominion Freight Line, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UAL",
+          "name": "United Airlines Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CSX",
+          "name": "CSX Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "SMH",
+      "etf_name": "VanEck Semiconductor ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.625216880412574,
+      "spy_return_pct": 0.5069253936868634,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
         {
           "symbol": "TSM",
           "name": "Taiwan Semiconductor Manufacturing Company Limited",
@@ -283,18 +218,8 @@
           "options_warning": false
         },
         {
-          "symbol": "AVGO",
-          "name": "Broadcom Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "QCOM",
           "name": "QUALCOMM Incorporated",
-          "options_warning": false
-        },
-        {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
           "options_warning": false
         },
         {
@@ -303,9 +228,25 @@
           "options_warning": false
         },
         {
-          "symbol": "KLAC",
-          "name": "KLA Corporation",
-          "options_warning": true
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "ITA",
+      "etf_name": "iShares U.S. Aerospace & Defense ETF",
+      "tier": "absolute_relative",
+      "return_pct": 2.698952120990139,
+      "spy_return_pct": 0.5069253936868634,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "GE",
+          "name": "GE Aerospace",
+          "options_warning": false
         }
       ]
     },
@@ -313,8 +254,8 @@
       "etf": "JETS",
       "etf_name": "U.S. Global Jets ETF",
       "tier": "absolute_relative",
-      "return_pct": 17.6093,
-      "spy_return_pct": 6.3099,
+      "return_pct": 2.569753189504964,
+      "spy_return_pct": 0.5069253936868634,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -351,53 +292,22 @@
       ]
     },
     {
-      "etf": "COPX",
-      "etf_name": "Global X Copper Miners ETF",
+      "etf": "FDN",
+      "etf_name": "First Trust Dow Jones Internet Index Fund",
       "tier": "absolute_relative",
-      "return_pct": 13.3925,
-      "spy_return_pct": 6.3099,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "HBM",
-          "name": "Hudbay Minerals Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TECK",
-          "name": "Teck Resources Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "NYSE:BHP",
-          "name": "BHP Group Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "SCCO",
-          "name": "Southern Copper Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "ITA",
-      "etf_name": "iShares U.S. Aerospace & Defense ETF",
-      "tier": "absolute_relative",
-      "return_pct": 10.4626,
-      "spy_return_pct": 6.3099,
+      "return_pct": 1.8474194199121108,
+      "spy_return_pct": 0.5069253936868634,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "GE",
-          "name": "GE Aerospace",
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "RKLB",
-          "name": "Rocket Lab Corporation",
+          "symbol": "NET",
+          "name": "Cloudflare, Inc.",
           "options_warning": false
         }
       ]
@@ -405,106 +315,14 @@
   ],
   "honorable_mentions": [
     {
-      "etf": "BUZZ",
-      "etf_name": "VanEck Social Sentiment ETF",
-      "tier": "honorary",
-      "return_pct": 21.8882,
-      "spy_return_pct": 6.3099,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NBIS",
-          "name": "Nebius Group N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "IREN",
-          "name": "IREN Limited",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "FFTY",
-      "etf_name": "CapForce IBD 50 ETF",
-      "tier": "honorary",
-      "return_pct": 11.776,
-      "spy_return_pct": 6.3099,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "INOD",
-          "name": "Innodata Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CRDO",
-          "name": "Credo Technology Group Holding Ltd",
-          "options_warning": false
-        },
-        {
-          "symbol": "LQDA",
-          "name": "Liquidia Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "XMAG",
       "etf_name": "Defiance Large Cap ex-Mag 7 ETF",
       "tier": "honorary",
-      "return_pct": 6.5347,
-      "spy_return_pct": 6.3099,
+      "return_pct": 1.8357309919395437,
+      "spy_return_pct": 0.5069253936868634,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "AVGO",
-          "name": "Broadcom Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
@@ -521,8 +339,8 @@
           "options_warning": false
         },
         {
-          "symbol": "XOM",
-          "name": "Exxon Mobil Corporation",
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson",
           "options_warning": false
         }
       ]
