@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T20:01:35.853104-04:00",
+  "generated_at": "2026-06-08T19:42:40.801644-04:00",
   "sectors_frozen_at": "2026-06-06T09:10:55.216330-04:00",
   "core_sectors": [
     {
@@ -29,7 +29,7 @@
         {
           "symbol": "CDNS",
           "name": "Cadence Design Systems, Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -43,8 +43,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
           "options_warning": false
         },
         {
@@ -96,7 +96,7 @@
       "tier": "absolute_relative",
       "return_pct": 5.920293961940581,
       "spy_return_pct": 0.5069253936868634,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -105,14 +105,14 @@
           "options_warning": false
         },
         {
-          "symbol": "NXT",
-          "name": "Nextpower Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "ENPH",
           "name": "Enphase Energy, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "ENLT",
+          "name": "Enlight Renewable Energy Ltd",
+          "options_warning": true
         },
         {
           "symbol": "SEDG",
@@ -190,6 +190,11 @@
           "symbol": "CSX",
           "name": "CSX Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "UPS",
+          "name": "United Parcel Service, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -223,13 +228,18 @@
           "options_warning": false
         },
         {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
+          "symbol": "TXN",
+          "name": "Texas Instruments Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         }
       ]
@@ -246,6 +256,21 @@
         {
           "symbol": "GE",
           "name": "GE Aerospace",
+          "options_warning": false
+        },
+        {
+          "symbol": "RTX",
+          "name": "RTX Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "GD",
+          "name": "General Dynamics Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
           "options_warning": false
         }
       ]
@@ -303,11 +328,6 @@
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NET",
-          "name": "Cloudflare, Inc.",
           "options_warning": false
         }
       ]
