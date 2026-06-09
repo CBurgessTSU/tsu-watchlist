@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T19:42:40.801644-04:00",
+  "generated_at": "2026-06-09T19:45:07.697723-04:00",
   "sectors_frozen_at": "2026-06-06T09:10:55.216330-04:00",
   "core_sectors": [
     {
@@ -29,7 +29,7 @@
         {
           "symbol": "CDNS",
           "name": "Cadence Design Systems, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -41,18 +41,7 @@
       "spy_return_pct": 0.5069253936868634,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "RKLB",
-          "name": "Rocket Lab Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "RDW",
-          "name": "Redwire Corporation",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XLK",
@@ -63,11 +52,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
@@ -86,6 +70,11 @@
         {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -118,11 +107,6 @@
           "symbol": "SEDG",
           "name": "SolarEdge Technologies, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "SHLS",
-          "name": "Shoals Technologies Group, Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -154,6 +138,11 @@
           "symbol": "MRK",
           "name": "Merck & Co., Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -167,11 +156,6 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "FDX",
-          "name": "FedEx Corporation",
-          "options_warning": true
-        },
-        {
           "symbol": "DAL",
           "name": "Delta Air Lines, Inc.",
           "options_warning": false
@@ -182,13 +166,13 @@
           "options_warning": false
         },
         {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
+          "symbol": "CSX",
+          "name": "CSX Corporation",
           "options_warning": false
         },
         {
-          "symbol": "CSX",
-          "name": "CSX Corporation",
+          "symbol": "UAL",
+          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -233,11 +217,6 @@
           "options_warning": false
         },
         {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
-          "options_warning": false
-        },
-        {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
           "options_warning": false
@@ -266,12 +245,12 @@
         {
           "symbol": "GD",
           "name": "General Dynamics Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
-          "symbol": "RKLB",
-          "name": "Rocket Lab Corporation",
-          "options_warning": false
+          "symbol": "LMT",
+          "name": "Lockheed Martin Corporation",
+          "options_warning": true
         }
       ]
     },
@@ -322,12 +301,17 @@
       "tier": "absolute_relative",
       "return_pct": 1.8474194199121108,
       "spy_return_pct": 0.5069253936868634,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NET",
+          "name": "Cloudflare, Inc.",
           "options_warning": false
         }
       ]
