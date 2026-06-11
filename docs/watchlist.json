@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T19:45:07.697723-04:00",
+  "generated_at": "2026-06-11T19:58:29.820252-04:00",
   "sectors_frozen_at": "2026-06-06T09:10:55.216330-04:00",
   "core_sectors": [
     {
@@ -22,11 +22,6 @@
           "options_warning": false
         },
         {
-          "symbol": "APP",
-          "name": "AppLovin Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "CDNS",
           "name": "Cadence Design Systems, Inc.",
           "options_warning": false
@@ -41,7 +36,28 @@
       "spy_return_pct": 0.5069253936868634,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "ASTS",
+          "name": "AST SpaceMobile, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VSAT",
+          "name": "Viasat, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MDA",
+          "name": "MDA Space Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "IRDM",
+          "name": "Iridium Communications Inc.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XLK",
@@ -53,8 +69,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
@@ -99,11 +115,6 @@
           "options_warning": false
         },
         {
-          "symbol": "ENLT",
-          "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
-        },
-        {
           "symbol": "SEDG",
           "name": "SolarEdge Technologies, Inc.",
           "options_warning": false
@@ -132,6 +143,11 @@
         {
           "symbol": "ABBV",
           "name": "AbbVie Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
           "options_warning": false
         },
         {
@@ -179,6 +195,11 @@
           "symbol": "UPS",
           "name": "United Parcel Service, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "XPO",
+          "name": "XPO, Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -197,28 +218,18 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "QCOM",
-          "name": "QUALCOMM Incorporated",
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         },
         {
           "symbol": "MRVL",
           "name": "Marvell Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
           "options_warning": false
         }
       ]
@@ -250,7 +261,7 @@
         {
           "symbol": "LMT",
           "name": "Lockheed Martin Corporation",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -289,6 +300,11 @@
           "options_warning": false
         },
         {
+          "symbol": "JBLU",
+          "name": "JetBlue Airways Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "ALGT",
           "name": "Allegiant Travel Company",
           "options_warning": true
@@ -310,8 +326,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NET",
-          "name": "Cloudflare, Inc.",
+          "symbol": "ANET",
+          "name": "Arista Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]
@@ -327,11 +348,6 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Company",
