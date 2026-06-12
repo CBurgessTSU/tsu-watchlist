@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:58:29.820252-04:00",
+  "generated_at": "2026-06-12T19:45:59.013464-04:00",
   "sectors_frozen_at": "2026-06-06T09:10:55.216330-04:00",
   "core_sectors": [
     {
@@ -25,6 +25,11 @@
           "symbol": "CDNS",
           "name": "Cadence Design Systems, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -37,21 +42,6 @@
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VSAT",
-          "name": "Viasat, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MDA",
-          "name": "MDA Space Ltd.",
-          "options_warning": false
-        },
         {
           "symbol": "IRDM",
           "name": "Iridium Communications Inc.",
@@ -68,11 +58,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
@@ -108,6 +93,11 @@
           "symbol": "FSLR",
           "name": "First Solar, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "ENLT",
+          "name": "Enlight Renewable Energy Ltd",
+          "options_warning": true
         },
         {
           "symbol": "ENPH",
@@ -182,13 +172,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CSX",
-          "name": "CSX Corporation",
+          "symbol": "UAL",
+          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
+          "symbol": "CSX",
+          "name": "CSX Corporation",
           "options_warning": false
         },
         {
@@ -228,9 +218,14 @@
           "options_warning": false
         },
         {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
-          "options_warning": false
+          "symbol": "KLAC",
+          "name": "KLA Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding N.V.",
+          "options_warning": true
         }
       ]
     },
