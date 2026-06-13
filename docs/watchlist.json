@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T19:45:59.013464-04:00",
+  "generated_at": "2026-06-13T19:46:17.830056-04:00",
   "sectors_frozen_at": "2026-06-06T09:10:55.216330-04:00",
   "core_sectors": [
     {
@@ -41,13 +41,7 @@
       "spy_return_pct": 0.5069253936868634,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "IRDM",
-          "name": "Iridium Communications Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XLK",
@@ -95,14 +89,14 @@
           "options_warning": false
         },
         {
-          "symbol": "ENLT",
-          "name": "Enlight Renewable Energy Ltd",
-          "options_warning": true
-        },
-        {
           "symbol": "ENPH",
           "name": "Enphase Energy, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "ENLT",
+          "name": "Enlight Renewable Energy Ltd",
+          "options_warning": true
         },
         {
           "symbol": "SEDG",
@@ -223,9 +217,9 @@
           "options_warning": true
         },
         {
-          "symbol": "ASML",
-          "name": "ASML Holding N.V.",
-          "options_warning": true
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -328,6 +322,11 @@
         {
           "symbol": "SNOW",
           "name": "Snowflake Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "DDOG",
+          "name": "Datadog, Inc.",
           "options_warning": false
         }
       ]
