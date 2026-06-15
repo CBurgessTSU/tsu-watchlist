@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T09:36:25.720744-04:00",
+  "generated_at": "2026-06-15T19:54:27.082154-04:00",
   "sectors_frozen_at": "2026-06-15T08:47:47.254956-04:00",
   "core_sectors": [
     {
@@ -42,6 +42,11 @@
           "options_warning": false
         },
         {
+          "symbol": "ALK",
+          "name": "Alaska Air Group, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "ALGT",
           "name": "Allegiant Travel Company",
           "options_warning": true
@@ -54,12 +59,12 @@
       "tier": "absolute_relative",
       "return_pct": 10.0063,
       "spy_return_pct": -0.0754,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "VSCO",
-          "name": "Victoria's Secret & Co",
+          "name": "VICTORIA S SECRET + CO",
           "options_warning": true
         },
         {
@@ -141,12 +146,17 @@
       "tier": "absolute_relative",
       "return_pct": 9.3387,
       "spy_return_pct": -0.0754,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "BPOP",
           "name": "Popular, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "EWBC",
+          "name": "East West Bancorp, Inc.",
           "options_warning": true
         },
         {
@@ -157,7 +167,7 @@
         {
           "symbol": "VLY",
           "name": "Valley National Bancorp",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "UMBF",
@@ -167,6 +177,11 @@
         {
           "symbol": "OZK",
           "name": "Bank OZK",
+          "options_warning": false
+        },
+        {
+          "symbol": "FLG",
+          "name": "Flagstar Bank, National Association",
           "options_warning": false
         },
         {
@@ -265,6 +280,11 @@
           "symbol": "GL",
           "name": "Globe Life Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "PRU",
+          "name": "Prudential Financial, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -298,11 +318,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MRK",
-          "name": "Merck & Co., Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "AMGN",
           "name": "Amgen Inc.",
           "options_warning": false
@@ -318,6 +333,11 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "BAC",
+          "name": "Bank of America Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "GS",
           "name": "The Goldman Sachs Group, Inc.",
@@ -341,17 +361,12 @@
       "tier": "absolute_relative",
       "return_pct": 4.5389,
       "spy_return_pct": -0.0754,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "IRDM",
-          "name": "Iridium Communications Inc.",
           "options_warning": false
         },
         {
@@ -365,8 +380,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
+          "symbol": "ROKU",
+          "name": "Roku, Inc.",
           "options_warning": false
         }
       ]
