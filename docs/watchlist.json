@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T21:34:53.751092-04:00",
+  "generated_at": "2026-06-16T19:59:03.121175-04:00",
   "sectors_frozen_at": "2026-06-15T20:37:38.380318-04:00",
   "core_sectors": [
     {
@@ -34,11 +34,6 @@
         {
           "symbol": "ULCC",
           "name": "Frontier Group Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "JBLU",
-          "name": "JetBlue Airways Corporation",
           "options_warning": false
         },
         {
@@ -148,7 +143,23 @@
       "spy_return_pct": 0.8901720197281415,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "DHI",
+          "name": "D.R. Horton, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PHM",
+          "name": "PulteGroup, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TOL",
+          "name": "Toll Brothers, Inc.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "IYT",
@@ -165,13 +176,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ODFL",
-          "name": "Old Dominion Freight Line, Inc.",
+          "symbol": "UAL",
+          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
+          "symbol": "ODFL",
+          "name": "Old Dominion Freight Line, Inc.",
           "options_warning": false
         },
         {
@@ -242,14 +253,14 @@
           "options_warning": true
         },
         {
-          "symbol": "ZION",
-          "name": "Zions Bancorporation, National Association",
+          "symbol": "FLG",
+          "name": "Flagstar Bank, National Association",
           "options_warning": false
         },
         {
-          "symbol": "VLY",
-          "name": "Valley National Bancorp",
-          "options_warning": true
+          "symbol": "ZION",
+          "name": "Zions Bancorporation, National Association",
+          "options_warning": false
         },
         {
           "symbol": "UMBF",
@@ -257,19 +268,24 @@
           "options_warning": true
         },
         {
-          "symbol": "FLG",
-          "name": "Flagstar Bank, National Association",
-          "options_warning": false
+          "symbol": "VLY",
+          "name": "Valley National Bancorp",
+          "options_warning": true
         },
         {
-          "symbol": "OZK",
-          "name": "Bank OZK",
-          "options_warning": false
+          "symbol": "ASB",
+          "name": "Associated Banc-Corp",
+          "options_warning": true
         },
         {
           "symbol": "WTFC",
           "name": "Wintrust Financial Corporation",
           "options_warning": true
+        },
+        {
+          "symbol": "OZK",
+          "name": "Bank OZK",
+          "options_warning": false
         }
       ]
     },
@@ -296,11 +312,6 @@
           "symbol": "GD",
           "name": "General Dynamics Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "LMT",
-          "name": "Lockheed Martin Corporation",
-          "options_warning": true
         }
       ]
     },
@@ -314,6 +325,16 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "BRK.B",
+          "name": "Berkshire Hathaway Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "JPM",
+          "name": "JPMorgan Chase & Co.",
+          "options_warning": false
+        },
+        {
           "symbol": "BAC",
           "name": "Bank of America Corporation",
           "options_warning": false
@@ -321,6 +342,11 @@
         {
           "symbol": "GS",
           "name": "The Goldman Sachs Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
           "options_warning": false
         },
         {
@@ -388,8 +414,18 @@
           "options_warning": false
         },
         {
+          "symbol": "JPM",
+          "name": "JPMorgan Chase & Co.",
+          "options_warning": false
+        },
+        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BRK.B",
+          "name": "Berkshire Hathaway Inc.",
           "options_warning": false
         },
         {
@@ -408,11 +444,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "PLD",
-          "name": "Prologis, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "SPG",
           "name": "Simon Property Group, Inc.",
