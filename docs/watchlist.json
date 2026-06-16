@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-15T19:54:27.082154-04:00",
-  "sectors_frozen_at": "2026-06-15T08:47:47.254956-04:00",
+  "generated_at": "2026-06-15T21:34:53.751092-04:00",
+  "sectors_frozen_at": "2026-06-15T20:37:38.380318-04:00",
   "core_sectors": [
     {
       "etf": "JETS",
       "etf_name": "U.S. Global Jets ETF",
       "tier": "absolute_relative",
-      "return_pct": 13.0119,
-      "spy_return_pct": -0.0754,
+      "return_pct": 16.17086193745234,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -54,11 +54,52 @@
       ]
     },
     {
+      "etf": "SMH",
+      "etf_name": "VanEck Semiconductor ETF",
+      "tier": "absolute_relative",
+      "return_pct": 11.889200124494238,
+      "spy_return_pct": 0.8901720197281415,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "KLAC",
+          "name": "KLA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding N.V.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
       "etf": "XRT",
       "etf_name": "State Street SPDR S&P Retail ETF",
       "tier": "absolute_relative",
-      "return_pct": 10.0063,
-      "spy_return_pct": -0.0754,
+      "return_pct": 8.783279422741973,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -100,11 +141,21 @@
       ]
     },
     {
+      "etf": "ITB",
+      "etf_name": "iShares U.S. Home Construction ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.553220035778185,
+      "spy_return_pct": 0.8901720197281415,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
+    },
+    {
       "etf": "IYT",
       "etf_name": "iShares US Transportation ETF",
       "tier": "absolute_relative",
-      "return_pct": 9.5202,
-      "spy_return_pct": -0.0754,
+      "return_pct": 7.881281955356045,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -141,22 +192,53 @@
       ]
     },
     {
-      "etf": "KRE",
-      "etf_name": "State Street SPDR S&P Regional Banking ETF",
+      "etf": "XLK",
+      "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 9.3387,
-      "spy_return_pct": -0.0754,
+      "return_pct": 6.846796657381615,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
-          "options_warning": true
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
         },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "KRE",
+      "etf_name": "State Street SPDR S&P Regional Banking ETF",
+      "tier": "absolute_relative",
+      "return_pct": 6.628284617655766,
+      "spy_return_pct": 0.8901720197281415,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
         {
           "symbol": "EWBC",
           "name": "East West Bancorp, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "BPOP",
+          "name": "Popular, Inc.",
           "options_warning": true
         },
         {
@@ -175,13 +257,13 @@
           "options_warning": true
         },
         {
-          "symbol": "OZK",
-          "name": "Bank OZK",
+          "symbol": "FLG",
+          "name": "Flagstar Bank, National Association",
           "options_warning": false
         },
         {
-          "symbol": "FLG",
-          "name": "Flagstar Bank, National Association",
+          "symbol": "OZK",
+          "name": "Bank OZK",
           "options_warning": false
         },
         {
@@ -192,98 +274,63 @@
       ]
     },
     {
-      "etf": "ITB",
-      "etf_name": "iShares U.S. Home Construction ETF",
+      "etf": "ITA",
+      "etf_name": "iShares U.S. Aerospace & Defense ETF",
       "tier": "absolute_relative",
-      "return_pct": 8.9693,
-      "spy_return_pct": -0.0754,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
-      "etf": "SMH",
-      "etf_name": "VanEck Semiconductor ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.2975,
-      "spy_return_pct": -0.0754,
+      "return_pct": 5.764946983872399,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "TSM",
-          "name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "symbol": "GE",
+          "name": "GE Aerospace",
           "options_warning": false
         },
         {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
+          "symbol": "RTX",
+          "name": "RTX Corporation",
           "options_warning": false
         },
         {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
+          "symbol": "GD",
+          "name": "General Dynamics Corporation",
           "options_warning": false
         },
         {
-          "symbol": "KLAC",
-          "name": "KLA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASML",
-          "name": "ASML Holding N.V.",
-          "options_warning": false
+          "symbol": "LMT",
+          "name": "Lockheed Martin Corporation",
+          "options_warning": true
         }
       ]
     },
     {
-      "etf": "KIE",
-      "etf_name": "State Street SPDR S&P Insurance ETF",
+      "etf": "XLF",
+      "etf_name": "State Street Financial Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.8627,
-      "spy_return_pct": -0.0754,
-      "etf_qualified": false,
+      "return_pct": 4.425813998830197,
+      "spy_return_pct": 0.8901720197281415,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "OSCR",
-          "name": "Oscar Health, Inc.",
+          "symbol": "BAC",
+          "name": "Bank of America Corporation",
           "options_warning": false
         },
         {
-          "symbol": "UNM",
-          "name": "Unum Group",
+          "symbol": "GS",
+          "name": "The Goldman Sachs Group, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MET",
-          "name": "MetLife, Inc.",
+          "symbol": "MS",
+          "name": "Morgan Stanley",
           "options_warning": false
         },
         {
-          "symbol": "CNO",
-          "name": "CNO Financial Group, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "PFG",
-          "name": "Principal Financial Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GL",
-          "name": "Globe Life Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PRU",
-          "name": "Prudential Financial, Inc.",
+          "symbol": "C",
+          "name": "Citigroup Inc.",
           "options_warning": false
         }
       ]
@@ -292,8 +339,8 @@
       "etf": "XLV",
       "etf_name": "State Street Health Care Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.8395,
-      "spy_return_pct": -0.0754,
+      "return_pct": 4.269249130464425,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -323,68 +370,6 @@
           "options_warning": false
         }
       ]
-    },
-    {
-      "etf": "XLF",
-      "etf_name": "State Street Financial Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.6087,
-      "spy_return_pct": -0.0754,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "BAC",
-          "name": "Bank of America Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "GS",
-          "name": "The Goldman Sachs Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MS",
-          "name": "Morgan Stanley",
-          "options_warning": false
-        },
-        {
-          "symbol": "C",
-          "name": "Citigroup Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "IYZ",
-      "etf_name": "iShares U.S. Telecommunications ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.5389,
-      "spy_return_pct": -0.0754,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "CSCO",
-          "name": "Cisco Systems, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ANET",
-          "name": "Arista Networks, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TIGO",
-          "name": "Millicom International Cellular S.A.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ROKU",
-          "name": "Roku, Inc.",
-          "options_warning": false
-        }
-      ]
     }
   ],
   "honorable_mentions": [
@@ -392,8 +377,8 @@
       "etf": "XMAG",
       "etf_name": "Defiance Large Cap ex-Mag 7 ETF",
       "tier": "honorary",
-      "return_pct": 4.481,
-      "spy_return_pct": -0.0754,
+      "return_pct": 5.00865956473433,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -418,8 +403,8 @@
       "etf": "XLRE",
       "etf_name": "State Street Real Estate Select Sector SPDR ETF",
       "tier": "honorary",
-      "return_pct": 2.6012,
-      "spy_return_pct": -0.0754,
+      "return_pct": 2.459576406285602,
+      "spy_return_pct": 0.8901720197281415,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -437,6 +422,32 @@
           "symbol": "PSA",
           "name": "Public Storage",
           "options_warning": true
+        }
+      ]
+    },
+    {
+      "etf": "BUZZ",
+      "etf_name": "VanEck Social Sentiment ETF",
+      "tier": "honorary",
+      "return_pct": 1.5645717316361551,
+      "spy_return_pct": 0.8901720197281415,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NBIS",
+          "name": "Nebius Group N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "IREN",
+          "name": "IREN Limited",
+          "options_warning": false
         }
       ]
     }
