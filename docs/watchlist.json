@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:59:03.121175-04:00",
+  "generated_at": "2026-06-17T19:52:41.459637-04:00",
   "sectors_frozen_at": "2026-06-15T20:37:38.380318-04:00",
   "core_sectors": [
     {
@@ -12,13 +12,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
+          "symbol": "AAL",
+          "name": "American Airlines Group Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AAL",
-          "name": "American Airlines Group Inc.",
+          "symbol": "LUV",
+          "name": "Southwest Airlines Co.",
           "options_warning": false
         },
         {
@@ -27,9 +27,14 @@
           "options_warning": false
         },
         {
-          "symbol": "LUV",
-          "name": "Southwest Airlines Co.",
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "ALGT",
+          "name": "Allegiant Travel Company",
+          "options_warning": true
         },
         {
           "symbol": "ULCC",
@@ -40,11 +45,6 @@
           "symbol": "ALK",
           "name": "Alaska Air Group, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "ALGT",
-          "name": "Allegiant Travel Company",
-          "options_warning": true
         }
       ]
     },
@@ -68,23 +68,18 @@
           "options_warning": false
         },
         {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "KLAC",
           "name": "KLA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         },
         {
-          "symbol": "ASML",
-          "name": "ASML Holding N.V.",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -100,18 +95,13 @@
       "stocks": [
         {
           "symbol": "VSCO",
-          "name": "VICTORIA S SECRET + CO",
+          "name": "Victoria's Secret & Co",
           "options_warning": true
         },
         {
           "symbol": "M",
           "name": "Macy's, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "SAH",
-          "name": "Sonic Automotive, Inc.",
-          "options_warning": true
         },
         {
           "symbol": "ETSY",
@@ -150,11 +140,6 @@
           "options_warning": false
         },
         {
-          "symbol": "PHM",
-          "name": "PulteGroup, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "TOL",
           "name": "Toll Brothers, Inc.",
           "options_warning": false
@@ -183,22 +168,12 @@
         {
           "symbol": "ODFL",
           "name": "Old Dominion Freight Line, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CSX",
-          "name": "CSX Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "UPS",
           "name": "United Parcel Service, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "XPO",
-          "name": "XPO, Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -278,14 +253,14 @@
           "options_warning": true
         },
         {
-          "symbol": "WTFC",
-          "name": "Wintrust Financial Corporation",
-          "options_warning": true
-        },
-        {
           "symbol": "OZK",
           "name": "Bank OZK",
           "options_warning": false
+        },
+        {
+          "symbol": "WTFC",
+          "name": "Wintrust Financial Corporation",
+          "options_warning": true
         }
       ]
     },
@@ -345,18 +320,23 @@
           "options_warning": false
         },
         {
-          "symbol": "WFC",
-          "name": "Wells Fargo & Company",
-          "options_warning": false
-        },
-        {
           "symbol": "MS",
           "name": "Morgan Stanley",
           "options_warning": false
         },
         {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
+          "options_warning": false
+        },
+        {
           "symbol": "C",
           "name": "Citigroup Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AXP",
+          "name": "American Express Company",
           "options_warning": false
         }
       ]
@@ -441,7 +421,7 @@
       "tier": "honorary",
       "return_pct": 2.459576406285602,
       "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -473,11 +453,6 @@
         {
           "symbol": "NBIS",
           "name": "Nebius Group N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "IREN",
-          "name": "IREN Limited",
           "options_warning": false
         }
       ]
