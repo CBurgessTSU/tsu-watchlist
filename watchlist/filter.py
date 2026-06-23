@@ -24,6 +24,9 @@ TICKER_REMAP: dict[str, str] = {
     "BHP": "NYSE:BHP", # BHP Group: TV defaults to ASX_DLY:BHP without prefix
     "HCC": "NYSE:HCC", # Warrior Met Coal: TV defaults to NSE_DLY:HCC (Indian) without prefix
     "IEX": "NYSE:IEX", # IDEX Corp: TV defaults to NSE_DLY:IEX (Indian) without prefix
+    "TECK.B.NE": "TECK", # Teck Resources: StockAnalysis reports TSX class B → NYSE TECK
+    "CCO.NE": "CCJ",    # Cameco: TSX/NEO CCO → NYSE CCJ
+    "EFR.NE": "UUUU",   # Energy Fuels: NEO EFR → NYSE Arca UUUU
 }
 
 # Tickers whose primary listing is on a foreign exchange with no direct US
@@ -44,6 +47,8 @@ FOREIGN_PRIMARY_TICKERS: set[str] = {
     "DORL",  # Doral Group Renewable Energy Resources Ltd — TASE primary (TAN)
     "NOFR",  # O.Y. Nofar Energy Ltd — TASE primary (TAN)
     "ENRG",  # Energix - Renewable Energies Ltd — TASE primary (TAN)
+    "OHB.GR", # OHB SE — XETR primary, no US listing (MARS)
+    "U.UN",  # Sprott Physical Uranium Trust — TSX/NEO primary, only OTC in US (URA)
 }
 
 # Dual-class share groups: only the first ticker in each tuple is kept;

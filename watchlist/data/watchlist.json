@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-17T19:52:41.459637-04:00",
-  "sectors_frozen_at": "2026-06-15T20:37:38.380318-04:00",
+  "generated_at": "2026-06-23T13:52:37.957843-04:00",
+  "sectors_frozen_at": "2026-06-23T12:28:29.179600-04:00",
   "core_sectors": [
     {
       "etf": "JETS",
       "etf_name": "U.S. Global Jets ETF",
       "tier": "absolute_relative",
-      "return_pct": 16.17086193745234,
-      "spy_return_pct": 0.8901720197281415,
+      "return_pct": 15.9815,
+      "spy_return_pct": -0.711,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -32,14 +32,14 @@
           "options_warning": false
         },
         {
-          "symbol": "ALGT",
-          "name": "Allegiant Travel Company",
-          "options_warning": true
-        },
-        {
           "symbol": "ULCC",
           "name": "Frontier Group Holdings, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "ALGT",
+          "name": "Allegiant Travel Company",
+          "options_warning": true
         },
         {
           "symbol": "ALK",
@@ -52,8 +52,8 @@
       "etf": "SMH",
       "etf_name": "VanEck Semiconductor ETF",
       "tier": "absolute_relative",
-      "return_pct": 11.889200124494238,
-      "spy_return_pct": 0.8901720197281415,
+      "return_pct": 10.4534,
+      "spy_return_pct": -0.711,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -63,8 +63,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         },
         {
@@ -73,55 +78,9 @@
           "options_warning": false
         },
         {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "AMAT",
           "name": "Applied Materials, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XRT",
-      "etf_name": "State Street SPDR S&P Retail ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.783279422741973,
-      "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "VSCO",
-          "name": "Victoria's Secret & Co",
           "options_warning": true
-        },
-        {
-          "symbol": "M",
-          "name": "Macy's, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ETSY",
-          "name": "Etsy, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KSS",
-          "name": "Kohl's Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PSMT",
-          "name": "PriceSmart, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "BBY",
-          "name": "Best Buy Co., Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -129,137 +88,24 @@
       "etf": "ITB",
       "etf_name": "iShares U.S. Home Construction ETF",
       "tier": "absolute_relative",
-      "return_pct": 8.553220035778185,
-      "spy_return_pct": 0.8901720197281415,
+      "return_pct": 7.9166,
+      "spy_return_pct": -0.711,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "DHI",
           "name": "D.R. Horton, Inc.",
-          "options_warning": false
+          "options_warning": true
+        },
+        {
+          "symbol": "PHM",
+          "name": "PulteGroup, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "TOL",
           "name": "Toll Brothers, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "IYT",
-      "etf_name": "iShares US Transportation ETF",
-      "tier": "absolute_relative",
-      "return_pct": 7.881281955356045,
-      "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ODFL",
-          "name": "Old Dominion Freight Line, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "UPS",
-          "name": "United Parcel Service, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLK",
-      "etf_name": "State Street Technology Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 6.846796657381615,
-      "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CSCO",
-          "name": "Cisco Systems, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "KRE",
-      "etf_name": "State Street SPDR S&P Regional Banking ETF",
-      "tier": "absolute_relative",
-      "return_pct": 6.628284617655766,
-      "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "EWBC",
-          "name": "East West Bancorp, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "FLG",
-          "name": "Flagstar Bank, National Association",
-          "options_warning": false
-        },
-        {
-          "symbol": "ZION",
-          "name": "Zions Bancorporation, National Association",
-          "options_warning": false
-        },
-        {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "VLY",
-          "name": "Valley National Bancorp",
-          "options_warning": true
-        },
-        {
-          "symbol": "ASB",
-          "name": "Associated Banc-Corp",
-          "options_warning": true
-        },
-        {
-          "symbol": "OZK",
-          "name": "Bank OZK",
-          "options_warning": false
-        },
-        {
-          "symbol": "WTFC",
-          "name": "Wintrust Financial Corporation",
           "options_warning": true
         }
       ]
@@ -268,8 +114,8 @@
       "etf": "ITA",
       "etf_name": "iShares U.S. Aerospace & Defense ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.764946983872399,
-      "spy_return_pct": 0.8901720197281415,
+      "return_pct": 6.0049,
+      "spy_return_pct": -0.711,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -291,11 +137,139 @@
       ]
     },
     {
+      "etf": "XRT",
+      "etf_name": "State Street SPDR S&P Retail ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.354,
+      "spy_return_pct": -0.711,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ETSY",
+          "name": "Etsy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "M",
+          "name": "Macy's, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SAH",
+          "name": "Sonic Automotive, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "KMX",
+          "name": "CarMax, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KSS",
+          "name": "Kohl's Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSMT",
+          "name": "PriceSmart, Inc.",
+          "options_warning": true
+        }
+      ]
+    },
+    {
+      "etf": "XLI",
+      "etf_name": "State Street Industrial Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.2832,
+      "spy_return_pct": -0.711,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "CAT",
+          "name": "Caterpillar Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "GE",
+          "name": "GE Aerospace",
+          "options_warning": false
+        },
+        {
+          "symbol": "RTX",
+          "name": "RTX Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "KRE",
+      "etf_name": "State Street SPDR S&P Regional Banking ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.0643,
+      "spy_return_pct": -0.711,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "BPOP",
+          "name": "Popular, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ZION",
+          "name": "Zions Bancorporation, National Association",
+          "options_warning": false
+        },
+        {
+          "symbol": "EWBC",
+          "name": "East West Bancorp, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "FLG",
+          "name": "Flagstar Bank, National Association",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLY",
+          "name": "Valley National Bancorp",
+          "options_warning": true
+        },
+        {
+          "symbol": "ASB",
+          "name": "Associated Banc-Corp",
+          "options_warning": true
+        },
+        {
+          "symbol": "CFG",
+          "name": "Citizens Financial Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WTFC",
+          "name": "Wintrust Financial Corporation",
+          "options_warning": true
+        }
+      ]
+    },
+    {
       "etf": "XLF",
       "etf_name": "State Street Financial Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.425813998830197,
-      "spy_return_pct": 0.8901720197281415,
+      "return_pct": 4.2916,
+      "spy_return_pct": -0.711,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -342,37 +316,63 @@
       ]
     },
     {
-      "etf": "XLV",
-      "etf_name": "State Street Health Care Select Sector SPDR ETF",
+      "etf": "XLK",
+      "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.269249130464425,
-      "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": true,
+      "return_pct": 4.2218,
+      "spy_return_pct": -0.711,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "LLY",
-          "name": "Eli Lilly and Company",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
-          "symbol": "JNJ",
-          "name": "Johnson & Johnson",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IYT",
+      "etf_name": "iShares US Transportation ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.8478,
+      "spy_return_pct": -0.711,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "CSX",
+          "name": "CSX Corporation",
           "options_warning": false
         },
         {
-          "symbol": "ABBV",
-          "name": "AbbVie Inc.",
+          "symbol": "UPS",
+          "name": "United Parcel Service, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
+          "symbol": "UAL",
+          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LUV",
+          "name": "Southwest Airlines Co.",
           "options_warning": false
         }
       ]
@@ -380,11 +380,83 @@
   ],
   "honorable_mentions": [
     {
+      "etf": "IBB",
+      "etf_name": "iShares Biotechnology ETF",
+      "tier": "honorary",
+      "return_pct": 6.1102,
+      "spy_return_pct": -0.711,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "VRTX",
+          "name": "Vertex Pharmaceuticals Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ARGX",
+          "name": "argenx SE",
+          "options_warning": true
+        },
+        {
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
+          "options_warning": true
+        }
+      ]
+    },
+    {
+      "etf": "FFTY",
+      "etf_name": "CapForce IBD 50 ETF",
+      "tier": "honorary",
+      "return_pct": 6.0863,
+      "spy_return_pct": -0.711,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "ALAB",
+          "name": "Astera Labs, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRDO",
+          "name": "Credo Technology Group Holding Ltd",
+          "options_warning": false
+        },
+        {
+          "symbol": "LQDA",
+          "name": "Liquidia Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "TVTX",
+          "name": "Travere Therapeutics, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
       "etf": "XMAG",
       "etf_name": "Defiance Large Cap ex-Mag 7 ETF",
       "tier": "honorary",
-      "return_pct": 5.00865956473433,
-      "spy_return_pct": 0.8901720197281415,
+      "return_pct": 4.1394,
+      "spy_return_pct": -0.711,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -399,13 +471,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
+          "symbol": "BRK.B",
+          "name": "Berkshire Hathaway Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BRK.B",
-          "name": "Berkshire Hathaway Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -419,11 +491,21 @@
       "etf": "XLRE",
       "etf_name": "State Street Real Estate Select Sector SPDR ETF",
       "tier": "honorary",
-      "return_pct": 2.459576406285602,
-      "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": false,
+      "return_pct": 0.3034,
+      "spy_return_pct": -0.711,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "PLD",
+          "name": "Prologis, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EQIX",
+          "name": "Equinix, Inc.",
+          "options_warning": true
+        },
         {
           "symbol": "SPG",
           "name": "Simon Property Group, Inc.",
@@ -433,27 +515,6 @@
           "symbol": "PSA",
           "name": "Public Storage",
           "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "BUZZ",
-      "etf_name": "VanEck Social Sentiment ETF",
-      "tier": "honorary",
-      "return_pct": 1.5645717316361551,
-      "spy_return_pct": 0.8901720197281415,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NBIS",
-          "name": "Nebius Group N.V.",
-          "options_warning": false
         }
       ]
     }
