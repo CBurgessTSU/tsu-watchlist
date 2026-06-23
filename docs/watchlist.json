@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T13:52:37.957843-04:00",
+  "generated_at": "2026-06-23T19:53:12.455372-04:00",
   "sectors_frozen_at": "2026-06-23T12:28:29.179600-04:00",
   "core_sectors": [
     {
@@ -146,28 +146,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "VSXY",
-          "name": "Victoria's Secret & Co.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ETSY",
-          "name": "Etsy, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "M",
-          "name": "Macy's, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SAH",
-          "name": "Sonic Automotive, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "KMX",
-          "name": "CarMax, Inc.",
+          "symbol": "REAL",
+          "name": "The RealReal, Inc.",
           "options_warning": false
         },
         {
@@ -176,8 +156,18 @@
           "options_warning": false
         },
         {
-          "symbol": "PSMT",
-          "name": "PriceSmart, Inc.",
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KMX",
+          "name": "CarMax, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CART",
+          "name": "Maplebear Inc.",
           "options_warning": true
         }
       ]
@@ -205,6 +195,11 @@
           "symbol": "RTX",
           "name": "RTX Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "DE",
+          "name": "Deere & Company",
+          "options_warning": true
         }
       ]
     },
@@ -218,38 +213,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ZION",
-          "name": "Zions Bancorporation, National Association",
-          "options_warning": false
-        },
-        {
-          "symbol": "EWBC",
-          "name": "East West Bancorp, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "FLG",
-          "name": "Flagstar Bank, National Association",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLY",
-          "name": "Valley National Bancorp",
-          "options_warning": true
-        },
-        {
-          "symbol": "ASB",
-          "name": "Associated Banc-Corp",
+          "symbol": "WBS",
+          "name": "Webster Financial Corporation",
           "options_warning": true
         },
         {
@@ -258,8 +223,38 @@
           "options_warning": false
         },
         {
-          "symbol": "WTFC",
-          "name": "Wintrust Financial Corporation",
+          "symbol": "BPOP",
+          "name": "Popular, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "FLG",
+          "name": "Flagstar Bank, National Association",
+          "options_warning": false
+        },
+        {
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "CFR",
+          "name": "Cullen/Frost Bankers, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BANC",
+          "name": "Banc of California, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASB",
+          "name": "Associated Banc-Corp",
+          "options_warning": true
+        },
+        {
+          "symbol": "ONB",
+          "name": "Old National Bancorp",
           "options_warning": true
         }
       ]
@@ -361,13 +356,13 @@
           "options_warning": false
         },
         {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
+          "symbol": "UAL",
+          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
