@@ -122,7 +122,7 @@ print(f'Total qualified: {sum(qualified.values())} / {len(qualified)}')
 ```
 
 ### 4. Check options liquidity for qualified symbols
-Run inline python (`Bash` with `python3 -c`):
+Run inline python (`Bash` with `python3 -c`). **IMPORTANT: run this synchronously — do NOT use `run_in_background: true`. This script runs inside a headless `claude -p` session; background Bash tasks are orphaned when the process exits, so the file never gets written and all subsequent steps fail.**
 
 ```python
 import sys, json
