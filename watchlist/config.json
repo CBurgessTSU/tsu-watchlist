@@ -1,6 +1,9 @@
 {
   "$comment": "Sector ETFs that are NOT 'core' for watchlist tier 1/2 ranking. The full universe is read at runtime from the Relative Sector Performance layout in TradingView; anything in this list is bucketed as a candidate for Honorary Mentions instead of core slots.",
-  "non_core_etfs": ["MAGS", "XMAG", "BUZZ", "FFTY", "XLRE", "IBB"],
+  "non_core_etfs": ["XLRE", "IBB"],
+
+  "excluded_etfs": ["MAGS", "XMAG"],
+  "$comment_excluded": "ETFs to drop entirely — never core, never honorary.",
 
   "lookback_bars": 21,
   "$comment_lookback": "Trading days used for sector return ranking. ~21 = 1 calendar month.",

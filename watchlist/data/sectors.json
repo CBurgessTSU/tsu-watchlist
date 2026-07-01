@@ -1,92 +1,80 @@
 {
-  "generated_at": "2026-06-23T12:28:29.179600-04:00",
+  "generated_at": "2026-06-27T08:24:02.447319-04:00",
   "lookback_bars": 21,
-  "spy_return_pct": -0.711,
+  "spy_return_pct": -2.8609119739892885,
   "core": [
     {
       "etf": "JETS",
-      "return_pct": 15.9815,
-      "spy_return_pct": -0.711,
-      "tier": "absolute_relative"
-    },
-    {
-      "etf": "SMH",
-      "return_pct": 10.4534,
-      "spy_return_pct": -0.711,
+      "return_pct": 14.442916093535096,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "absolute_relative"
     },
     {
       "etf": "ITB",
-      "return_pct": 7.9166,
-      "spy_return_pct": -0.711,
+      "return_pct": 12.108581810409325,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "absolute_relative"
     },
     {
-      "etf": "ITA",
-      "return_pct": 6.0049,
-      "spy_return_pct": -0.711,
-      "tier": "absolute_relative"
-    },
-    {
-      "etf": "XRT",
-      "return_pct": 5.354,
-      "spy_return_pct": -0.711,
-      "tier": "absolute_relative"
-    },
-    {
-      "etf": "XLI",
-      "return_pct": 5.2832,
-      "spy_return_pct": -0.711,
+      "etf": "KIE",
+      "return_pct": 8.436944937833047,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "absolute_relative"
     },
     {
       "etf": "KRE",
-      "return_pct": 5.0643,
-      "spy_return_pct": -0.711,
+      "return_pct": 8.033917792469115,
+      "spy_return_pct": -2.8609119739892885,
+      "tier": "absolute_relative"
+    },
+    {
+      "etf": "XLV",
+      "return_pct": 7.762618455541381,
+      "spy_return_pct": -2.8609119739892885,
+      "tier": "absolute_relative"
+    },
+    {
+      "etf": "XRT",
+      "return_pct": 5.669366364935691,
+      "spy_return_pct": -2.8609119739892885,
+      "tier": "absolute_relative"
+    },
+    {
+      "etf": "PHO",
+      "return_pct": 5.159332321699539,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "absolute_relative"
     },
     {
       "etf": "XLF",
-      "return_pct": 4.2916,
-      "spy_return_pct": -0.711,
+      "return_pct": 4.181252430960702,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "absolute_relative"
     },
     {
-      "etf": "XLK",
-      "return_pct": 4.2218,
-      "spy_return_pct": -0.711,
+      "etf": "XLI",
+      "return_pct": 3.9586919104991347,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "absolute_relative"
     },
     {
       "etf": "IYT",
-      "return_pct": 3.8478,
-      "spy_return_pct": -0.711,
+      "return_pct": 3.0374660205649606,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "absolute_relative"
     }
   ],
   "honoraries": [
     {
       "etf": "IBB",
-      "return_pct": 6.1102,
-      "spy_return_pct": -0.711,
-      "tier": "honorary"
-    },
-    {
-      "etf": "FFTY",
-      "return_pct": 6.0863,
-      "spy_return_pct": -0.711,
-      "tier": "honorary"
-    },
-    {
-      "etf": "XMAG",
-      "return_pct": 4.1394,
-      "spy_return_pct": -0.711,
+      "return_pct": 10.28961619967037,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "honorary"
     },
     {
       "etf": "XLRE",
-      "return_pct": 0.3034,
-      "spy_return_pct": -0.711,
+      "return_pct": 1.3667936365673317,
+      "spy_return_pct": -2.8609119739892885,
       "tier": "honorary"
     }
   ]

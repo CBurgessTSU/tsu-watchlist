@@ -11,7 +11,7 @@ from watchlist.weekly_sectors import (
 )
 
 
-NON_CORE = ["MAGS", "XMAG", "BUZZ", "FFTY", "XLRE", "IBB"]
+NON_CORE = ["XLRE", "IBB"]
 
 
 class TestComputeReturn(unittest.TestCase):
@@ -64,20 +64,20 @@ class TestTierSectors(unittest.TestCase):
         self.assertNotIn("E", [e.etf for e in result.core])
 
     def test_non_core_excluded_from_core(self):
-        returns = {"XLK": 8.0, "MAGS": 12.0, "IBB": 7.0, "XLF": 4.0}
+        returns = {"XLK": 8.0, "XLRE": 12.0, "IBB": 7.0, "XLF": 4.0}
         result = tier_sectors(returns, spy_return=3.0, non_core=NON_CORE, target=10)
         core_etfs = [e.etf for e in result.core]
         self.assertIn("XLK", core_etfs)
         self.assertIn("XLF", core_etfs)
-        self.assertNotIn("MAGS", core_etfs)
+        self.assertNotIn("XLRE", core_etfs)
         self.assertNotIn("IBB", core_etfs)
 
     def test_non_core_outperformers_become_honoraries(self):
-        returns = {"MAGS": 12.0, "BUZZ": 8.0, "IBB": 1.0}  # IBB underperforms SPY
+        returns = {"XLRE": 12.0, "IBB": 8.0, "XLK": 1.0}  # XLK underperforms SPY
         result = tier_sectors(returns, spy_return=5.0, non_core=NON_CORE, target=10)
         honorary_etfs = [e.etf for e in result.honoraries]
-        self.assertEqual(set(honorary_etfs), {"MAGS", "BUZZ"})
-        self.assertNotIn("IBB", honorary_etfs)  # honoraries also require beating SPY
+        self.assertEqual(set(honorary_etfs), {"XLRE", "IBB"})
+        self.assertNotIn("XLK", honorary_etfs)  # honoraries also require beating SPY
 
     def test_etf_equal_to_spy_goes_to_tier2(self):
         returns = {"XLA": 5.0, "XLB": 4.99}
@@ -85,6 +85,20 @@ class TestTierSectors(unittest.TestCase):
         tiers = {e.etf: e.tier for e in result.core}
         self.assertEqual(tiers["XLA"], "absolute")  # exactly equal → tier 2
         self.assertEqual(tiers["XLB"], "absolute")
+
+    def test_excluded_etfs_absent_from_core_and_honoraries(self):
+        # MAGS and XMAG beat SPY strongly — must still be dropped entirely
+        returns = {"XLK": 8.0, "MAGS": 20.0, "XMAG": 18.0, "XLRE": 12.0, "XLF": 4.0}
+        result = tier_sectors(
+            returns, spy_return=3.0,
+            non_core=NON_CORE,
+            excluded=["MAGS", "XMAG"],
+        )
+        all_etfs = [e.etf for e in result.core + result.honoraries]
+        self.assertNotIn("MAGS", all_etfs)
+        self.assertNotIn("XMAG", all_etfs)
+        self.assertIn("XLK", [e.etf for e in result.core])
+        self.assertIn("XLRE", [e.etf for e in result.honoraries])
 
 
 if __name__ == "__main__":

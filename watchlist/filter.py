@@ -27,6 +27,7 @@ TICKER_REMAP: dict[str, str] = {
     "TECK.B.NE": "TECK", # Teck Resources: StockAnalysis reports TSX class B → NYSE TECK
     "CCO.NE": "CCJ",    # Cameco: TSX/NEO CCO → NYSE CCJ
     "EFR.NE": "UUUU",   # Energy Fuels: NEO EFR → NYSE Arca UUUU
+    "CDE.NE": "CDE",    # Coeur Mining: StockAnalysis glitch, already NYSE-listed as CDE
 }
 
 # Tickers whose primary listing is on a foreign exchange with no direct US

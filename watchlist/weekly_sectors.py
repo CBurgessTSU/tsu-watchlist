@@ -48,6 +48,7 @@ def tier_sectors(
     spy_return: float,
     non_core: Iterable[str],
     target: int = 10,
+    excluded: Iterable[str] = (),
 ) -> TierResult:
     """Apply the three-tier ranking rules.
 
@@ -56,14 +57,19 @@ def tier_sectors(
       spy_return:     SPY's return over the same lookback, as a percent.
       non_core:       ETFs excluded from core tiers (Honorary Mentions only).
       target:         Desired core count (Tier 1 + Tier 2 combined).
+      excluded:       ETFs dropped entirely — neither core nor honorary.
     """
+    excluded_set = {t.upper() for t in excluded}
     non_core_set = {t.upper() for t in non_core}
 
+    eligible = {
+        etf: r for etf, r in returns_by_etf.items() if etf.upper() not in excluded_set
+    }
     core_universe = {
-        etf: r for etf, r in returns_by_etf.items() if etf.upper() not in non_core_set
+        etf: r for etf, r in eligible.items() if etf.upper() not in non_core_set
     }
     honorary_universe = {
-        etf: r for etf, r in returns_by_etf.items() if etf.upper() in non_core_set
+        etf: r for etf, r in eligible.items() if etf.upper() in non_core_set
     }
 
     tier1 = sorted(
