@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T21:18:59.030614-04:00",
+  "generated_at": "2026-07-01T19:53:10.545169-04:00",
   "sectors_frozen_at": "2026-06-27T08:24:02.447319-04:00",
   "core_sectors": [
     {
@@ -14,11 +14,6 @@
         {
           "symbol": "AAL",
           "name": "American Airlines Group Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -60,7 +55,7 @@
         {
           "symbol": "DHI",
           "name": "D.R. Horton, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "PHM",
@@ -70,6 +65,11 @@
         {
           "symbol": "TOL",
           "name": "Toll Brothers, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "BLD",
+          "name": "TopBuild Corp.",
           "options_warning": true
         },
         {
@@ -145,14 +145,9 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "ASB",
-          "name": "Associated Banc-Corp",
-          "options_warning": true
+          "symbol": "CFG",
+          "name": "Citizens Financial Group, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "GBCI",
@@ -160,23 +155,28 @@
           "options_warning": false
         },
         {
+          "symbol": "ASB",
+          "name": "Associated Banc-Corp",
+          "options_warning": true
+        },
+        {
           "symbol": "PNFP",
           "name": "Pinnacle Financial Partners, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "CFG",
-          "name": "Citizens Financial Group, Inc.",
-          "options_warning": false
+          "symbol": "AUB",
+          "name": "Atlantic Union Bankshares Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
+          "options_warning": true
         },
         {
           "symbol": "CFR",
           "name": "Cullen/Frost Bankers, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AUB",
-          "name": "Atlantic Union Bankshares Corporation",
           "options_warning": false
         },
         {
@@ -185,14 +185,9 @@
           "options_warning": true
         },
         {
-          "symbol": "FULT",
-          "name": "Fulton Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "FNB",
-          "name": "F.N.B. Corporation",
-          "options_warning": true
+          "symbol": "CBSH",
+          "name": "Commerce Bancshares, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -208,11 +203,6 @@
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "JNJ",
-          "name": "Johnson & Johnson",
           "options_warning": false
         },
         {
@@ -257,6 +247,11 @@
           "options_warning": false
         },
         {
+          "symbol": "WRBY",
+          "name": "Warby Parker Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "VSXY",
           "name": "Victoria's Secret & Co.",
           "options_warning": false
@@ -269,7 +264,7 @@
         {
           "symbol": "ETSY",
           "name": "Etsy, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "UPBD",
@@ -291,11 +286,6 @@
           "symbol": "ECL",
           "name": "Ecolab Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "FERG",
-          "name": "Ferguson Enterprises Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -353,6 +343,11 @@
           "symbol": "DE",
           "name": "Deere & Company",
           "options_warning": true
+        },
+        {
+          "symbol": "PH",
+          "name": "Parker-Hannifin Corporation",
+          "options_warning": true
         }
       ]
     },
@@ -368,11 +363,6 @@
         {
           "symbol": "CSX",
           "name": "CSX Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
