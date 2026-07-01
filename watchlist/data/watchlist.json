@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T09:21:19.788906-04:00",
+  "generated_at": "2026-06-30T21:18:59.030614-04:00",
   "sectors_frozen_at": "2026-06-27T08:24:02.447319-04:00",
   "core_sectors": [
     {
@@ -78,11 +78,6 @@
           "options_warning": false
         },
         {
-          "symbol": "BLD",
-          "name": "TopBuild Corp.",
-          "options_warning": true
-        },
-        {
           "symbol": "LII",
           "name": "Lennox International Inc.",
           "options_warning": true
@@ -101,16 +96,11 @@
         {
           "symbol": "BWIN",
           "name": "The Baldwin Insurance Group, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "GL",
-          "name": "Globe Life Inc.",
           "options_warning": true
         },
         {
@@ -119,8 +109,18 @@
           "options_warning": false
         },
         {
-          "symbol": "THG",
-          "name": "The Hanover Insurance Group, Inc.",
+          "symbol": "PLMR",
+          "name": "Palomar Holdings, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "LMND",
+          "name": "Lemonade, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GL",
+          "name": "Globe Life Inc.",
           "options_warning": true
         },
         {
@@ -129,13 +129,8 @@
           "options_warning": false
         },
         {
-          "symbol": "AXS",
-          "name": "AXIS Capital Holdings Limited",
-          "options_warning": true
-        },
-        {
-          "symbol": "CNO",
-          "name": "CNO Financial Group, Inc.",
+          "symbol": "RNR",
+          "name": "RenaissanceRe Holdings Ltd.",
           "options_warning": true
         }
       ]
@@ -150,11 +145,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "CFG",
-          "name": "Citizens Financial Group, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
           "options_warning": true
@@ -165,28 +155,18 @@
           "options_warning": true
         },
         {
-          "symbol": "BANC",
-          "name": "Banc of California, Inc.",
+          "symbol": "GBCI",
+          "name": "Glacier Bancorp, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
+          "symbol": "PNFP",
+          "name": "Pinnacle Financial Partners, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "FULT",
-          "name": "Fulton Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "AUB",
-          "name": "Atlantic Union Bankshares Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "HBAN",
-          "name": "Huntington Bancshares Incorporated",
+          "symbol": "CFG",
+          "name": "Citizens Financial Group, Inc.",
           "options_warning": false
         },
         {
@@ -195,8 +175,23 @@
           "options_warning": false
         },
         {
-          "symbol": "ONB",
-          "name": "Old National Bancorp",
+          "symbol": "AUB",
+          "name": "Atlantic Union Bankshares Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FIBK",
+          "name": "First Interstate BancSystem, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "FULT",
+          "name": "Fulton Financial Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "FNB",
+          "name": "F.N.B. Corporation",
           "options_warning": true
         }
       ]
@@ -257,13 +252,18 @@
           "options_warning": false
         },
         {
-          "symbol": "KSS",
-          "name": "Kohl's Corporation",
+          "symbol": "GRPN",
+          "name": "Groupon, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "HZO",
-          "name": "MarineMax, Inc.",
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KSS",
+          "name": "Kohl's Corporation",
           "options_warning": false
         },
         {
@@ -272,19 +272,9 @@
           "options_warning": false
         },
         {
-          "symbol": "CART",
-          "name": "Maplebear Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RVLV",
-          "name": "Revolve Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TGT",
-          "name": "Target Corporation",
-          "options_warning": false
+          "symbol": "UPBD",
+          "name": "Upbound Group, Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -324,28 +314,8 @@
           "options_warning": false
         },
         {
-          "symbol": "JPM",
-          "name": "JPMorgan Chase & Co.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BAC",
-          "name": "Bank of America Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MS",
-          "name": "Morgan Stanley",
-          "options_warning": false
-        },
-        {
-          "symbol": "WFC",
-          "name": "Wells Fargo & Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "C",
-          "name": "Citigroup Inc.",
+          "symbol": "V",
+          "name": "Visa Inc.",
           "options_warning": false
         },
         {
@@ -456,7 +426,7 @@
         {
           "symbol": "ILMN",
           "name": "Illumina, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -466,14 +436,9 @@
       "tier": "honorary",
       "return_pct": 1.3667936365673317,
       "spy_return_pct": -2.8609119739892885,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "EQIX",
-          "name": "Equinix, Inc.",
-          "options_warning": true
-        },
         {
           "symbol": "SPG",
           "name": "Simon Property Group, Inc.",
