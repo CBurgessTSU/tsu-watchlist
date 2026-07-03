@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T19:53:10.545169-04:00",
+  "generated_at": "2026-07-02T20:05:09.235479-04:00",
   "sectors_frozen_at": "2026-06-27T08:24:02.447319-04:00",
   "core_sectors": [
     {
@@ -11,11 +11,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "AAL",
-          "name": "American Airlines Group Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "LUV",
           "name": "Southwest Airlines Co.",
@@ -35,11 +30,6 @@
           "symbol": "JBLU",
           "name": "JetBlue Airways Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "ALK",
-          "name": "Alaska Air Group, Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -55,7 +45,7 @@
         {
           "symbol": "DHI",
           "name": "D.R. Horton, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "PHM",
@@ -75,7 +65,7 @@
         {
           "symbol": "SHW",
           "name": "The Sherwin-Williams Company",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "LII",
@@ -104,8 +94,8 @@
           "options_warning": true
         },
         {
-          "symbol": "CINF",
-          "name": "Cincinnati Financial Corporation",
+          "symbol": "LMND",
+          "name": "Lemonade, Inc.",
           "options_warning": false
         },
         {
@@ -114,8 +104,8 @@
           "options_warning": true
         },
         {
-          "symbol": "LMND",
-          "name": "Lemonade, Inc.",
+          "symbol": "CINF",
+          "name": "Cincinnati Financial Corporation",
           "options_warning": false
         },
         {
@@ -124,14 +114,14 @@
           "options_warning": true
         },
         {
+          "symbol": "RLI",
+          "name": "RLI Corp.",
+          "options_warning": true
+        },
+        {
           "symbol": "TRV",
           "name": "The Travelers Companies, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "RNR",
-          "name": "RenaissanceRe Holdings Ltd.",
-          "options_warning": true
         }
       ]
     },
@@ -145,9 +135,24 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "CFG",
-          "name": "Citizens Financial Group, Inc.",
-          "options_warning": false
+          "symbol": "PB",
+          "name": "Prosperity Bancshares, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "PNFP",
+          "name": "Pinnacle Financial Partners, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "AUB",
+          "name": "Atlantic Union Bankshares Corporation",
+          "options_warning": true
         },
         {
           "symbol": "GBCI",
@@ -157,22 +162,7 @@
         {
           "symbol": "ASB",
           "name": "Associated Banc-Corp",
-          "options_warning": true
-        },
-        {
-          "symbol": "PNFP",
-          "name": "Pinnacle Financial Partners, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "AUB",
-          "name": "Atlantic Union Bankshares Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CFR",
@@ -183,11 +173,6 @@
           "symbol": "FIBK",
           "name": "First Interstate BancSystem, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "CBSH",
-          "name": "Commerce Bancshares, Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -211,11 +196,6 @@
           "options_warning": false
         },
         {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
-          "options_warning": false
-        },
-        {
           "symbol": "MRK",
           "name": "Merck & Co., Inc.",
           "options_warning": false
@@ -224,6 +204,11 @@
           "symbol": "AMGN",
           "name": "Amgen Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "TMO",
+          "name": "Thermo Fisher Scientific Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -264,12 +249,7 @@
         {
           "symbol": "ETSY",
           "name": "Etsy, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "UPBD",
-          "name": "Upbound Group, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -285,6 +265,11 @@
         {
           "symbol": "ECL",
           "name": "Ecolab Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
           "options_warning": false
         }
       ]
@@ -330,9 +315,9 @@
           "options_warning": false
         },
         {
-          "symbol": "GE",
-          "name": "GE Aerospace",
-          "options_warning": false
+          "symbol": "GEV",
+          "name": "GE Vernova Inc.",
+          "options_warning": true
         },
         {
           "symbol": "RTX",
@@ -342,11 +327,6 @@
         {
           "symbol": "DE",
           "name": "Deere & Company",
-          "options_warning": true
-        },
-        {
-          "symbol": "PH",
-          "name": "Parker-Hannifin Corporation",
           "options_warning": true
         }
       ]
@@ -430,8 +410,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "WELL",
+          "name": "Welltower Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "SPG",
           "name": "Simon Property Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "O",
+          "name": "Realty Income Corporation",
           "options_warning": false
         },
         {
