@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T09:11:27.651384-04:00",
+  "generated_at": "2026-07-04T19:48:11.064343-04:00",
   "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
   "core_sectors": [
     {
@@ -63,6 +63,11 @@
           "options_warning": true
         },
         {
+          "symbol": "RLI",
+          "name": "RLI Corp.",
+          "options_warning": true
+        },
+        {
           "symbol": "OSCR",
           "name": "Oscar Health, Inc.",
           "options_warning": false
@@ -71,11 +76,6 @@
           "symbol": "CINF",
           "name": "Cincinnati Financial Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "RLI",
-          "name": "RLI Corp.",
-          "options_warning": true
         }
       ]
     },
@@ -228,11 +228,6 @@
           "options_warning": true
         },
         {
-          "symbol": "AUB",
-          "name": "Atlantic Union Bankshares Corporation",
-          "options_warning": true
-        },
-        {
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
           "options_warning": true
@@ -243,24 +238,34 @@
           "options_warning": false
         },
         {
-          "symbol": "ASB",
-          "name": "Associated Banc-Corp",
-          "options_warning": true
-        },
-        {
           "symbol": "FIBK",
           "name": "First Interstate BancSystem, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "PNFP",
-          "name": "Pinnacle Financial Partners, Inc.",
+          "symbol": "AUB",
+          "name": "Atlantic Union Bankshares Corporation",
           "options_warning": true
+        },
+        {
+          "symbol": "CFR",
+          "name": "Cullen/Frost Bankers, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "BPOP",
           "name": "Popular, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "ASB",
+          "name": "Associated Banc-Corp",
+          "options_warning": true
+        },
+        {
+          "symbol": "FHB",
+          "name": "First Hawaiian, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -399,8 +404,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
           "options_warning": false
         }
       ]
