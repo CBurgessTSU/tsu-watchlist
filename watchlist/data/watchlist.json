@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:48:11.064343-04:00",
+  "generated_at": "2026-07-05T20:10:13.921993-04:00",
   "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
   "core_sectors": [
     {
@@ -111,7 +111,7 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -176,14 +176,14 @@
           "options_warning": true
         },
         {
-          "symbol": "HWM",
-          "name": "Howmet Aerospace Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "GD",
           "name": "General Dynamics Corporation",
           "options_warning": true
+        },
+        {
+          "symbol": "HWM",
+          "name": "Howmet Aerospace Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -265,7 +265,7 @@
         {
           "symbol": "FHB",
           "name": "First Hawaiian, Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -371,7 +371,7 @@
       "return_pct": 19.1331,
       "spy_return_pct": -1.9472,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "VRTX",
