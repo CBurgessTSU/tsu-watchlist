@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T20:10:13.921993-04:00",
+  "generated_at": "2026-07-07T19:45:09.545545-04:00",
   "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
   "core_sectors": [
     {
@@ -111,7 +111,7 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -121,14 +121,9 @@
       "tier": "absolute_relative",
       "return_pct": 10.3485,
       "spy_return_pct": -1.9472,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "DHI",
-          "name": "D.R. Horton, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "PHM",
           "name": "PulteGroup, Inc.",
@@ -137,7 +132,7 @@
         {
           "symbol": "TOL",
           "name": "Toll Brothers, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "SHW",
@@ -168,6 +163,11 @@
         {
           "symbol": "RTX",
           "name": "RTX Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "BA",
+          "name": "The Boeing Company",
           "options_warning": false
         },
         {
@@ -243,11 +243,6 @@
           "options_warning": true
         },
         {
-          "symbol": "AUB",
-          "name": "Atlantic Union Bankshares Corporation",
-          "options_warning": true
-        },
-        {
           "symbol": "CFR",
           "name": "Cullen/Frost Bankers, Inc.",
           "options_warning": false
@@ -260,12 +255,12 @@
         {
           "symbol": "ASB",
           "name": "Associated Banc-Corp",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "FHB",
           "name": "First Hawaiian, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -279,11 +274,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "CAT",
-          "name": "Caterpillar Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "GEV",
           "name": "GE Vernova Inc.",
           "options_warning": true
@@ -291,6 +281,11 @@
         {
           "symbol": "RTX",
           "name": "RTX Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "BA",
+          "name": "The Boeing Company",
           "options_warning": false
         },
         {
@@ -320,19 +315,14 @@
           "options_warning": false
         },
         {
-          "symbol": "REAL",
-          "name": "The RealReal, Inc.",
-          "options_warning": false
+          "symbol": "WRBY",
+          "name": "Warby Parker Inc.",
+          "options_warning": true
         },
         {
           "symbol": "KSS",
           "name": "Kohl's Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "WRBY",
-          "name": "Warby Parker Inc.",
-          "options_warning": true
         },
         {
           "symbol": "DLTR",
@@ -354,6 +344,11 @@
           "symbol": "ECL",
           "name": "Ecolab Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "WAT",
+          "name": "Waters Corporation",
+          "options_warning": true
         },
         {
           "symbol": "AWK",
@@ -432,6 +427,11 @@
         {
           "symbol": "O",
           "name": "Realty Income Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
           "options_warning": false
         },
         {
