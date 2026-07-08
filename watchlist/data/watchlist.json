@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T19:45:09.545545-04:00",
+  "generated_at": "2026-07-08T19:49:33.224318-04:00",
   "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
   "core_sectors": [
     {
@@ -11,11 +11,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "LUV",
-          "name": "Southwest Airlines Co.",
-          "options_warning": false
-        },
         {
           "symbol": "ALGT",
           "name": "Allegiant Travel Company",
@@ -43,19 +38,14 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "BWIN",
-          "name": "The Baldwin Insurance Group, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "LMND",
           "name": "Lemonade, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SKWD",
-          "name": "Skyward Specialty Insurance Group, Inc.",
-          "options_warning": true
+          "symbol": "BWIN",
+          "name": "The Baldwin Insurance Group, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "PLMR",
@@ -63,14 +53,9 @@
           "options_warning": true
         },
         {
-          "symbol": "RLI",
-          "name": "RLI Corp.",
+          "symbol": "SKWD",
+          "name": "Skyward Specialty Insurance Group, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "OSCR",
-          "name": "Oscar Health, Inc.",
-          "options_warning": false
         },
         {
           "symbol": "CINF",
@@ -107,11 +92,6 @@
           "symbol": "AMGN",
           "name": "Amgen Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "TMO",
-          "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": true
         }
       ]
     },
@@ -124,21 +104,6 @@
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "PHM",
-          "name": "PulteGroup, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "TOL",
-          "name": "Toll Brothers, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SHW",
-          "name": "The Sherwin-Williams Company",
-          "options_warning": true
-        },
         {
           "symbol": "LII",
           "name": "Lennox International Inc.",
@@ -169,16 +134,6 @@
           "symbol": "BA",
           "name": "The Boeing Company",
           "options_warning": false
-        },
-        {
-          "symbol": "TDG",
-          "name": "TransDigm Group Incorporated",
-          "options_warning": true
-        },
-        {
-          "symbol": "GD",
-          "name": "General Dynamics Corporation",
-          "options_warning": true
         },
         {
           "symbol": "HWM",
@@ -223,11 +178,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PB",
-          "name": "Prosperity Bancshares, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
           "options_warning": true
@@ -255,12 +205,12 @@
         {
           "symbol": "ASB",
           "name": "Associated Banc-Corp",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "FHB",
           "name": "First Hawaiian, Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -274,11 +224,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "GEV",
-          "name": "GE Vernova Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "RTX",
           "name": "RTX Corporation",
           "options_warning": false
@@ -286,6 +231,11 @@
         {
           "symbol": "BA",
           "name": "The Boeing Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "UNP",
+          "name": "Union Pacific Corporation",
           "options_warning": false
         },
         {
@@ -320,9 +270,9 @@
           "options_warning": true
         },
         {
-          "symbol": "KSS",
-          "name": "Kohl's Corporation",
-          "options_warning": false
+          "symbol": "PSMT",
+          "name": "PriceSmart, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "DLTR",
@@ -351,8 +301,8 @@
           "options_warning": true
         },
         {
-          "symbol": "AWK",
-          "name": "American Water Works Company, Inc.",
+          "symbol": "A",
+          "name": "Agilent Technologies, Inc.",
           "options_warning": false
         }
       ]
@@ -425,13 +375,13 @@
           "options_warning": false
         },
         {
-          "symbol": "O",
-          "name": "Realty Income Corporation",
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
+          "symbol": "O",
+          "name": "Realty Income Corporation",
           "options_warning": false
         },
         {
