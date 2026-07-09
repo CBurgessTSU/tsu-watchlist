@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T19:49:33.224318-04:00",
+  "generated_at": "2026-07-09T19:44:55.823899-04:00",
   "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
   "core_sectors": [
     {
@@ -38,13 +38,13 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "LMND",
-          "name": "Lemonade, Inc.",
+          "symbol": "BWIN",
+          "name": "The Baldwin Insurance Group, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BWIN",
-          "name": "The Baldwin Insurance Group, Inc.",
+          "symbol": "LMND",
+          "name": "Lemonade, Inc.",
           "options_warning": false
         },
         {
@@ -56,11 +56,6 @@
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "CINF",
-          "name": "Cincinnati Financial Corporation",
-          "options_warning": false
         }
       ]
     },
@@ -105,6 +100,11 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "TOL",
+          "name": "Toll Brothers, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "LII",
           "name": "Lennox International Inc.",
           "options_warning": true
@@ -126,11 +126,6 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "RTX",
-          "name": "RTX Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "BA",
           "name": "The Boeing Company",
           "options_warning": false
@@ -139,6 +134,16 @@
           "symbol": "HWM",
           "name": "Howmet Aerospace Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "GD",
+          "name": "General Dynamics Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "AXON",
+          "name": "Axon Enterprise, Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -178,33 +183,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "PB",
+          "name": "Prosperity Bancshares, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "GBCI",
-          "name": "Glacier Bancorp, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FIBK",
-          "name": "First Interstate BancSystem, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "CFR",
-          "name": "Cullen/Frost Bankers, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "ASB",
-          "name": "Associated Banc-Corp",
           "options_warning": true
         },
         {
@@ -224,18 +209,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "RTX",
-          "name": "RTX Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "BA",
           "name": "The Boeing Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "UNP",
-          "name": "Union Pacific Corporation",
           "options_warning": false
         },
         {
@@ -265,9 +240,19 @@
           "options_warning": false
         },
         {
+          "symbol": "REAL",
+          "name": "The RealReal, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "WRBY",
           "name": "Warby Parker Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "KSS",
+          "name": "Kohl's Corporation",
+          "options_warning": false
         },
         {
           "symbol": "PSMT",
@@ -329,11 +314,6 @@
           "options_warning": false
         },
         {
-          "symbol": "ARGX",
-          "name": "argenx SE",
-          "options_warning": true
-        },
-        {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
           "options_warning": false
@@ -341,11 +321,6 @@
         {
           "symbol": "RVMD",
           "name": "Revolution Medicines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
           "options_warning": false
         },
         {
