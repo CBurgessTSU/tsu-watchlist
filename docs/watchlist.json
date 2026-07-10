@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T19:44:55.823899-04:00",
+  "generated_at": "2026-07-10T19:45:55.045876-04:00",
   "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
   "core_sectors": [
     {
@@ -11,6 +11,11 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "ALGT",
           "name": "Allegiant Travel Company",
@@ -55,6 +60,11 @@
         {
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "AXS",
+          "name": "AXIS Capital Holdings Limited",
           "options_warning": true
         }
       ]
@@ -126,23 +136,8 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "BA",
-          "name": "The Boeing Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "HWM",
-          "name": "Howmet Aerospace Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "GD",
           "name": "General Dynamics Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "AXON",
-          "name": "Axon Enterprise, Inc.",
           "options_warning": true
         }
       ]
@@ -165,11 +160,6 @@
           "symbol": "V",
           "name": "Visa Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "AXP",
-          "name": "American Express Company",
-          "options_warning": false
         }
       ]
     },
@@ -183,18 +173,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PB",
-          "name": "Prosperity Bancshares, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "FHB",
-          "name": "First Hawaiian, Inc.",
           "options_warning": true
         }
       ]
@@ -208,11 +188,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "BA",
-          "name": "The Boeing Company",
-          "options_warning": false
-        },
         {
           "symbol": "DE",
           "name": "Deere & Company",
@@ -237,11 +212,6 @@
         {
           "symbol": "GRPN",
           "name": "Groupon, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "REAL",
-          "name": "The RealReal, Inc.",
           "options_warning": false
         },
         {
@@ -279,11 +249,6 @@
           "symbol": "ECL",
           "name": "Ecolab Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "WAT",
-          "name": "Waters Corporation",
-          "options_warning": true
         },
         {
           "symbol": "A",
