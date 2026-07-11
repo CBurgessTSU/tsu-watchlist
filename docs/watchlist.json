@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T19:45:55.045876-04:00",
+  "generated_at": "2026-07-11T19:48:23.555558-04:00",
   "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
   "core_sectors": [
     {
@@ -19,11 +19,6 @@
         {
           "symbol": "ALGT",
           "name": "Allegiant Travel Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "ULCC",
-          "name": "Frontier Group Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -61,6 +56,11 @@
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "AJG",
+          "name": "Arthur J. Gallagher & Co.",
+          "options_warning": false
         },
         {
           "symbol": "AXS",
@@ -176,6 +176,11 @@
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
           "options_warning": true
+        },
+        {
+          "symbol": "CFR",
+          "name": "Cullen/Frost Bankers, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -192,11 +197,6 @@
           "symbol": "DE",
           "name": "Deere & Company",
           "options_warning": true
-        },
-        {
-          "symbol": "PH",
-          "name": "Parker-Hannifin Corporation",
-          "options_warning": false
         }
       ]
     },
@@ -315,13 +315,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
+          "symbol": "O",
+          "name": "Realty Income Corporation",
           "options_warning": false
         },
         {
-          "symbol": "O",
-          "name": "Realty Income Corporation",
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
           "options_warning": false
         },
         {
