@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-12T20:06:58.619752-04:00",
-  "sectors_frozen_at": "2026-07-04T08:18:22.532234-04:00",
+  "generated_at": "2026-07-13T08:31:15.907048-04:00",
+  "sectors_frozen_at": "2026-07-13T06:46:48.618820-05:00",
   "core_sectors": [
     {
       "etf": "JETS",
       "etf_name": "U.S. Global Jets ETF",
       "tier": "absolute_relative",
-      "return_pct": 16.4912,
-      "spy_return_pct": -1.9472,
+      "return_pct": 12.359943977591058,
+      "spy_return_pct": 2.4286005020012436,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -37,8 +37,8 @@
       "etf": "KIE",
       "etf_name": "State Street SPDR S&P Insurance ETF",
       "tier": "absolute_relative",
-      "return_pct": 16.2344,
-      "spy_return_pct": -1.9472,
+      "return_pct": 11.450649806814205,
+      "spy_return_pct": 2.4286005020012436,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -75,11 +75,53 @@
       ]
     },
     {
+      "etf": "XLF",
+      "etf_name": "State Street Financial Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 6.1951963400686205,
+      "spy_return_pct": 2.4286005020012436,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "BRK.B",
+          "name": "Berkshire Hathaway Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "V",
+          "name": "Visa Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "KRE",
+      "etf_name": "State Street SPDR S&P Regional Banking ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.306007860752393,
+      "spy_return_pct": 2.4286005020012436,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "CFR",
+          "name": "Cullen/Frost Bankers, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
       "etf": "XLV",
       "etf_name": "State Street Health Care Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 11.8443,
-      "spy_return_pct": -1.9472,
+      "return_pct": 4.056414569450739,
+      "spy_return_pct": 2.4286005020012436,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -106,98 +148,19 @@
       ]
     },
     {
-      "etf": "ITB",
-      "etf_name": "iShares U.S. Home Construction ETF",
+      "etf": "MOO",
+      "etf_name": "VanEck Agribusiness ETF",
       "tier": "absolute_relative",
-      "return_pct": 10.3485,
-      "spy_return_pct": -1.9472,
+      "return_pct": 3.980993964299473,
+      "spy_return_pct": 2.4286005020012436,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "TOL",
-          "name": "Toll Brothers, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "LII",
-          "name": "Lennox International Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "MAS",
-          "name": "Masco Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "ITA",
-      "etf_name": "iShares U.S. Aerospace & Defense ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.6979,
-      "spy_return_pct": -1.9472,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "GD",
-          "name": "General Dynamics Corporation",
-          "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "XLF",
-      "etf_name": "State Street Financial Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.0839,
-      "spy_return_pct": -1.9472,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "BRK.B",
-          "name": "Berkshire Hathaway Inc.",
+          "symbol": "CTVA",
+          "name": "Corteva, Inc.",
           "options_warning": false
         },
-        {
-          "symbol": "V",
-          "name": "Visa Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "KRE",
-      "etf_name": "State Street SPDR S&P Regional Banking ETF",
-      "tier": "absolute_relative",
-      "return_pct": 7.8804,
-      "spy_return_pct": -1.9472,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "CFR",
-          "name": "Cullen/Frost Bankers, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLI",
-      "etf_name": "State Street Industrial Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 5.5801,
-      "spy_return_pct": -1.9472,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
         {
           "symbol": "DE",
           "name": "Deere & Company",
@@ -209,8 +172,8 @@
       "etf": "XRT",
       "etf_name": "State Street SPDR S&P Retail ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.2091,
-      "spy_return_pct": -1.9472,
+      "return_pct": 3.8311917953554264,
+      "spy_return_pct": 2.4286005020012436,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -242,22 +205,54 @@
       ]
     },
     {
-      "etf": "PHO",
-      "etf_name": "Invesco Water Resources ETF",
+      "etf": "ITA",
+      "etf_name": "iShares U.S. Aerospace & Defense ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.083,
-      "spy_return_pct": -1.9472,
+      "return_pct": 3.736168366239978,
+      "spy_return_pct": 2.4286005020012436,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "GD",
+          "name": "General Dynamics Corporation",
+          "options_warning": true
+        }
+      ]
+    },
+    {
+      "etf": "XLI",
+      "etf_name": "State Street Industrial Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.5990888382687825,
+      "spy_return_pct": 2.4286005020012436,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "DE",
+          "name": "Deere & Company",
+          "options_warning": true
+        }
+      ]
+    },
+    {
+      "etf": "SMH",
+      "etf_name": "VanEck Semiconductor ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.3874215326305857,
+      "spy_return_pct": 2.4286005020012436,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "A",
-          "name": "Agilent Technologies, Inc.",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -268,8 +263,8 @@
       "etf": "IBB",
       "etf_name": "iShares Biotechnology ETF",
       "tier": "honorary",
-      "return_pct": 19.1331,
-      "spy_return_pct": -1.9472,
+      "return_pct": 13.403401039206408,
+      "spy_return_pct": 2.4286005020012436,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -294,45 +289,9 @@
           "options_warning": false
         },
         {
-          "symbol": "MRNA",
-          "name": "Moderna, Inc.",
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
           "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLRE",
-      "etf_name": "State Street Real Estate Select Sector SPDR ETF",
-      "tier": "honorary",
-      "return_pct": 2.7363,
-      "spy_return_pct": -1.9472,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "WELL",
-          "name": "Welltower Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SPG",
-          "name": "Simon Property Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "O",
-          "name": "Realty Income Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PSA",
-          "name": "Public Storage",
-          "options_warning": true
         }
       ]
     }
