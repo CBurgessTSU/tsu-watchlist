@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T08:31:15.907048-04:00",
+  "generated_at": "2026-07-16T19:42:39.452064-04:00",
   "sectors_frozen_at": "2026-07-13T06:46:48.618820-05:00",
   "core_sectors": [
     {
@@ -20,16 +20,6 @@
           "symbol": "ALGT",
           "name": "Allegiant Travel Company",
           "options_warning": false
-        },
-        {
-          "symbol": "ULCC",
-          "name": "Frontier Group Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "JBLU",
-          "name": "JetBlue Airways Corporation",
-          "options_warning": false
         }
       ]
     },
@@ -42,11 +32,6 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "BWIN",
-          "name": "The Baldwin Insurance Group, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "LMND",
           "name": "Lemonade, Inc.",
@@ -63,13 +48,8 @@
           "options_warning": true
         },
         {
-          "symbol": "AJG",
-          "name": "Arthur J. Gallagher & Co.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AXS",
-          "name": "AXIS Capital Holdings Limited",
+          "symbol": "RGA",
+          "name": "Reinsurance Group of America, Incorporated",
           "options_warning": true
         }
       ]
@@ -89,8 +69,18 @@
           "options_warning": false
         },
         {
-          "symbol": "V",
-          "name": "Visa Inc.",
+          "symbol": "JPM",
+          "name": "JPMorgan Chase & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BAC",
+          "name": "Bank of America Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
           "options_warning": false
         }
       ]
@@ -105,13 +95,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "CFR",
-          "name": "Cullen/Frost Bankers, Inc.",
+          "symbol": "CFG",
+          "name": "Citizens Financial Group, Inc.",
           "options_warning": false
         }
       ]
@@ -131,8 +116,18 @@
           "options_warning": false
         },
         {
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson",
+          "options_warning": false
+        },
+        {
           "symbol": "ABBV",
           "name": "AbbVie Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
           "options_warning": false
         },
         {
@@ -144,6 +139,11 @@
           "symbol": "AMGN",
           "name": "Amgen Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -153,14 +153,9 @@
       "tier": "absolute_relative",
       "return_pct": 3.980993964299473,
       "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "CTVA",
-          "name": "Corteva, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "DE",
           "name": "Deere & Company",
@@ -183,23 +178,28 @@
           "options_warning": false
         },
         {
-          "symbol": "WRBY",
-          "name": "Warby Parker Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "KSS",
-          "name": "Kohl's Corporation",
+          "symbol": "RVLV",
+          "name": "Revolve Group, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PSMT",
-          "name": "PriceSmart, Inc.",
-          "options_warning": true
+          "symbol": "ETSY",
+          "name": "Etsy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CART",
+          "name": "Maplebear Inc.",
+          "options_warning": false
         },
         {
           "symbol": "DLTR",
           "name": "Dollar Tree, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KMX",
+          "name": "CarMax, Inc.",
           "options_warning": false
         }
       ]
@@ -210,15 +210,9 @@
       "tier": "absolute_relative",
       "return_pct": 3.736168366239978,
       "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "GD",
-          "name": "General Dynamics Corporation",
-          "options_warning": true
-        }
-      ]
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
     },
     {
       "etf": "XLI",
@@ -233,6 +227,11 @@
           "symbol": "DE",
           "name": "Deere & Company",
           "options_warning": true
+        },
+        {
+          "symbol": "PH",
+          "name": "Parker-Hannifin Corporation",
+          "options_warning": false
         }
       ]
     },
@@ -244,18 +243,7 @@
       "spy_return_pct": 2.4286005020012436,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     }
   ],
   "honorable_mentions": [
@@ -266,12 +254,12 @@
       "return_pct": 13.403401039206408,
       "spy_return_pct": 2.4286005020012436,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "VRTX",
           "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMGN",
@@ -279,18 +267,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NTRA",
-          "name": "Natera, Inc.",
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
           "options_warning": false
         },
         {
           "symbol": "RVMD",
           "name": "Revolution Medicines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
           "options_warning": false
         }
       ]
