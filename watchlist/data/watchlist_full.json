@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:42:39.452064-04:00",
+  "generated_at": "2026-07-17T19:57:20.370989-04:00",
   "sectors_frozen_at": "2026-07-13T06:46:48.618820-05:00",
   "core_sectors": [
     {
@@ -8,7 +8,7 @@
       "tier": "absolute_relative",
       "return_pct": 12.359943977591058,
       "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -327,13 +327,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ZTS",
-          "name": "Zoetis Inc.",
+          "symbol": "ADM",
+          "name": "Archer-Daniels-Midland Company",
           "options_warning": false
         },
         {
-          "symbol": "ADM",
-          "name": "Archer-Daniels-Midland Company",
+          "symbol": "ZTS",
+          "name": "Zoetis Inc.",
           "options_warning": false
         },
         {
@@ -505,24 +505,24 @@
           "options_warning": false
         },
         {
-          "symbol": "UNP",
-          "name": "Union Pacific Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "BA",
           "name": "The Boeing Company",
           "options_warning": false
         },
         {
-          "symbol": "UBER",
-          "name": "Uber Technologies, Inc.",
+          "symbol": "UNP",
+          "name": "Union Pacific Corporation",
           "options_warning": false
         },
         {
           "symbol": "DE",
           "name": "Deere & Company",
           "options_warning": true
+        },
+        {
+          "symbol": "UBER",
+          "name": "Uber Technologies, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "PH",

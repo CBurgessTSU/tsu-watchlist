@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:42:39.452064-04:00",
+  "generated_at": "2026-07-17T19:57:20.370989-04:00",
   "sectors_frozen_at": "2026-07-13T06:46:48.618820-05:00",
   "core_sectors": [
     {
@@ -8,20 +8,9 @@
       "tier": "absolute_relative",
       "return_pct": 12.359943977591058,
       "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ALGT",
-          "name": "Allegiant Travel Company",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "KIE",
@@ -32,11 +21,6 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "LMND",
-          "name": "Lemonade, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "PLMR",
           "name": "Palomar Holdings, Inc.",
@@ -98,6 +82,11 @@
           "symbol": "CFG",
           "name": "Citizens Financial Group, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "RF",
+          "name": "Regions Financial Corporation",
+          "options_warning": false
         }
       ]
     },
@@ -118,11 +107,6 @@
         {
           "symbol": "JNJ",
           "name": "Johnson & Johnson",
-          "options_warning": false
-        },
-        {
-          "symbol": "ABBV",
-          "name": "AbbVie Inc.",
           "options_warning": false
         },
         {
@@ -160,6 +144,11 @@
           "symbol": "DE",
           "name": "Deere & Company",
           "options_warning": true
+        },
+        {
+          "symbol": "CF",
+          "name": "CF Industries Holdings, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -227,11 +216,6 @@
           "symbol": "DE",
           "name": "Deere & Company",
           "options_warning": true
-        },
-        {
-          "symbol": "PH",
-          "name": "Parker-Hannifin Corporation",
-          "options_warning": false
         }
       ]
     },
