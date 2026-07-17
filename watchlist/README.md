@@ -8,7 +8,7 @@ weekly sector ranking with a nightly stock-qualification pass.
 | Cadence | Slash command              | Writes                          |
 | ------- | -------------------------- | ------------------------------- |
 | Weekly  | `/update-sectors-weekly`   | `watchlist/data/sectors.json`   |
-| Daily   | `/update-watchlist-daily`  | `watchlist/data/watchlist.json` + `docs/watchlist.json` (commits + pushes) |
+| Daily   | `/update-watchlist-daily`  | `watchlist/data/watchlist.json` + `docs/watchlist.json` (commits + pushes), plus `watchlist/data/watchlist_full.json` |
 
 The weekly run freezes which **sectors** appear on the watchlist for the week.
 The daily run only changes which **stocks** under each sector are currently
@@ -27,7 +27,22 @@ on the daily timeframe:
 | `qualEarnings` | `earningsFar`             | no earnings within 2 weeks         |
 
 A symbol is **qualified** iff all three plots equal `1`. A symbol that errors
-or has no indicator data is silently dropped.
+or has no indicator data is silently dropped from `watchlist.json` (but not
+from `watchlist_full.json` — see below).
+
+## chrisbot's ranker feed (`watchlist_full.json`)
+
+`watchlist.json` (and its `docs/` copy) only ever lists currently-qualified
+holdings — that's the public, student-facing page. chrisbot's ranker needs
+every top-10-by-weight holding regardless of qualification, since a stock
+can become qualified mid-week and the ranker should already have researched
+it by then. `assemble_full_watchlist_payload` (in `daily_qualify.py`) builds
+that unfiltered feed — identical schema to `watchlist.json`, just without
+the qualification filter on `stocks[]` — and it's written to
+`watchlist/data/watchlist_full.json`. It is **not** copied into `docs/` and
+never touches the public page; qualification review for a given name still
+happens on the public page / in TradingView, entirely separate from
+chrisbot.
 
 ## Tier rules (weekly)
 
@@ -61,14 +76,17 @@ The set of "non-core" ETFs is configurable in `watchlist/config.json`.
                                   │
                   CB Swing Labels qualification via batch_run
                                   │
-                                  ▼
-                       data/watchlist.json
-                                  │
-                                  ▼
-                       docs/watchlist.json   (page reads this)
-                                  │
-                                  ▼
-                       git commit + push → GitHub Pages
+                    ┌─────────────┴─────────────┐
+                    ▼                            ▼
+          data/watchlist.json          data/watchlist_full.json
+        (qualified holdings only)      (all top-10 holdings)
+                    │                            │
+                    ▼                            ▼
+          docs/watchlist.json               chrisbot's ranker
+        (page reads this)                  (never touches docs/)
+                    │
+                    ▼
+          git commit + push → GitHub Pages
 ```
 
 ## Files
@@ -81,7 +99,8 @@ watchlist/
   test_weekly_sectors.py     # unit tests for tiering
   data/
     sectors.json             # frozen Mon, untouched all week
-    watchlist.json           # rewritten nightly
+    watchlist.json           # rewritten nightly, qualified-only (public page source)
+    watchlist_full.json      # rewritten nightly, all top-10 holdings (chrisbot's ranker feed)
 docs/                        # GitHub Pages root
   index.html, style.css, app.js, watchlist.json
 .claude/commands/

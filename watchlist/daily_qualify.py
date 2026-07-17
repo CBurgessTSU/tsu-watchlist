@@ -92,6 +92,47 @@ def all_unique_symbols(bundles: list[SectorBundle]) -> list[str]:
     return list(seen.keys())
 
 
+def _build_sections(
+    bundles: list[SectorBundle],
+    qualified: dict[str, bool],
+    warn: dict[str, bool],
+    include_all: bool,
+) -> tuple[list[dict], list[dict]]:
+    """Shared section-builder for both watchlist payloads.
+
+    include_all=False keeps only symbols that passed qualification (today's
+    public watchlist.json). include_all=True keeps every top-10 holding
+    regardless of qualification (chrisbot's watchlist_full.json feed).
+    """
+    core: list[dict] = []
+    honoraries: list[dict] = []
+
+    for b in bundles:
+        etf_qualified = qualified.get(b.etf, False)
+        stocks = [
+            {
+                "symbol": c.symbol,
+                "name": c.name,
+                "options_warning": bool(warn.get(c.symbol, False)),
+            }
+            for c in b.candidates
+            if c.symbol != b.etf and (include_all or qualified.get(c.symbol, False))
+        ]
+        section = {
+            "etf": b.etf,
+            "etf_name": b.candidates[0].name if b.candidates else "",
+            "tier": b.tier,
+            "return_pct": b.return_pct,
+            "spy_return_pct": b.spy_return_pct,
+            "etf_qualified": etf_qualified,
+            "etf_options_warning": bool(warn.get(b.etf, False)),
+            "stocks": stocks,
+        }
+        (core if b.bucket == "core" else honoraries).append(section)
+
+    return core, honoraries
+
+
 def assemble_watchlist_payload(
     bundles: list[SectorBundle],
     qualified: dict[str, bool],
@@ -99,7 +140,9 @@ def assemble_watchlist_payload(
     generated_at: str,
     options_warnings: dict[str, bool] | None = None,
 ) -> dict:
-    """Build the final watchlist.json payload.
+    """Build the final watchlist.json payload — qualified holdings only.
+
+    This is the public-page source (docs/watchlist.json copies it verbatim).
 
     Args:
       bundles:           Output of build_sector_bundles.
@@ -110,33 +153,30 @@ def assemble_watchlist_payload(
       options_warnings:  {symbol: True} for symbols with no liquid monthly calls.
                          Omit or pass None to skip options annotation entirely.
     """
-    core: list[dict] = []
-    honoraries: list[dict] = []
-    warn = options_warnings or {}
+    core, honoraries = _build_sections(bundles, qualified, options_warnings or {}, include_all=False)
+    return {
+        "generated_at": generated_at,
+        "sectors_frozen_at": sectors_frozen_at,
+        "core_sectors": core,
+        "honorable_mentions": honoraries,
+    }
 
-    for b in bundles:
-        etf_qualified = qualified.get(b.etf, False)
-        qualified_stocks = [
-            {
-                "symbol": c.symbol,
-                "name": c.name,
-                "options_warning": bool(warn.get(c.symbol, False)),
-            }
-            for c in b.candidates
-            if c.symbol != b.etf and qualified.get(c.symbol, False)
-        ]
-        section = {
-            "etf": b.etf,
-            "etf_name": b.candidates[0].name if b.candidates else "",
-            "tier": b.tier,
-            "return_pct": b.return_pct,
-            "spy_return_pct": b.spy_return_pct,
-            "etf_qualified": etf_qualified,
-            "etf_options_warning": bool(warn.get(b.etf, False)),
-            "stocks": qualified_stocks,
-        }
-        (core if b.bucket == "core" else honoraries).append(section)
 
+def assemble_full_watchlist_payload(
+    bundles: list[SectorBundle],
+    qualified: dict[str, bool],
+    sectors_frozen_at: str,
+    generated_at: str,
+    options_warnings: dict[str, bool] | None = None,
+) -> dict:
+    """Build the unfiltered watchlist_full.json payload — every top-10 holding
+    per sector, regardless of qualification status.
+
+    Feeds chrisbot's ranker only; qualification review stays on the public
+    watchlist.json page, which this does not touch. Same schema as
+    assemble_watchlist_payload — a strict superset of its "stocks" per sector.
+    """
+    core, honoraries = _build_sections(bundles, qualified, options_warnings or {}, include_all=True)
     return {
         "generated_at": generated_at,
         "sectors_frozen_at": sectors_frozen_at,
