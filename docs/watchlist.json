@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-07-17T19:57:20.370989-04:00",
-  "sectors_frozen_at": "2026-07-13T06:46:48.618820-05:00",
+  "generated_at": "2026-07-18T09:11:05.546180-04:00",
+  "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
-    {
-      "etf": "JETS",
-      "etf_name": "U.S. Global Jets ETF",
-      "tier": "absolute_relative",
-      "return_pct": 12.359943977591058,
-      "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
     {
       "etf": "KIE",
       "etf_name": "State Street SPDR S&P Insurance ETF",
       "tier": "absolute_relative",
-      "return_pct": 11.450649806814205,
-      "spy_return_pct": 2.4286005020012436,
+      "return_pct": 9.151216193230137,
+      "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -39,32 +29,58 @@
       ]
     },
     {
-      "etf": "XLF",
-      "etf_name": "State Street Financial Select Sector SPDR ETF",
+      "etf": "XOP",
+      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
       "tier": "absolute_relative",
-      "return_pct": 6.1951963400686205,
-      "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": true,
+      "return_pct": 8.277661131259162,
+      "spy_return_pct": -0.9382538349792857,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "BRK.B",
-          "name": "Berkshire Hathaway Inc.",
+          "symbol": "DK",
+          "name": "Delek US Holdings, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
-          "symbol": "JPM",
-          "name": "JPMorgan Chase & Co.",
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         },
         {
-          "symbol": "BAC",
-          "name": "Bank of America Corporation",
-          "options_warning": false
+          "symbol": "TPL",
+          "name": "Texas Pacific Land Corporation",
+          "options_warning": true
+        }
+      ]
+    },
+    {
+      "etf": "MOO",
+      "etf_name": "VanEck Agribusiness ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.834829443447043,
+      "spy_return_pct": -0.9382538349792857,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "DE",
+          "name": "Deere & Company",
+          "options_warning": true
         },
         {
-          "symbol": "WFC",
-          "name": "Wells Fargo & Company",
+          "symbol": "CF",
+          "name": "CF Industries Holdings, Inc.",
           "options_warning": false
         }
       ]
@@ -73,8 +89,8 @@
       "etf": "KRE",
       "etf_name": "State Street SPDR S&P Regional Banking ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.306007860752393,
-      "spy_return_pct": 2.4286005020012436,
+      "return_pct": 5.793902607256185,
+      "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -94,15 +110,15 @@
       "etf": "XLV",
       "etf_name": "State Street Health Care Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.056414569450739,
-      "spy_return_pct": 2.4286005020012436,
+      "return_pct": 5.328887145285743,
+      "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Company",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "JNJ",
@@ -132,22 +148,63 @@
       ]
     },
     {
-      "etf": "MOO",
-      "etf_name": "VanEck Agribusiness ETF",
+      "etf": "XLE",
+      "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 3.980993964299473,
-      "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "return_pct": 4.190751445086716,
+      "spy_return_pct": -0.9382538349792857,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "DE",
-          "name": "Deere & Company",
-          "options_warning": true
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
+          "options_warning": false
         },
         {
-          "symbol": "CF",
-          "name": "CF Industries Holdings, Inc.",
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IYT",
+      "etf_name": "iShares US Transportation ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.612078977932631,
+      "spy_return_pct": -0.9382538349792857,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": []
+    },
+    {
+      "etf": "XLF",
+      "etf_name": "State Street Financial Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.5142594296228014,
+      "spy_return_pct": -0.9382538349792857,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "JPM",
+          "name": "JPMorgan Chase & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BRK.B",
+          "name": "Berkshire Hathaway Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BAC",
+          "name": "Bank of America Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
           "options_warning": false
         }
       ]
@@ -156,8 +213,8 @@
       "etf": "XRT",
       "etf_name": "State Street SPDR S&P Retail ETF",
       "tier": "absolute_relative",
-      "return_pct": 3.8311917953554264,
-      "spy_return_pct": 2.4286005020012436,
+      "return_pct": 2.6871841984382305,
+      "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -167,64 +224,33 @@
           "options_warning": false
         },
         {
-          "symbol": "RVLV",
-          "name": "Revolve Group, Inc.",
+          "symbol": "ETSY",
+          "name": "Etsy, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ETSY",
-          "name": "Etsy, Inc.",
+          "symbol": "RVLV",
+          "name": "Revolve Group, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "KMX",
+          "name": "CarMax, Inc.",
           "options_warning": false
         },
         {
           "symbol": "CART",
           "name": "Maplebear Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "DLTR",
-          "name": "Dollar Tree, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KMX",
-          "name": "CarMax, Inc.",
-          "options_warning": false
         }
       ]
     },
     {
-      "etf": "ITA",
-      "etf_name": "iShares U.S. Aerospace & Defense ETF",
+      "etf": "PHO",
+      "etf_name": "Invesco Water Resources ETF",
       "tier": "absolute_relative",
-      "return_pct": 3.736168366239978,
-      "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
-      "etf": "XLI",
-      "etf_name": "State Street Industrial Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 3.5990888382687825,
-      "spy_return_pct": 2.4286005020012436,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "DE",
-          "name": "Deere & Company",
-          "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "SMH",
-      "etf_name": "VanEck Semiconductor ETF",
-      "tier": "absolute_relative",
-      "return_pct": 3.3874215326305857,
-      "spy_return_pct": 2.4286005020012436,
+      "return_pct": 1.769128704113232,
+      "spy_return_pct": -0.9382538349792857,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": []
@@ -235,8 +261,8 @@
       "etf": "IBB",
       "etf_name": "iShares Biotechnology ETF",
       "tier": "honorary",
-      "return_pct": 13.403401039206408,
-      "spy_return_pct": 2.4286005020012436,
+      "return_pct": 10.685954269715348,
+      "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -258,6 +284,27 @@
         {
           "symbol": "RVMD",
           "name": "Revolution Medicines, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLRE",
+      "etf_name": "State Street Real Estate Select Sector SPDR ETF",
+      "tier": "honorary",
+      "return_pct": 0.709534368070952,
+      "spy_return_pct": -0.9382538349792857,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "SPG",
+          "name": "Simon Property Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "O",
+          "name": "Realty Income Corporation",
           "options_warning": false
         }
       ]
