@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:49:34.576207-04:00",
+  "generated_at": "2026-07-19T19:47:46.209657-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -12,13 +12,13 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "PLMR",
-          "name": "Palomar Holdings, Inc.",
+          "symbol": "SKWD",
+          "name": "Skyward Specialty Insurance Group, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "SKWD",
-          "name": "Skyward Specialty Insurance Group, Inc.",
+          "symbol": "PLMR",
+          "name": "Palomar Holdings, Inc.",
           "options_warning": true
         },
         {
@@ -38,13 +38,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "DK",
-          "name": "Delek US Holdings, Inc.",
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
+          "symbol": "DK",
+          "name": "Delek US Holdings, Inc.",
           "options_warning": true
         },
         {
@@ -98,6 +98,11 @@
           "symbol": "CFG",
           "name": "Citizens Financial Group, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "MTB",
+          "name": "M&T Bank Corporation",
+          "options_warning": true
         },
         {
           "symbol": "RF",
@@ -239,8 +244,8 @@
           "options_warning": false
         },
         {
-          "symbol": "CART",
-          "name": "Maplebear Inc.",
+          "symbol": "DG",
+          "name": "Dollar General Corporation",
           "options_warning": false
         }
       ]

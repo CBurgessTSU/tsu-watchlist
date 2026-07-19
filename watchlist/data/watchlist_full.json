@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:49:34.576207-04:00",
+  "generated_at": "2026-07-19T19:47:46.209657-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -17,14 +17,9 @@
           "options_warning": false
         },
         {
-          "symbol": "LMND",
-          "name": "Lemonade, Inc.",
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "PLMR",
-          "name": "Palomar Holdings, Inc.",
-          "options_warning": true
         },
         {
           "symbol": "SKWD",
@@ -32,19 +27,9 @@
           "options_warning": true
         },
         {
-          "symbol": "KMPR",
-          "name": "Kemper Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AJG",
-          "name": "Arthur J. Gallagher & Co.",
-          "options_warning": false
+          "symbol": "PLMR",
+          "name": "Palomar Holdings, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "RGA",
@@ -52,13 +37,28 @@
           "options_warning": true
         },
         {
+          "symbol": "AJG",
+          "name": "Arthur J. Gallagher & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LMND",
+          "name": "Lemonade, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LNC",
+          "name": "Lincoln National Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "BRO",
           "name": "Brown & Brown, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PGR",
-          "name": "The Progressive Corporation",
+          "symbol": "KMPR",
+          "name": "Kemper Corporation",
           "options_warning": false
         }
       ]
@@ -78,13 +78,13 @@
           "options_warning": false
         },
         {
-          "symbol": "DK",
-          "name": "Delek US Holdings, Inc.",
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
+          "symbol": "DK",
+          "name": "Delek US Holdings, Inc.",
           "options_warning": true
         },
         {
@@ -113,13 +113,13 @@
           "options_warning": true
         },
         {
-          "symbol": "EXE",
-          "name": "Expand Energy Corporation",
+          "symbol": "VG",
+          "name": "Venture Global, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CNX",
-          "name": "CNX Resources Corporation",
+          "symbol": "PR",
+          "name": "Permian Resources Corporation",
           "options_warning": false
         }
       ]
@@ -185,38 +185,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PNFP",
-          "name": "Pinnacle Financial Partners, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "CFG",
           "name": "Citizens Financial Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FIBK",
-          "name": "First Interstate BancSystem, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ONB",
-          "name": "Old National Bancorp",
-          "options_warning": false
-        },
-        {
-          "symbol": "CFR",
-          "name": "Cullen/Frost Bankers, Inc.",
           "options_warning": false
         },
         {
@@ -225,13 +195,43 @@
           "options_warning": false
         },
         {
-          "symbol": "FHB",
-          "name": "First Hawaiian, Inc.",
-          "options_warning": false
+          "symbol": "MTB",
+          "name": "M&T Bank Corporation",
+          "options_warning": true
         },
         {
           "symbol": "RF",
           "name": "Regions Financial Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CFR",
+          "name": "Cullen/Frost Bankers, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ONB",
+          "name": "Old National Bancorp",
+          "options_warning": false
+        },
+        {
+          "symbol": "HWC",
+          "name": "Hancock Whitney Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ZION",
+          "name": "Zions Bancorporation, National Association",
+          "options_warning": false
+        },
+        {
+          "symbol": "BPOP",
+          "name": "Popular, Inc.",
           "options_warning": false
         }
       ]
@@ -271,18 +271,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
           "options_warning": false
         },
         {
-          "symbol": "GILD",
-          "name": "Gilead Sciences, Inc.",
+          "symbol": "AMGN",
+          "name": "Amgen Inc.",
           "options_warning": false
         },
         {
@@ -291,8 +286,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ISRG",
-          "name": "Intuitive Surgical, Inc.",
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PFE",
+          "name": "Pfizer Inc.",
           "options_warning": false
         }
       ]
@@ -388,13 +388,13 @@
           "options_warning": false
         },
         {
-          "symbol": "UAL",
-          "name": "United Airlines Holdings, Inc.",
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
+          "symbol": "UAL",
+          "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -403,13 +403,13 @@
           "options_warning": false
         },
         {
-          "symbol": "FDX",
-          "name": "FedEx Corporation",
+          "symbol": "ODFL",
+          "name": "Old Dominion Freight Line, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ODFL",
-          "name": "Old Dominion Freight Line, Inc.",
+          "symbol": "FDX",
+          "name": "FedEx Corporation",
           "options_warning": false
         },
         {
@@ -495,23 +495,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ETSY",
-          "name": "Etsy, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "REAL",
           "name": "The RealReal, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RVLV",
-          "name": "Revolve Group, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "KMX",
-          "name": "CarMax, Inc.",
           "options_warning": false
         },
         {
@@ -520,8 +505,23 @@
           "options_warning": false
         },
         {
+          "symbol": "ETSY",
+          "name": "Etsy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RVLV",
+          "name": "Revolve Group, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "SAH",
           "name": "Sonic Automotive, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KMX",
+          "name": "CarMax, Inc.",
           "options_warning": false
         },
         {
@@ -530,13 +530,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CART",
-          "name": "Maplebear Inc.",
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CPNG",
-          "name": "Coupang, Inc.",
+          "symbol": "DG",
+          "name": "Dollar General Corporation",
           "options_warning": false
         }
       ]
@@ -700,8 +700,8 @@
           "options_warning": false
         },
         {
-          "symbol": "DLR",
-          "name": "Digital Realty Trust, Inc.",
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
           "options_warning": false
         },
         {
@@ -710,8 +710,8 @@
           "options_warning": false
         },
         {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
+          "symbol": "DLR",
+          "name": "Digital Realty Trust, Inc.",
           "options_warning": false
         },
         {
