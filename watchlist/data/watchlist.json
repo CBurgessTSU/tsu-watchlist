@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:47:46.209657-04:00",
+  "generated_at": "2026-07-20T19:46:41.878614-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -11,6 +11,11 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
+        {
+          "symbol": "TRV",
+          "name": "The Travelers Companies, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
@@ -74,11 +79,6 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "DE",
-          "name": "Deere & Company",
-          "options_warning": true
-        },
-        {
           "symbol": "CF",
           "name": "CF Industries Holdings, Inc.",
           "options_warning": false
@@ -120,11 +120,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "Eli Lilly and Company",
-          "options_warning": true
-        },
         {
           "symbol": "JNJ",
           "name": "Johnson & Johnson",
@@ -198,11 +193,6 @@
           "options_warning": false
         },
         {
-          "symbol": "BRK.B",
-          "name": "Berkshire Hathaway Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "BAC",
           "name": "Bank of America Corporation",
           "options_warning": false
@@ -271,11 +261,6 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "VRTX",
-          "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": false
-        },
         {
           "symbol": "AMGN",
           "name": "Amgen Inc.",
