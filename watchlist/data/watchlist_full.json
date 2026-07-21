@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:46:41.878614-04:00",
+  "generated_at": "2026-07-21T19:46:57.596643-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -29,7 +29,7 @@
         {
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "LMND",
@@ -80,7 +80,7 @@
         {
           "symbol": "PARR",
           "name": "Par Pacific Holdings, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "DK",
@@ -222,12 +222,12 @@
         {
           "symbol": "HWC",
           "name": "Hancock Whitney Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "ZION",
           "name": "Zions Bancorporation, National Association",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "BPOP",
@@ -248,7 +248,7 @@
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Company",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "JNJ",
@@ -456,7 +456,7 @@
         {
           "symbol": "GS",
           "name": "The Goldman Sachs Group, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "WFC",
@@ -512,7 +512,7 @@
         {
           "symbol": "RVLV",
           "name": "Revolve Group, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "SAH",

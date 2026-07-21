@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:46:41.878614-04:00",
+  "generated_at": "2026-07-21T19:46:57.596643-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -15,11 +15,6 @@
           "symbol": "TRV",
           "name": "The Travelers Companies, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "SKWD",
-          "name": "Skyward Specialty Insurance Group, Inc.",
-          "options_warning": true
         },
         {
           "symbol": "PLMR",
@@ -43,19 +38,9 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "DK",
           "name": "Delek US Holdings, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
         },
         {
           "symbol": "PSX",
@@ -66,6 +51,11 @@
           "symbol": "TPL",
           "name": "Texas Pacific Land Corporation",
           "options_warning": true
+        },
+        {
+          "symbol": "VG",
+          "name": "Venture Global, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -108,6 +98,16 @@
           "symbol": "RF",
           "name": "Regions Financial Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "HWC",
+          "name": "Hancock Whitney Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "ZION",
+          "name": "Zions Bancorporation, National Association",
+          "options_warning": true
         }
       ]
     },
@@ -121,6 +121,11 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Company",
+          "options_warning": true
+        },
+        {
           "symbol": "JNJ",
           "name": "Johnson & Johnson",
           "options_warning": false
@@ -128,16 +133,6 @@
         {
           "symbol": "UNH",
           "name": "UnitedHealth Group Incorporated",
-          "options_warning": false
-        },
-        {
-          "symbol": "MRK",
-          "name": "Merck & Co., Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
           "options_warning": false
         },
         {
@@ -156,11 +151,6 @@
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
         {
           "symbol": "PSX",
           "name": "Phillips 66",
@@ -198,6 +188,11 @@
           "options_warning": false
         },
         {
+          "symbol": "GS",
+          "name": "The Goldman Sachs Group, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "WFC",
           "name": "Wells Fargo & Company",
           "options_warning": false
@@ -224,11 +219,6 @@
           "options_warning": false
         },
         {
-          "symbol": "RVLV",
-          "name": "Revolve Group, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "KMX",
           "name": "CarMax, Inc.",
           "options_warning": false
@@ -248,7 +238,13 @@
       "spy_return_pct": -0.9382538349792857,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "A",
+          "name": "Agilent Technologies, Inc.",
+          "options_warning": false
+        }
+      ]
     }
   ],
   "honorable_mentions": [
@@ -261,11 +257,6 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "GILD",
           "name": "Gilead Sciences, Inc.",
