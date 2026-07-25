@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:46:57.596643-04:00",
+  "generated_at": "2026-07-25T19:56:01.009061-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -9,7 +9,7 @@
       "return_pct": 9.151216193230137,
       "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "BWIN",
@@ -22,44 +22,44 @@
           "options_warning": false
         },
         {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LMND",
-          "name": "Lemonade, Inc.",
+          "symbol": "PLMR",
+          "name": "Palomar Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PLMR",
-          "name": "Palomar Holdings, Inc.",
-          "options_warning": true
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AXS",
+          "name": "AXIS Capital Holdings Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "KMPR",
+          "name": "Kemper Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ALL",
+          "name": "The Allstate Corporation",
+          "options_warning": false
         },
         {
           "symbol": "RGA",
           "name": "Reinsurance Group of America, Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "RLI",
+          "name": "RLI Corp.",
           "options_warning": true
-        },
-        {
-          "symbol": "LNC",
-          "name": "Lincoln National Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "BRO",
-          "name": "Brown & Brown, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AJG",
-          "name": "Arthur J. Gallagher & Co.",
-          "options_warning": false
         }
       ]
     },
@@ -69,7 +69,7 @@
       "tier": "absolute_relative",
       "return_pct": 8.277661131259162,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -85,7 +85,7 @@
         {
           "symbol": "DK",
           "name": "Delek US Holdings, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "DINO",
@@ -93,13 +93,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -110,11 +110,11 @@
         {
           "symbol": "TPL",
           "name": "Texas Pacific Land Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
-          "symbol": "VG",
-          "name": "Venture Global, Inc.",
+          "symbol": "OVV",
+          "name": "Ovintiv Inc.",
           "options_warning": false
         },
         {
@@ -217,7 +217,7 @@
         {
           "symbol": "ONB",
           "name": "Old National Bancorp",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "HWC",
@@ -232,7 +232,7 @@
         {
           "symbol": "BPOP",
           "name": "Popular, Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -242,13 +242,13 @@
       "tier": "absolute_relative",
       "return_pct": 5.328887145285743,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Company",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "JNJ",
@@ -273,7 +273,7 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "AMGN",
@@ -303,7 +303,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.190751445086716,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -337,13 +337,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
+          "symbol": "SLB",
+          "name": "SLB N.V.",
           "options_warning": false
         },
         {
@@ -393,23 +393,23 @@
           "options_warning": false
         },
         {
-          "symbol": "DAL",
-          "name": "Delta Air Lines, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "UAL",
           "name": "United Airlines Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ODFL",
-          "name": "Old Dominion Freight Line, Inc.",
+          "symbol": "DAL",
+          "name": "Delta Air Lines, Inc.",
           "options_warning": false
         },
         {
           "symbol": "FDX",
           "name": "FedEx Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ODFL",
+          "name": "Old Dominion Freight Line, Inc.",
           "options_warning": false
         },
         {
@@ -456,7 +456,7 @@
         {
           "symbol": "GS",
           "name": "The Goldman Sachs Group, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "WFC",
@@ -486,7 +486,7 @@
       "tier": "absolute_relative",
       "return_pct": 2.6871841984382305,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -610,17 +610,17 @@
       "tier": "honorary",
       "return_pct": 10.685954269715348,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "VRTX",
-          "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": false
-        },
         {
           "symbol": "AMGN",
           "name": "Amgen Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VRTX",
+          "name": "Vertex Pharmaceuticals Incorporated",
           "options_warning": false
         },
         {
@@ -639,11 +639,6 @@
           "options_warning": false
         },
         {
-          "symbol": "ALNY",
-          "name": "Alnylam Pharmaceuticals, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
           "options_warning": false
@@ -654,13 +649,18 @@
           "options_warning": false
         },
         {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
+          "symbol": "ALNY",
+          "name": "Alnylam Pharmaceuticals, Inc.",
           "options_warning": false
         },
         {
           "symbol": "ILMN",
           "name": "Illumina, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
           "options_warning": false
         }
       ]

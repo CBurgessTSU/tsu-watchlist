@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:46:57.596643-04:00",
+  "generated_at": "2026-07-25T19:56:01.009061-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -9,7 +9,7 @@
       "return_pct": 9.151216193230137,
       "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "TRV",
@@ -17,13 +17,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PLMR",
-          "name": "Palomar Holdings, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "RGA",
-          "name": "Reinsurance Group of America, Incorporated",
+          "symbol": "RLI",
+          "name": "RLI Corp.",
           "options_warning": true
         }
       ]
@@ -34,27 +29,12 @@
       "tier": "absolute_relative",
       "return_pct": 8.277661131259162,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "DK",
-          "name": "Delek US Holdings, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "TPL",
-          "name": "Texas Pacific Land Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "VG",
-          "name": "Venture Global, Inc.",
+          "symbol": "OVV",
+          "name": "Ovintiv Inc.",
           "options_warning": false
         }
       ]
@@ -67,13 +47,7 @@
       "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "CF",
-          "name": "CF Industries Holdings, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "KRE",
@@ -100,6 +74,11 @@
           "options_warning": false
         },
         {
+          "symbol": "ONB",
+          "name": "Old National Bancorp",
+          "options_warning": true
+        },
+        {
           "symbol": "HWC",
           "name": "Hancock Whitney Corporation",
           "options_warning": true
@@ -107,6 +86,11 @@
         {
           "symbol": "ZION",
           "name": "Zions Bancorporation, National Association",
+          "options_warning": true
+        },
+        {
+          "symbol": "BPOP",
+          "name": "Popular, Inc.",
           "options_warning": true
         }
       ]
@@ -117,28 +101,18 @@
       "tier": "absolute_relative",
       "return_pct": 5.328887145285743,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "Eli Lilly and Company",
-          "options_warning": true
-        },
-        {
-          "symbol": "JNJ",
-          "name": "Johnson & Johnson",
-          "options_warning": false
-        },
         {
           "symbol": "UNH",
           "name": "UnitedHealth Group Incorporated",
           "options_warning": false
         },
         {
-          "symbol": "GILD",
-          "name": "Gilead Sciences, Inc.",
-          "options_warning": false
+          "symbol": "TMO",
+          "name": "Thermo Fisher Scientific Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -148,12 +122,12 @@
       "tier": "absolute_relative",
       "return_pct": 4.190751445086716,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PSX",
-          "name": "Phillips 66",
+          "symbol": "KMI",
+          "name": "Kinder Morgan, Inc.",
           "options_warning": false
         }
       ]
@@ -166,7 +140,23 @@
       "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": true,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "UNP",
+          "name": "Union Pacific Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CSX",
+          "name": "CSX Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "NSC",
+          "name": "Norfolk Southern Corporation",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XLF",
@@ -188,11 +178,6 @@
           "options_warning": false
         },
         {
-          "symbol": "GS",
-          "name": "The Goldman Sachs Group, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "WFC",
           "name": "Wells Fargo & Company",
           "options_warning": false
@@ -205,27 +190,12 @@
       "tier": "absolute_relative",
       "return_pct": 2.6871841984382305,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "GRPN",
-          "name": "Groupon, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ETSY",
-          "name": "Etsy, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "KMX",
           "name": "CarMax, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "DG",
-          "name": "Dollar General Corporation",
           "options_warning": false
         }
       ]
@@ -254,20 +224,9 @@
       "tier": "honorary",
       "return_pct": 10.685954269715348,
       "spy_return_pct": -0.9382538349792857,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "GILD",
-          "name": "Gilead Sciences, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RVMD",
-          "name": "Revolution Medicines, Inc.",
-          "options_warning": false
-        }
-      ]
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
     },
     {
       "etf": "XLRE",
@@ -277,18 +236,7 @@
       "spy_return_pct": -0.9382538349792857,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "SPG",
-          "name": "Simon Property Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "O",
-          "name": "Realty Income Corporation",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     }
   ]
 }
