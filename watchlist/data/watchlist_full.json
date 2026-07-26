@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:56:01.009061-04:00",
+  "generated_at": "2026-07-26T19:50:37.093145-04:00",
   "sectors_frozen_at": "2026-07-18T08:19:19.111133-04:00",
   "core_sectors": [
     {
@@ -306,11 +306,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
-          "options_warning": false
-        },
         {
           "symbol": "CVX",
           "name": "Chevron Corporation",
@@ -695,6 +690,11 @@
           "options_warning": false
         },
         {
+          "symbol": "DLR",
+          "name": "Digital Realty Trust, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "SPG",
           "name": "Simon Property Group, Inc.",
           "options_warning": false
@@ -705,18 +705,13 @@
           "options_warning": false
         },
         {
-          "symbol": "O",
-          "name": "Realty Income Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "DLR",
-          "name": "Digital Realty Trust, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "PSA",
           "name": "Public Storage",
+          "options_warning": false
+        },
+        {
+          "symbol": "O",
+          "name": "Realty Income Corporation",
           "options_warning": false
         },
         {
