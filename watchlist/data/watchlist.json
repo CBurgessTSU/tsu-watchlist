@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:14:57.272797-04:00",
+  "generated_at": "2026-07-27T19:49:35.927429-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -26,13 +26,7 @@
       "spy_return_pct": 0.7760078555452354,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "KMI",
-          "name": "Kinder Morgan, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "MOO",
@@ -82,7 +76,7 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -183,6 +177,11 @@
           "options_warning": false
         },
         {
+          "symbol": "PNFP",
+          "name": "Pinnacle Financial Partners, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "BPOP",
           "name": "Popular, Inc.",
           "options_warning": true
@@ -224,7 +223,13 @@
       "spy_return_pct": 0.7760078555452354,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "WELL",
+          "name": "Welltower Inc.",
+          "options_warning": true
+        }
+      ]
     }
   ]
 }
