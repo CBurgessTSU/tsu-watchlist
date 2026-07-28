@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:49:35.927429-04:00",
+  "generated_at": "2026-07-28T19:50:48.203036-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -11,6 +11,11 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "DINO",
+          "name": "HF Sinclair Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "OVV",
           "name": "Ovintiv Inc.",
@@ -51,6 +56,11 @@
           "symbol": "TRV",
           "name": "The Travelers Companies, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "AXS",
+          "name": "AXIS Capital Holdings Limited",
+          "options_warning": true
         },
         {
           "symbol": "RLI",
@@ -102,6 +112,11 @@
         {
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "V",
+          "name": "Visa Inc.",
           "options_warning": false
         },
         {
@@ -228,6 +243,11 @@
           "symbol": "WELL",
           "name": "Welltower Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "PLD",
+          "name": "Prologis, Inc.",
+          "options_warning": false
         }
       ]
     }

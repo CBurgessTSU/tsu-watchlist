@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:49:35.927429-04:00",
+  "generated_at": "2026-07-28T19:50:48.203036-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -73,6 +73,11 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "CVX",
           "name": "Chevron Corporation",
           "options_warning": false
@@ -98,13 +103,13 @@
           "options_warning": false
         },
         {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
+          "symbol": "SLB",
+          "name": "SLB N.V.",
           "options_warning": false
         },
         {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
           "options_warning": false
         },
         {
@@ -207,7 +212,7 @@
         {
           "symbol": "AXS",
           "name": "AXIS Capital Holdings Limited",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "KMPR",
@@ -594,8 +599,8 @@
           "options_warning": false
         },
         {
-          "symbol": "NTRA",
-          "name": "Natera, Inc.",
+          "symbol": "ALNY",
+          "name": "Alnylam Pharmaceuticals, Inc.",
           "options_warning": false
         },
         {
@@ -604,18 +609,18 @@
           "options_warning": false
         },
         {
-          "symbol": "ALNY",
-          "name": "Alnylam Pharmaceuticals, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
           "options_warning": false
         },
         {
           "symbol": "BIIB",
           "name": "Biogen Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
           "options_warning": false
         }
       ]
