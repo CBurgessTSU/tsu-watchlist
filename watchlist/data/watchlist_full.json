@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:50:48.203036-04:00",
+  "generated_at": "2026-07-29T19:53:34.734025-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -212,7 +212,7 @@
         {
           "symbol": "AXS",
           "name": "AXIS Capital Holdings Limited",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "KMPR",
@@ -242,7 +242,7 @@
       "tier": "absolute_relative",
       "return_pct": 6.012389957613307,
       "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -410,8 +410,8 @@
       "tier": "absolute_relative",
       "return_pct": 3.188745603751464,
       "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "UNP",
@@ -637,7 +637,7 @@
         {
           "symbol": "WELL",
           "name": "Welltower Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "PLD",
