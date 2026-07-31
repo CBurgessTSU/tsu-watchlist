@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:53:34.734025-04:00",
+  "generated_at": "2026-07-31T19:45:49.600518-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -513,12 +513,17 @@
         {
           "symbol": "CFR",
           "name": "Cullen/Frost Bankers, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "HOMB",
           "name": "Home BancShares, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "PNFP",
+          "name": "Pinnacle Financial Partners, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "MTB",
@@ -531,14 +536,14 @@
           "options_warning": false
         },
         {
-          "symbol": "PNFP",
-          "name": "Pinnacle Financial Partners, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "BPOP",
           "name": "Popular, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "ONB",
+          "name": "Old National Bancorp",
+          "options_warning": false
         },
         {
           "symbol": "SSB",
@@ -546,19 +551,14 @@
           "options_warning": false
         },
         {
-          "symbol": "ONB",
-          "name": "Old National Bancorp",
+          "symbol": "AUB",
+          "name": "Atlantic Union Bankshares Corporation",
           "options_warning": true
         },
         {
           "symbol": "CBSH",
           "name": "Commerce Bancshares, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "BANC",
-          "name": "Banc of California, Inc.",
-          "options_warning": false
         }
       ]
     }
@@ -591,7 +591,7 @@
         {
           "symbol": "REGN",
           "name": "Regeneron Pharmaceuticals, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "ARGX",
@@ -621,7 +621,7 @@
         {
           "symbol": "ILMN",
           "name": "Illumina, Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -655,13 +655,13 @@
           "options_warning": false
         },
         {
-          "symbol": "DLR",
-          "name": "Digital Realty Trust, Inc.",
+          "symbol": "SPG",
+          "name": "Simon Property Group, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SPG",
-          "name": "Simon Property Group, Inc.",
+          "symbol": "DLR",
+          "name": "Digital Realty Trust, Inc.",
           "options_warning": false
         },
         {

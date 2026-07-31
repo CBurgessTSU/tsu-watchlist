@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:53:34.734025-04:00",
+  "generated_at": "2026-07-31T19:45:49.600518-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -12,8 +12,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "PBF",
+          "name": "PBF Energy Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "DINO",
           "name": "HF Sinclair Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -31,7 +41,23 @@
       "spy_return_pct": 0.7760078555452354,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "MOO",
@@ -74,8 +100,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
+          "symbol": "ABBV",
+          "name": "AbbVie Inc.",
           "options_warning": false
         },
         {
@@ -115,8 +141,18 @@
           "options_warning": false
         },
         {
+          "symbol": "MA",
+          "name": "Mastercard Incorporated",
+          "options_warning": false
+        },
+        {
           "symbol": "BAC",
           "name": "Bank of America Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
           "options_warning": false
         }
       ]
@@ -167,9 +203,19 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "CFR",
+          "name": "Cullen/Frost Bankers, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "HOMB",
           "name": "Home BancShares, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "PNFP",
+          "name": "Pinnacle Financial Partners, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "MTB",
@@ -182,14 +228,14 @@
           "options_warning": false
         },
         {
-          "symbol": "PNFP",
-          "name": "Pinnacle Financial Partners, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "BPOP",
           "name": "Popular, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "ONB",
+          "name": "Old National Bancorp",
+          "options_warning": false
         },
         {
           "symbol": "SSB",
@@ -197,8 +243,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ONB",
-          "name": "Old National Bancorp",
+          "symbol": "AUB",
+          "name": "Atlantic Union Bankshares Corporation",
           "options_warning": true
         },
         {
@@ -218,7 +264,18 @@
       "spy_return_pct": 0.7760078555452354,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "REGN",
+          "name": "Regeneron Pharmaceuticals, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
+          "options_warning": true
+        }
+      ]
     },
     {
       "etf": "XLRE",
