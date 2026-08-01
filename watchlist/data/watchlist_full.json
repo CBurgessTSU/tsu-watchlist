@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:45:49.600518-04:00",
+  "generated_at": "2026-08-01T19:41:50.340540-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -32,13 +32,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
@@ -47,8 +47,8 @@
           "options_warning": false
         },
         {
-          "symbol": "TPL",
-          "name": "Texas Pacific Land Corporation",
+          "symbol": "PR",
+          "name": "Permian Resources Corporation",
           "options_warning": false
         },
         {
@@ -57,8 +57,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PR",
-          "name": "Permian Resources Corporation",
+          "symbol": "TPL",
+          "name": "Texas Pacific Land Corporation",
           "options_warning": false
         }
       ]
@@ -103,23 +103,23 @@
           "options_warning": false
         },
         {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "WMB",
-          "name": "The Williams Companies, Inc.",
+          "symbol": "SLB",
+          "name": "SLB N.V.",
           "options_warning": false
         },
         {
           "symbol": "KMI",
           "name": "Kinder Morgan, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WMB",
+          "name": "The Williams Companies, Inc.",
           "options_warning": false
         }
       ]
@@ -149,13 +149,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ADM",
-          "name": "Archer-Daniels-Midland Company",
+          "symbol": "ZTS",
+          "name": "Zoetis Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ZTS",
-          "name": "Zoetis Inc.",
+          "symbol": "ADM",
+          "name": "Archer-Daniels-Midland Company",
           "options_warning": false
         },
         {
@@ -190,6 +190,21 @@
           "options_warning": false
         },
         {
+          "symbol": "WTW",
+          "name": "Willis Towers Watson Public Limited Company",
+          "options_warning": true
+        },
+        {
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LNC",
+          "name": "Lincoln National Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "TRV",
           "name": "The Travelers Companies, Inc.",
           "options_warning": false
@@ -205,34 +220,19 @@
           "options_warning": false
         },
         {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
+          "symbol": "ALL",
+          "name": "The Allstate Corporation",
           "options_warning": false
         },
         {
-          "symbol": "AXS",
-          "name": "AXIS Capital Holdings Limited",
+          "symbol": "BRO",
+          "name": "Brown & Brown, Inc.",
           "options_warning": false
         },
         {
           "symbol": "KMPR",
           "name": "Kemper Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "ALL",
-          "name": "The Allstate Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "RGA",
-          "name": "Reinsurance Group of America, Incorporated",
-          "options_warning": false
-        },
-        {
-          "symbol": "RLI",
-          "name": "RLI Corp.",
-          "options_warning": true
         }
       ]
     },
@@ -526,8 +526,8 @@
           "options_warning": false
         },
         {
-          "symbol": "MTB",
-          "name": "M&T Bank Corporation",
+          "symbol": "BPOP",
+          "name": "Popular, Inc.",
           "options_warning": true
         },
         {
@@ -536,14 +536,19 @@
           "options_warning": false
         },
         {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
           "options_warning": true
         },
         {
-          "symbol": "ONB",
-          "name": "Old National Bancorp",
-          "options_warning": false
+          "symbol": "MTB",
+          "name": "M&T Bank Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "CBSH",
+          "name": "Commerce Bancshares, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "SSB",
@@ -551,14 +556,9 @@
           "options_warning": false
         },
         {
-          "symbol": "AUB",
-          "name": "Atlantic Union Bankshares Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "CBSH",
-          "name": "Commerce Bancshares, Inc.",
-          "options_warning": true
+          "symbol": "ONB",
+          "name": "Old National Bancorp",
+          "options_warning": false
         }
       ]
     }
@@ -599,8 +599,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ALNY",
-          "name": "Alnylam Pharmaceuticals, Inc.",
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
           "options_warning": false
         },
         {
@@ -609,9 +609,9 @@
           "options_warning": false
         },
         {
-          "symbol": "NTRA",
-          "name": "Natera, Inc.",
-          "options_warning": false
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "BIIB",
@@ -619,9 +619,9 @@
           "options_warning": false
         },
         {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
-          "options_warning": true
+          "symbol": "ALNY",
+          "name": "Alnylam Pharmaceuticals, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -665,11 +665,6 @@
           "options_warning": false
         },
         {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "PSA",
           "name": "Public Storage",
           "options_warning": false
@@ -677,6 +672,11 @@
         {
           "symbol": "O",
           "name": "Realty Income Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
           "options_warning": false
         },
         {

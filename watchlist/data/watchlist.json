@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:45:49.600518-04:00",
+  "generated_at": "2026-08-01T19:41:50.340540-04:00",
   "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
   "core_sectors": [
     {
@@ -79,14 +79,19 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
+          "symbol": "WTW",
+          "name": "Willis Towers Watson Public Limited Company",
+          "options_warning": true
+        },
+        {
+          "symbol": "LNC",
+          "name": "Lincoln National Corporation",
           "options_warning": false
         },
         {
-          "symbol": "RLI",
-          "name": "RLI Corp.",
-          "options_warning": true
+          "symbol": "TRV",
+          "name": "The Travelers Companies, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -218,8 +223,8 @@
           "options_warning": false
         },
         {
-          "symbol": "MTB",
-          "name": "M&T Bank Corporation",
+          "symbol": "BPOP",
+          "name": "Popular, Inc.",
           "options_warning": true
         },
         {
@@ -228,14 +233,19 @@
           "options_warning": false
         },
         {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
           "options_warning": true
         },
         {
-          "symbol": "ONB",
-          "name": "Old National Bancorp",
-          "options_warning": false
+          "symbol": "MTB",
+          "name": "M&T Bank Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "CBSH",
+          "name": "Commerce Bancshares, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "SSB",
@@ -243,14 +253,9 @@
           "options_warning": false
         },
         {
-          "symbol": "AUB",
-          "name": "Atlantic Union Bankshares Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "CBSH",
-          "name": "Commerce Bancshares, Inc.",
-          "options_warning": true
+          "symbol": "ONB",
+          "name": "Old National Bancorp",
+          "options_warning": false
         }
       ]
     }
