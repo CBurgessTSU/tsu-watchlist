@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:46:39.708315-04:00",
+  "generated_at": "2026-08-04T19:48:33.299275-04:00",
   "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
   "core_sectors": [
     {
@@ -17,6 +17,11 @@
           "options_warning": false
         },
         {
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "DINO",
           "name": "HF Sinclair Corporation",
           "options_warning": false
@@ -24,6 +29,11 @@
         {
           "symbol": "VLO",
           "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
@@ -53,8 +63,18 @@
           "options_warning": false
         },
         {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "VLO",
           "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
           "options_warning": false
         },
         {
@@ -84,9 +104,9 @@
           "options_warning": false
         },
         {
-          "symbol": "NOV",
-          "name": "NOV Inc.",
-          "options_warning": false
+          "symbol": "OII",
+          "name": "Oceaneering International, Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -102,6 +122,11 @@
         {
           "symbol": "AMZN",
           "name": "Amazon.com, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BKNG",
+          "name": "Booking Holdings Inc.",
           "options_warning": false
         },
         {
@@ -124,6 +149,11 @@
           "symbol": "MSFT",
           "name": "Microsoft Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -142,9 +172,19 @@
           "options_warning": true
         },
         {
+          "symbol": "RVLV",
+          "name": "Revolve Group, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "PAG",
           "name": "Penske Automotive Group, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
+          "options_warning": false
         },
         {
           "symbol": "KMX",
@@ -161,7 +201,13 @@
       "spy_return_pct": 1.7307124251456862,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "SCCO",
+          "name": "Southern Copper Corporation",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XLF",
@@ -190,11 +236,6 @@
         {
           "symbol": "BAC",
           "name": "Bank of America Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "WFC",
-          "name": "Wells Fargo & Company",
           "options_warning": false
         }
       ]
@@ -236,7 +277,7 @@
         {
           "symbol": "MTB",
           "name": "M&T Bank Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CBSH",
@@ -263,7 +304,13 @@
       "spy_return_pct": 1.7307124251456862,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc.",
+          "options_warning": false
+        }
+      ]
     }
   ],
   "honorable_mentions": []

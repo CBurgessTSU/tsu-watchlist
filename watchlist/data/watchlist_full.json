@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:46:39.708315-04:00",
+  "generated_at": "2026-08-04T19:48:33.299275-04:00",
   "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
   "core_sectors": [
     {
@@ -19,7 +19,7 @@
         {
           "symbol": "PARR",
           "name": "Par Pacific Holdings, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "DK",
@@ -159,13 +159,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NOV",
-          "name": "NOV Inc.",
-          "options_warning": false
+          "symbol": "OII",
+          "name": "Oceaneering International, Inc.",
+          "options_warning": true
         },
         {
-          "symbol": "SEI",
-          "name": "Solaris Energy Infrastructure, Inc.",
+          "symbol": "NOV",
+          "name": "NOV Inc.",
           "options_warning": false
         }
       ]
@@ -302,14 +302,14 @@
           "options_warning": false
         },
         {
-          "symbol": "LAD",
-          "name": "Lithia Motors, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "REAL",
           "name": "The RealReal, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "LAD",
+          "name": "Lithia Motors, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "EYE",
@@ -319,7 +319,7 @@
         {
           "symbol": "RVLV",
           "name": "Revolve Group, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "PAG",
@@ -332,8 +332,8 @@
           "options_warning": false
         },
         {
-          "symbol": "KMX",
-          "name": "CarMax, Inc.",
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
           "options_warning": false
         },
         {
@@ -342,8 +342,8 @@
           "options_warning": false
         },
         {
-          "symbol": "SAH",
-          "name": "Sonic Automotive, Inc.",
+          "symbol": "KMX",
+          "name": "CarMax, Inc.",
           "options_warning": false
         }
       ]
@@ -487,7 +487,7 @@
         {
           "symbol": "MTB",
           "name": "M&T Bank Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "CBSH",
@@ -551,13 +551,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ROKU",
-          "name": "Roku, Inc.",
+          "symbol": "CIEN",
+          "name": "Ciena Corporation",
           "options_warning": false
         },
         {
-          "symbol": "CIEN",
-          "name": "Ciena Corporation",
+          "symbol": "ROKU",
+          "name": "Roku, Inc.",
           "options_warning": false
         },
         {
