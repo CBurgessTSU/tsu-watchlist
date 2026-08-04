@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-01T19:41:50.340540-04:00",
-  "sectors_frozen_at": "2026-07-27T08:18:01-04:00",
+  "generated_at": "2026-08-03T23:46:39.708315-04:00",
+  "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
   "core_sectors": [
     {
       "etf": "XOP",
       "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
       "tier": "absolute_relative",
-      "return_pct": 13.735868783898585,
-      "spy_return_pct": 0.7760078555452354,
+      "return_pct": 12.69,
+      "spy_return_pct": 1.7307124251456862,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -37,8 +37,8 @@
       "etf": "XLE",
       "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 11.293634496919914,
-      "spy_return_pct": 0.7760078555452354,
+      "return_pct": 10.48,
+      "spy_return_pct": 1.7307124251456862,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -56,62 +56,10 @@
           "symbol": "VLO",
           "name": "Valero Energy Corporation",
           "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "MOO",
-      "etf_name": "VanEck Agribusiness ETF",
-      "tier": "absolute_relative",
-      "return_pct": 7.763089683773994,
-      "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": []
-    },
-    {
-      "etf": "KIE",
-      "etf_name": "State Street SPDR S&P Insurance ETF",
-      "tier": "absolute_relative",
-      "return_pct": 7.401205626255858,
-      "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "WTW",
-          "name": "Willis Towers Watson Public Limited Company",
-          "options_warning": true
         },
         {
-          "symbol": "LNC",
-          "name": "Lincoln National Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLV",
-      "etf_name": "State Street Health Care Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 6.012389957613307,
-      "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "ABBV",
-          "name": "AbbVie Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TMO",
-          "name": "Thermo Fisher Scientific Inc.",
+          "symbol": "SLB",
+          "name": "SLB N.V.",
           "options_warning": false
         }
       ]
@@ -120,8 +68,97 @@
       "etf": "OIH",
       "etf_name": "VanEck Oil Services ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.49196002908936,
-      "spy_return_pct": 0.7760078555452354,
+      "return_pct": 6.25,
+      "spy_return_pct": 1.7307124251456862,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "SLB",
+          "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BKR",
+          "name": "Baker Hughes Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "NOV",
+          "name": "NOV Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "FDN",
+      "etf_name": "First Trust Dow Jones Internet Index Fund",
+      "tier": "absolute_relative",
+      "return_pct": 5.92,
+      "spy_return_pct": 1.7307124251456862,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
+      "tier": "absolute_relative",
+      "return_pct": 4.12,
+      "spy_return_pct": 1.7307124251456862,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XRT",
+      "etf_name": "State Street SPDR S&P Retail ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.86,
+      "spy_return_pct": 1.7307124251456862,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "LAD",
+          "name": "Lithia Motors, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "PAG",
+          "name": "Penske Automotive Group, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "KMX",
+          "name": "CarMax, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "COPX",
+      "etf_name": "Global X Copper Miners ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.535551206784082,
+      "spy_return_pct": 1.7307124251456862,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": []
@@ -130,8 +167,8 @@
       "etf": "XLF",
       "etf_name": "State Street Financial Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.82129560685034,
-      "spy_return_pct": 0.7760078555452354,
+      "return_pct": 3.16,
+      "spy_return_pct": 1.7307124251456862,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -163,47 +200,11 @@
       ]
     },
     {
-      "etf": "IYT",
-      "etf_name": "iShares US Transportation ETF",
-      "tier": "absolute_relative",
-      "return_pct": 3.188745603751464,
-      "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "UNP",
-          "name": "Union Pacific Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "CSX",
-          "name": "CSX Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "NSC",
-          "name": "Norfolk Southern Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "COPX",
-      "etf_name": "Global X Copper Miners ETF",
-      "tier": "absolute_relative",
-      "return_pct": 2.668428005284018,
-      "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
       "etf": "KRE",
       "etf_name": "State Street SPDR S&P Regional Banking ETF",
       "tier": "absolute_relative",
-      "return_pct": 2.379342976882537,
-      "spy_return_pct": 0.7760078555452354,
+      "return_pct": 2.72,
+      "spy_return_pct": 1.7307124251456862,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -233,11 +234,6 @@
           "options_warning": false
         },
         {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
-        },
-        {
           "symbol": "MTB",
           "name": "M&T Bank Corporation",
           "options_warning": true
@@ -258,55 +254,17 @@
           "options_warning": false
         }
       ]
-    }
-  ],
-  "honorable_mentions": [
-    {
-      "etf": "IBB",
-      "etf_name": "iShares Biotechnology ETF",
-      "tier": "honorary",
-      "return_pct": 3.6412714151930814,
-      "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "REGN",
-          "name": "Regeneron Pharmaceuticals, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
-          "options_warning": true
-        }
-      ]
     },
     {
-      "etf": "XLRE",
-      "etf_name": "State Street Real Estate Select Sector SPDR ETF",
-      "tier": "honorary",
-      "return_pct": 3.235228038643023,
-      "spy_return_pct": 0.7760078555452354,
-      "etf_qualified": true,
+      "etf": "IYZ",
+      "etf_name": "iShares U.S. Telecommunications ETF",
+      "tier": "absolute_relative",
+      "return_pct": 2.62,
+      "spy_return_pct": 1.7307124251456862,
+      "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "WELL",
-          "name": "Welltower Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PLD",
-          "name": "Prologis, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     }
-  ]
+  ],
+  "honorable_mentions": []
 }
