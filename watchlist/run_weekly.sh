@@ -1,6 +1,6 @@
 #!/bin/bash
-# Invoked every 15 min (see plist StartInterval) while the Mac is awake, not on
-# a fixed clock time. This guard makes each invocation a cheap no-op except for
+# Invoked hourly (see plist StartInterval) while the Mac is awake, not on a
+# fixed clock time. This guard makes each invocation a cheap no-op except for
 # the first poll that lands on a Saturday/Sunday where the weekly run hasn't
 # completed yet that week — so it fires shortly after the user starts using
 # the computer over the weekend, instead of at a fixed hour that can be missed
