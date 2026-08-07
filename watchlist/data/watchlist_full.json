@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:48:33.299275-04:00",
+  "generated_at": "2026-08-06T20:49:34.760568-04:00",
   "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
   "core_sectors": [
     {
@@ -130,8 +130,8 @@
       "tier": "absolute_relative",
       "return_pct": 6.25,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "SLB",
@@ -176,8 +176,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.92,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "AMZN",
@@ -232,7 +232,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.12,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -354,7 +354,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.535551206784082,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -482,7 +482,7 @@
         {
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "MTB",
@@ -512,8 +512,8 @@
       "tier": "absolute_relative",
       "return_pct": 2.62,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "CSCO",

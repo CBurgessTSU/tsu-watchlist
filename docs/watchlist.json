@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:48:33.299275-04:00",
+  "generated_at": "2026-08-06T20:49:34.760568-04:00",
   "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
   "core_sectors": [
     {
@@ -22,6 +22,11 @@
           "options_warning": true
         },
         {
+          "symbol": "DK",
+          "name": "Delek US Holdings, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "DINO",
           "name": "HF Sinclair Corporation",
           "options_warning": false
@@ -34,6 +39,16 @@
         {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "options_warning": false
+        },
+        {
+          "symbol": "PR",
+          "name": "Permian Resources Corporation",
           "options_warning": false
         },
         {
@@ -63,8 +78,18 @@
           "options_warning": false
         },
         {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "options_warning": false
+        },
+        {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         },
         {
@@ -90,8 +115,8 @@
       "tier": "absolute_relative",
       "return_pct": 6.25,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "SLB",
@@ -101,6 +126,11 @@
         {
           "symbol": "BKR",
           "name": "Baker Hughes Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "RIG",
+          "name": "Transocean Ltd.",
           "options_warning": false
         },
         {
@@ -116,8 +146,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.92,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "AMZN",
@@ -127,6 +157,16 @@
         {
           "symbol": "BKNG",
           "name": "Booking Holdings Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ANET",
+          "name": "Arista Networks, Inc.",
           "options_warning": false
         },
         {
@@ -142,17 +182,27 @@
       "tier": "absolute_relative",
       "return_pct": 4.12,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
           "options_warning": false
         }
       ]
@@ -166,6 +216,16 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "GRPN",
+          "name": "Groupon, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "REAL",
+          "name": "The RealReal, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "LAD",
           "name": "Lithia Motors, Inc.",
@@ -182,8 +242,18 @@
           "options_warning": true
         },
         {
+          "symbol": "KSS",
+          "name": "Kohl's Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "VSXY",
           "name": "Victoria's Secret & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ETSY",
+          "name": "Etsy, Inc.",
           "options_warning": false
         },
         {
@@ -199,12 +269,27 @@
       "tier": "absolute_relative",
       "return_pct": 3.535551206784082,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "TECK",
+          "name": "TECK RESOURCES LTD-CLS B",
+          "options_warning": false
+        },
+        {
+          "symbol": "HBM",
+          "name": "Hudbay Minerals Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "SCCO",
           "name": "Southern Copper Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
           "options_warning": false
         }
       ]
@@ -224,6 +309,11 @@
           "options_warning": false
         },
         {
+          "symbol": "BRK.B",
+          "name": "Berkshire Hathaway Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "V",
           "name": "Visa Inc.",
           "options_warning": false
@@ -236,6 +326,16 @@
         {
           "symbol": "BAC",
           "name": "Bank of America Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WFC",
+          "name": "Wells Fargo & Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "AXP",
+          "name": "American Express Company",
           "options_warning": false
         }
       ]
@@ -275,6 +375,11 @@
           "options_warning": false
         },
         {
+          "symbol": "UMBF",
+          "name": "UMB Financial Corporation",
+          "options_warning": true
+        },
+        {
           "symbol": "MTB",
           "name": "M&T Bank Corporation",
           "options_warning": false
@@ -302,12 +407,27 @@
       "tier": "absolute_relative",
       "return_pct": 2.62,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "VZ",
           "name": "Verizon Communications Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ANET",
+          "name": "Arista Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MSI",
+          "name": "Motorola Solutions, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ROKU",
+          "name": "Roku, Inc.",
           "options_warning": false
         }
       ]
