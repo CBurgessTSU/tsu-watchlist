@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T20:49:34.760568-04:00",
+  "generated_at": "2026-08-07T19:50:13.538024-04:00",
   "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
   "core_sectors": [
     {
@@ -17,18 +17,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "DK",
           "name": "Delek US Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "DINO",
-          "name": "HF Sinclair Corporation",
           "options_warning": false
         },
         {
@@ -98,11 +88,6 @@
           "options_warning": false
         },
         {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "SLB",
           "name": "SLB N.V.",
           "options_warning": false
@@ -129,11 +114,6 @@
           "options_warning": false
         },
         {
-          "symbol": "RIG",
-          "name": "Transocean Ltd.",
-          "options_warning": false
-        },
-        {
           "symbol": "OII",
           "name": "Oceaneering International, Inc.",
           "options_warning": true
@@ -146,8 +126,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.92,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "AMZN",
@@ -157,11 +137,6 @@
         {
           "symbol": "BKNG",
           "name": "Booking Holdings Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
@@ -186,23 +161,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PANW",
-          "name": "Palo Alto Networks, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MSFT",
           "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
-          "symbol": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FTNT",
-          "name": "Fortinet, Inc.",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         }
       ]
@@ -217,11 +182,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "GRPN",
-          "name": "Groupon, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "REAL",
           "name": "The RealReal, Inc.",
           "options_warning": false
@@ -229,11 +189,6 @@
         {
           "symbol": "LAD",
           "name": "Lithia Motors, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "RVLV",
-          "name": "Revolve Group, Inc.",
           "options_warning": true
         },
         {
@@ -278,11 +233,6 @@
           "options_warning": false
         },
         {
-          "symbol": "HBM",
-          "name": "Hudbay Minerals Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "SCCO",
           "name": "Southern Copper Corporation",
           "options_warning": false
@@ -309,11 +259,6 @@
           "options_warning": false
         },
         {
-          "symbol": "BRK.B",
-          "name": "Berkshire Hathaway Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "V",
           "name": "Visa Inc.",
           "options_warning": false
@@ -326,16 +271,6 @@
         {
           "symbol": "BAC",
           "name": "Bank of America Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "WFC",
-          "name": "Wells Fargo & Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "AXP",
-          "name": "American Express Company",
           "options_warning": false
         }
       ]
@@ -373,11 +308,6 @@
           "symbol": "CFG",
           "name": "Citizens Financial Group, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "UMBF",
-          "name": "UMB Financial Corporation",
-          "options_warning": true
         },
         {
           "symbol": "MTB",

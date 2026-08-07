@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T20:49:34.760568-04:00",
+  "generated_at": "2026-08-07T19:50:13.538024-04:00",
   "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
   "core_sectors": [
     {
@@ -19,7 +19,7 @@
         {
           "symbol": "PARR",
           "name": "Par Pacific Holdings, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "DK",
@@ -176,8 +176,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.92,
       "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "AMZN",
@@ -319,7 +319,7 @@
         {
           "symbol": "RVLV",
           "name": "Revolve Group, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "PAG",
@@ -482,7 +482,7 @@
         {
           "symbol": "UMBF",
           "name": "UMB Financial Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MTB",
