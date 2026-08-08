@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:58:43.712188-04:00",
+  "generated_at": "2026-08-08T19:35:16.148756-04:00",
   "sectors_frozen_at": "2026-08-08T15:19:17.671905-04:00",
   "core_sectors": [
     {
@@ -273,8 +273,8 @@
       "tier": "absolute_relative",
       "return_pct": 6.975047424485625,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "ROP",
@@ -289,7 +289,7 @@
         {
           "symbol": "WAT",
           "name": "Waters Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "FERG",
