@@ -1,219 +1,24 @@
 {
-  "generated_at": "2026-08-07T19:50:13.538024-04:00",
-  "sectors_frozen_at": "2026-08-03T22:59:46.949153-04:00",
+  "generated_at": "2026-08-08T15:58:43.712188-04:00",
+  "sectors_frozen_at": "2026-08-08T15:19:17.671905-04:00",
   "core_sectors": [
     {
-      "etf": "XOP",
-      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+      "etf": "GDX",
+      "etf_name": "VanEck Gold Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 12.69,
-      "spy_return_pct": 1.7307124251456862,
+      "return_pct": 18.619688572182636,
+      "spy_return_pct": 2.866797036091029,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PBF",
-          "name": "PBF Energy Inc.",
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
           "options_warning": false
         },
         {
-          "symbol": "DK",
-          "name": "Delek US Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "PR",
-          "name": "Permian Resources Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "OVV",
-          "name": "Ovintiv Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLE",
-      "etf_name": "State Street Energy Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 10.48,
-      "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "CVX",
-          "name": "Chevron Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "COP",
-          "name": "ConocoPhillips",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "OIH",
-      "etf_name": "VanEck Oil Services ETF",
-      "tier": "absolute_relative",
-      "return_pct": 6.25,
-      "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BKR",
-          "name": "Baker Hughes Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "OII",
-          "name": "Oceaneering International, Inc.",
-          "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "FDN",
-      "etf_name": "First Trust Dow Jones Internet Index Fund",
-      "tier": "absolute_relative",
-      "return_pct": 5.92,
-      "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "AMZN",
-          "name": "Amazon.com, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BKNG",
-          "name": "Booking Holdings Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ANET",
-          "name": "Arista Networks, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "IGV",
-      "etf_name": "iShares Expanded Tech-Software Sector ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.12,
-      "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XRT",
-      "etf_name": "State Street SPDR S&P Retail ETF",
-      "tier": "absolute_relative",
-      "return_pct": 3.86,
-      "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "REAL",
-          "name": "The RealReal, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "LAD",
-          "name": "Lithia Motors, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "PAG",
-          "name": "Penske Automotive Group, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "KSS",
-          "name": "Kohl's Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "VSXY",
-          "name": "Victoria's Secret & Co.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ETSY",
-          "name": "Etsy, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KMX",
-          "name": "CarMax, Inc.",
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
           "options_warning": false
         }
       ]
@@ -222,8 +27,8 @@
       "etf": "COPX",
       "etf_name": "Global X Copper Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 3.535551206784082,
-      "spy_return_pct": 1.7307124251456862,
+      "return_pct": 16.750663129973464,
+      "spy_return_pct": 2.866797036091029,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -245,104 +50,177 @@
       ]
     },
     {
-      "etf": "XLF",
-      "etf_name": "State Street Financial Select Sector SPDR ETF",
+      "etf": "SIL",
+      "etf_name": "Global X Silver Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 3.16,
-      "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
+      "return_pct": 15.234375,
+      "spy_return_pct": 2.866797036091029,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "JPM",
-          "name": "JPMorgan Chase & Co.",
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
           "options_warning": false
         },
         {
-          "symbol": "V",
-          "name": "Visa Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MA",
-          "name": "Mastercard Incorporated",
-          "options_warning": false
-        },
-        {
-          "symbol": "BAC",
-          "name": "Bank of America Corporation",
+          "symbol": "BVN",
+          "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "KRE",
-      "etf_name": "State Street SPDR S&P Regional Banking ETF",
+      "etf": "XME",
+      "etf_name": "State Street SPDR S&P Metals & Mining ETF",
       "tier": "absolute_relative",
-      "return_pct": 2.72,
-      "spy_return_pct": 1.7307124251456862,
-      "etf_qualified": true,
+      "return_pct": 12.107710189848886,
+      "spy_return_pct": 2.866797036091029,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "CFR",
-          "name": "Cullen/Frost Bankers, Inc.",
+          "symbol": "RS",
+          "name": "Reliance, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "HOMB",
-          "name": "Home BancShares, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "PNFP",
-          "name": "Pinnacle Financial Partners, Inc.",
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
           "options_warning": false
         },
         {
-          "symbol": "BPOP",
-          "name": "Popular, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "CFG",
-          "name": "Citizens Financial Group, Inc.",
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
           "options_warning": false
         },
         {
-          "symbol": "MTB",
-          "name": "M&T Bank Corporation",
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CBSH",
-          "name": "Commerce Bancshares, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "SSB",
-          "name": "SouthState Bank Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "ONB",
-          "name": "Old National Bancorp",
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "IYZ",
-      "etf_name": "iShares U.S. Telecommunications ETF",
+      "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
-      "return_pct": 2.62,
-      "spy_return_pct": 1.7307124251456862,
+      "return_pct": 9.38432040903281,
+      "spy_return_pct": 2.866797036091029,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "VZ",
-          "name": "Verizon Communications Inc.",
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "PHO",
+      "etf_name": "Invesco Water Resources ETF",
+      "tier": "absolute_relative",
+      "return_pct": 6.975047424485625,
+      "spy_return_pct": 2.866797036091029,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "WAT",
+          "name": "Waters Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "VLTO",
+          "name": "Veralto Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "A",
+          "name": "Agilent Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:IEX",
+          "name": "IDEX Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "URA",
+      "etf_name": "Global X Uranium ETF",
+      "tier": "absolute_relative",
+      "return_pct": 6.0448642266824,
+      "spy_return_pct": 2.866797036091029,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
+    },
+    {
+      "etf": "XLB",
+      "etf_name": "State Street Materials Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.1730998806207795,
+      "spy_return_pct": 2.866797036091029,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SHW",
+          "name": "The Sherwin-Williams Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "FDN",
+      "etf_name": "First Trust Dow Jones Internet Index Fund",
+      "tier": "absolute_relative",
+      "return_pct": 4.965722369327863,
+      "spy_return_pct": 2.866797036091029,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
@@ -351,13 +229,64 @@
           "options_warning": false
         },
         {
-          "symbol": "MSI",
-          "name": "Motorola Solutions, Inc.",
+          "symbol": "BKNG",
+          "name": "Booking Holdings Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ROKU",
-          "name": "Roku, Inc.",
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLE",
+      "etf_name": "State Street Energy Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 4.8887267420649305,
+      "spy_return_pct": 2.866797036091029,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "options_warning": false
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "SLB",
+          "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BKR",
+          "name": "Baker Hughes Company",
           "options_warning": false
         }
       ]
