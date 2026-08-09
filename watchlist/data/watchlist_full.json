@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:35:16.148756-04:00",
+  "generated_at": "2026-08-09T19:42:17.377551-04:00",
   "sectors_frozen_at": "2026-08-08T15:19:17.671905-04:00",
   "core_sectors": [
     {
@@ -129,6 +129,11 @@
           "options_warning": false
         },
         {
+          "symbol": "SSRM",
+          "name": "SSR Mining Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "BVN",
           "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
           "options_warning": false
@@ -136,11 +141,6 @@
         {
           "symbol": "NYSE:OR",
           "name": "OR Royalties Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SSRM",
-          "name": "SSR Mining Inc.",
           "options_warning": false
         }
       ]
@@ -289,7 +289,7 @@
         {
           "symbol": "WAT",
           "name": "Waters Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "FERG",
@@ -343,13 +343,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NXE",
-          "name": "NexGen Energy Ltd.",
+          "symbol": "OKLO",
+          "name": "Oklo Inc.",
           "options_warning": false
         },
         {
-          "symbol": "OKLO",
-          "name": "Oklo Inc.",
+          "symbol": "NXE",
+          "name": "NexGen Energy Ltd.",
           "options_warning": false
         },
         {
@@ -368,13 +368,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SMR",
-          "name": "NuScale Power Corporation",
+          "symbol": "UUUU",
+          "name": "ENERGY FUELS INC",
           "options_warning": false
         },
         {
-          "symbol": "UUUU",
-          "name": "ENERGY FUELS INC",
+          "symbol": "SMR",
+          "name": "NuScale Power Corporation",
           "options_warning": false
         }
       ]
