@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:42:17.377551-04:00",
+  "generated_at": "2026-08-10T21:11:19.036775-04:00",
   "sectors_frozen_at": "2026-08-08T15:19:17.671905-04:00",
   "core_sectors": [
     {
@@ -8,20 +8,9 @@
       "tier": "absolute_relative",
       "return_pct": 18.619688572182636,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "COPX",
@@ -29,22 +18,12 @@
       "tier": "absolute_relative",
       "return_pct": 16.750663129973464,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "TECK",
-          "name": "TECK RESOURCES LTD-CLS B",
-          "options_warning": false
-        },
-        {
           "symbol": "SCCO",
           "name": "Southern Copper Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "FCX",
-          "name": "Freeport-McMoRan Inc.",
           "options_warning": false
         }
       ]
@@ -57,18 +36,7 @@
       "spy_return_pct": 2.866797036091029,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BVN",
-          "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XME",
@@ -87,16 +55,6 @@
         {
           "symbol": "NUE",
           "name": "Nucor Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "FCX",
-          "name": "Freeport-McMoRan Inc.",
           "options_warning": false
         },
         {
@@ -142,6 +100,11 @@
           "options_warning": true
         },
         {
+          "symbol": "FERG",
+          "name": "Ferguson Enterprises Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "VLTO",
           "name": "Veralto Corporation",
           "options_warning": true
@@ -183,21 +146,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "FCX",
-          "name": "Freeport-McMoRan Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SHW",
-          "name": "The Sherwin-Williams Company",
-          "options_warning": false
-        },
-        {
           "symbol": "NUE",
           "name": "Nucor Corporation",
           "options_warning": false
@@ -210,8 +158,8 @@
       "tier": "absolute_relative",
       "return_pct": 4.965722369327863,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "AMZN",
@@ -277,6 +225,11 @@
         {
           "symbol": "SLB",
           "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
           "options_warning": false
         },
         {

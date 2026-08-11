@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:42:17.377551-04:00",
+  "generated_at": "2026-08-10T21:11:19.036775-04:00",
   "sectors_frozen_at": "2026-08-08T15:19:17.671905-04:00",
   "core_sectors": [
     {
@@ -8,7 +8,7 @@
       "tier": "absolute_relative",
       "return_pct": 18.619688572182636,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -64,7 +64,7 @@
       "tier": "absolute_relative",
       "return_pct": 16.750663129973464,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -436,8 +436,8 @@
       "tier": "absolute_relative",
       "return_pct": 4.965722369327863,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "AMZN",
