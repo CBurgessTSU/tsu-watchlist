@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:11:19.036775-04:00",
+  "generated_at": "2026-08-14T19:35:29.230380-04:00",
   "sectors_frozen_at": "2026-08-08T15:19:17.671905-04:00",
   "core_sectors": [
     {
@@ -8,9 +8,35 @@
       "tier": "absolute_relative",
       "return_pct": 18.619688572182636,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AEM",
+          "name": "Agnico Eagle Mines Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "B",
+          "name": "Barrick Mining Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FNV",
+          "name": "Franco-Nevada Corporation",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "COPX",
@@ -18,12 +44,27 @@
       "tier": "absolute_relative",
       "return_pct": 16.750663129973464,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "HBM",
+          "name": "Hudbay Minerals Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TECK",
+          "name": "TECK RESOURCES LTD-CLS B",
+          "options_warning": false
+        },
+        {
           "symbol": "SCCO",
           "name": "Southern Copper Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
           "options_warning": false
         }
       ]
@@ -34,9 +75,35 @@
       "tier": "absolute_relative",
       "return_pct": 15.234375,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CDE",
+          "name": "Coeur Mining, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HL",
+          "name": "Hecla Mining Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "AG",
+          "name": "First Majestic Silver Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BVN",
+          "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XME",
@@ -44,7 +111,7 @@
       "tier": "absolute_relative",
       "return_pct": 12.107710189848886,
       "spy_return_pct": 2.866797036091029,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -55,6 +122,31 @@
         {
           "symbol": "NUE",
           "name": "Nucor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "HL",
+          "name": "Hecla Mining Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "RGLD",
+          "name": "Royal Gold, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CDE",
+          "name": "Coeur Mining, Inc.",
           "options_warning": false
         },
         {
@@ -73,6 +165,11 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corporation",
@@ -100,11 +197,6 @@
           "options_warning": true
         },
         {
-          "symbol": "FERG",
-          "name": "Ferguson Enterprises Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "VLTO",
           "name": "Veralto Corporation",
           "options_warning": true
@@ -112,11 +204,6 @@
         {
           "symbol": "AWK",
           "name": "American Water Works Company, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "A",
-          "name": "Agilent Technologies, Inc.",
           "options_warning": false
         },
         {
@@ -134,7 +221,13 @@
       "spy_return_pct": 2.866797036091029,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "NXE",
+          "name": "NexGen Energy Ltd.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XLB",
@@ -145,6 +238,21 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SHW",
+          "name": "The Sherwin-Williams Company",
+          "options_warning": false
+        },
         {
           "symbol": "NUE",
           "name": "Nucor Corporation",
@@ -225,11 +333,6 @@
         {
           "symbol": "SLB",
           "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
           "options_warning": false
         },
         {
