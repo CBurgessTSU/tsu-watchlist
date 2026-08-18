@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:29:21.811342-04:00",
+  "generated_at": "2026-08-18T19:41:39.204805-04:00",
   "sectors_frozen_at": "2026-08-15T01:23:17.877291-04:00",
   "core_sectors": [
     {
@@ -146,7 +146,7 @@
         {
           "symbol": "RGLD",
           "name": "Royal Gold, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "MP",
@@ -243,7 +243,7 @@
         {
           "symbol": "SCCO",
           "name": "Southern Copper Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "FCX",
