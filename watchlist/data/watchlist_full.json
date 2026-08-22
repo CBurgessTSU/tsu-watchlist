@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T19:41:39.204805-04:00",
-  "sectors_frozen_at": "2026-08-15T01:23:17.877291-04:00",
+  "generated_at": "2026-08-22T11:25:39.763221-04:00",
+  "sectors_frozen_at": "2026-08-22T10:42:55.806217-04:00",
   "core_sectors": [
     {
       "etf": "GDX",
       "etf_name": "VanEck Gold Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 26.008403361344534,
-      "spy_return_pct": 3.4127237851662384,
+      "return_pct": 37.0701,
+      "spy_return_pct": 3.7308,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -34,7 +34,7 @@
         {
           "symbol": "FNV",
           "name": "Franco-Nevada Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "KGC",
@@ -62,8 +62,8 @@
       "etf": "SIL",
       "etf_name": "Global X Silver Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 24.53066332916145,
-      "spy_return_pct": 3.4127237851662384,
+      "return_pct": 32.2396,
+      "spy_return_pct": 3.7308,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -110,118 +110,11 @@
       ]
     },
     {
-      "etf": "XME",
-      "etf_name": "State Street SPDR S&P Metals & Mining ETF",
-      "tier": "absolute_relative",
-      "return_pct": 18.335185372259822,
-      "spy_return_pct": 3.4127237851662384,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "HL",
-          "name": "Hecla Mining Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "LEU",
-          "name": "Centrus Energy Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CDE",
-          "name": "Coeur Mining, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UEC",
-          "name": "Uranium Energy Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RGLD",
-          "name": "Royal Gold, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MP",
-          "name": "MP Materials Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RS",
-          "name": "Reliance, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "NUE",
-          "name": "Nucor Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "FCX",
-          "name": "Freeport-McMoRan Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "URA",
-      "etf_name": "Global X Uranium ETF",
-      "tier": "absolute_relative",
-      "return_pct": 14.88110457683458,
-      "spy_return_pct": 3.4127237851662384,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "CCJ",
-          "name": "CAMECO CORP",
-          "options_warning": false
-        },
-        {
-          "symbol": "OKLO",
-          "name": "Oklo Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NXE",
-          "name": "NexGen Energy Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UEC",
-          "name": "Uranium Energy Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UUUU",
-          "name": "ENERGY FUELS INC",
-          "options_warning": false
-        },
-        {
-          "symbol": "XE",
-          "name": "X-Energy, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "LEU",
-          "name": "Centrus Energy Corp.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "COPX",
       "etf_name": "Global X Copper Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 14.756293519014463,
-      "spy_return_pct": 3.4127237851662384,
+      "return_pct": 20.6967,
+      "spy_return_pct": 3.7308,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -253,113 +146,11 @@
       ]
     },
     {
-      "etf": "MARS",
-      "etf_name": "Roundhill Space & Technology ETF",
-      "tier": "absolute_relative",
-      "return_pct": 13.904032258064515,
-      "spy_return_pct": 3.4127237851662384,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "SPCX",
-          "name": "Space Exploration Technologies Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RKLB",
-          "name": "Rocket Lab Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VSAT",
-          "name": "Viasat, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GSAT",
-          "name": "Globalstar, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "PL",
-          "name": "Planet Labs PBC",
-          "options_warning": false
-        },
-        {
-          "symbol": "IRDM",
-          "name": "Iridium Communications Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MDA",
-          "name": "MDA Space Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FLY",
-          "name": "Firefly Aerospace Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "OIH",
-      "etf_name": "VanEck Oil Services ETF",
-      "tier": "absolute_relative",
-      "return_pct": 11.731947280490074,
-      "spy_return_pct": 3.4127237851662384,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BKR",
-          "name": "Baker Hughes Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "NYSE:HAL",
-          "name": "Halliburton Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "RIG",
-          "name": "Transocean Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TS",
-          "name": "Tenaris S.A.",
-          "options_warning": false
-        },
-        {
-          "symbol": "OII",
-          "name": "Oceaneering International, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "NOV",
-          "name": "NOV Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "IGV",
       "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
-      "return_pct": 11.077908217716104,
-      "spy_return_pct": 3.4127237851662384,
+      "return_pct": 18.6797,
+      "spy_return_pct": 3.7308,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -416,75 +207,131 @@
       ]
     },
     {
-      "etf": "ITA",
-      "etf_name": "iShares U.S. Aerospace & Defense ETF",
+      "etf": "XME",
+      "etf_name": "State Street SPDR S&P Metals & Mining ETF",
       "tier": "absolute_relative",
-      "return_pct": 9.669106500931179,
-      "spy_return_pct": 3.4127237851662384,
+      "return_pct": 15.6732,
+      "spy_return_pct": 3.7308,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "GE",
-          "name": "GE Aerospace",
+          "symbol": "HL",
+          "name": "Hecla Mining Company",
           "options_warning": false
         },
         {
-          "symbol": "RTX",
-          "name": "RTX Corporation",
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
           "options_warning": false
         },
         {
-          "symbol": "BA",
-          "name": "The Boeing Company",
+          "symbol": "LEU",
+          "name": "Centrus Energy Corp.",
           "options_warning": false
         },
         {
-          "symbol": "GD",
-          "name": "General Dynamics Corporation",
+          "symbol": "CDE",
+          "name": "Coeur Mining, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LMT",
-          "name": "Lockheed Martin Corporation",
+          "symbol": "UEC",
+          "name": "Uranium Energy Corp.",
           "options_warning": false
         },
         {
-          "symbol": "HWM",
-          "name": "Howmet Aerospace Inc.",
+          "symbol": "RGLD",
+          "name": "Royal Gold, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NOC",
-          "name": "Northrop Grumman Corporation",
+          "symbol": "MP",
+          "name": "MP Materials Corp.",
           "options_warning": false
         },
         {
-          "symbol": "TDG",
-          "name": "TransDigm Group Incorporated",
+          "symbol": "RS",
+          "name": "Reliance, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LHX",
-          "name": "L3Harris Technologies, Inc.",
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
           "options_warning": false
         },
         {
-          "symbol": "AXON",
-          "name": "Axon Enterprise, Inc.",
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "IYZ",
-      "etf_name": "iShares U.S. Telecommunications ETF",
+      "etf": "URA",
+      "etf_name": "Global X Uranium ETF",
       "tier": "absolute_relative",
-      "return_pct": 9.442917811641284,
-      "spy_return_pct": 3.4127237851662384,
+      "return_pct": 12.0107,
+      "spy_return_pct": 3.7308,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "CCJ",
+          "name": "CAMECO CORP",
+          "options_warning": false
+        },
+        {
+          "symbol": "OKLO",
+          "name": "Oklo Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NXE",
+          "name": "NexGen Energy Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UEC",
+          "name": "Uranium Energy Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UUUU",
+          "name": "ENERGY FUELS INC",
+          "options_warning": false
+        },
+        {
+          "symbol": "XE",
+          "name": "X-Energy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LEU",
+          "name": "Centrus Energy Corp.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "FDN",
+      "etf_name": "First Trust Dow Jones Internet Index Fund",
+      "tier": "absolute_relative",
+      "return_pct": 11.124,
+      "spy_return_pct": 3.7308,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
@@ -496,43 +343,196 @@
           "options_warning": false
         },
         {
-          "symbol": "VZ",
-          "name": "Verizon Communications Inc.",
+          "symbol": "BKNG",
+          "name": "Booking Holdings Inc.",
           "options_warning": false
         },
         {
-          "symbol": "T",
-          "name": "AT&T Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CMCSA",
-          "name": "Comcast Corporation",
+          "symbol": "CRM",
+          "name": "Salesforce, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MSI",
-          "name": "Motorola Solutions, Inc.",
+          "symbol": "ORCL",
+          "name": "Oracle Corporation",
           "options_warning": false
         },
         {
-          "symbol": "TMUS",
-          "name": "T-Mobile US, Inc.",
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
+          "symbol": "NET",
+          "name": "Cloudflare, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLY",
+      "etf_name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.5142,
+      "spy_return_pct": 3.7308,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CIEN",
-          "name": "Ciena Corporation",
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ROKU",
-          "name": "Roku, Inc.",
+          "symbol": "HD",
+          "name": "The Home Depot, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MCD",
+          "name": "McDonald's Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "BKNG",
+          "name": "Booking Holdings Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TJX",
+          "name": "The TJX Companies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SBUX",
+          "name": "Starbucks Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "LOW",
+          "name": "Lowe's Companies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "DASH",
+          "name": "DoorDash, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ROST",
+          "name": "Ross Stores, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "OIH",
+      "etf_name": "VanEck Oil Services ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.4526,
+      "spy_return_pct": 3.7308,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "SLB",
+          "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BKR",
+          "name": "Baker Hughes Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:HAL",
+          "name": "Halliburton Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "RIG",
+          "name": "Transocean Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TS",
+          "name": "Tenaris S.A.",
+          "options_warning": false
+        },
+        {
+          "symbol": "OII",
+          "name": "Oceaneering International, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "NOV",
+          "name": "NOV Inc.",
+          "options_warning": true
+        }
+      ]
+    },
+    {
+      "etf": "MARS",
+      "etf_name": "Roundhill Space & Technology ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.2276,
+      "spy_return_pct": 3.7308,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "SPCX",
+          "name": "Space Exploration Technologies Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RKLB",
+          "name": "Rocket Lab Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASTS",
+          "name": "AST SpaceMobile, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VSAT",
+          "name": "Viasat, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GSAT",
+          "name": "Globalstar, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "PL",
+          "name": "Planet Labs PBC",
+          "options_warning": false
+        },
+        {
+          "symbol": "IRDM",
+          "name": "Iridium Communications Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MDA",
+          "name": "MDA Space Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FLY",
+          "name": "Firefly Aerospace Inc.",
           "options_warning": false
         }
       ]
@@ -543,9 +543,9 @@
       "etf": "IBB",
       "etf_name": "iShares Biotechnology ETF",
       "tier": "honorary",
-      "return_pct": 4.617170597857623,
-      "spy_return_pct": 3.4127237851662384,
-      "etf_qualified": false,
+      "return_pct": 13.0067,
+      "spy_return_pct": 3.7308,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -571,12 +571,12 @@
         {
           "symbol": "ARGX",
           "name": "argenx SE",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "RVMD",
