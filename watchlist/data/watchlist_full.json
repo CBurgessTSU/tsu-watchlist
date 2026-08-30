@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:02:43.382558-04:00",
+  "generated_at": "2026-08-30T19:35:37.357165-04:00",
   "sectors_frozen_at": "2026-08-29T02:12:44.695650-04:00",
   "core_sectors": [
     {
@@ -115,13 +115,7 @@
       "tier": "absolute_relative",
       "return_pct": 18.767295597484267,
       "spy_return_pct": 3.729320875298292,
-      "etf_qualified": {
-        "qualified": true,
-        "qualTrend": 1.0,
-        "qualAbove200": 1.0,
-        "qualEarnings": 1.0,
-        "timestamp": "2026-08-29"
-      },
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -232,18 +226,8 @@
           "options_warning": false
         },
         {
-          "symbol": "LEU",
-          "name": "Centrus Energy Corp.",
-          "options_warning": false
-        },
-        {
           "symbol": "CDE",
           "name": "Coeur Mining, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UEC",
-          "name": "Uranium Energy Corp.",
           "options_warning": false
         },
         {
@@ -252,23 +236,33 @@
           "options_warning": false
         },
         {
-          "symbol": "MP",
-          "name": "MP Materials Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RS",
-          "name": "Reliance, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NUE",
-          "name": "Nucor Corporation",
+          "symbol": "UEC",
+          "name": "Uranium Energy Corp.",
           "options_warning": false
         },
         {
           "symbol": "FCX",
           "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LEU",
+          "name": "Centrus Energy Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:HCC",
+          "name": "Warrior Met Coal, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CNR",
+          "name": "Core Natural Resources, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MP",
+          "name": "MP Materials Corp.",
           "options_warning": false
         }
       ]
@@ -512,23 +506,23 @@
           "options_warning": false
         },
         {
-          "symbol": "VSAT",
-          "name": "Viasat, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "GSAT",
           "name": "Globalstar, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PL",
-          "name": "Planet Labs PBC",
+          "symbol": "VSAT",
+          "name": "Viasat, Inc.",
           "options_warning": false
         },
         {
           "symbol": "IRDM",
           "name": "Iridium Communications Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PL",
+          "name": "Planet Labs PBC",
           "options_warning": false
         },
         {
@@ -539,11 +533,6 @@
         {
           "symbol": "LUNR",
           "name": "Intuitive Machines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FLY",
-          "name": "Firefly Aerospace Inc.",
           "options_warning": false
         }
       ]
@@ -585,6 +574,11 @@
           "options_warning": true
         },
         {
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
           "options_warning": false
@@ -595,18 +589,13 @@
           "options_warning": false
         },
         {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ALNY",
-          "name": "Alnylam Pharmaceuticals, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "ILMN",
           "name": "Illumina, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
           "options_warning": false
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:02:43.382558-04:00",
+  "generated_at": "2026-08-30T19:35:37.357165-04:00",
   "sectors_frozen_at": "2026-08-29T02:12:44.695650-04:00",
   "core_sectors": [
     {
@@ -115,13 +115,7 @@
       "tier": "absolute_relative",
       "return_pct": 18.767295597484267,
       "spy_return_pct": 3.729320875298292,
-      "etf_qualified": {
-        "qualified": true,
-        "qualTrend": 1.0,
-        "qualAbove200": 1.0,
-        "qualEarnings": 1.0,
-        "timestamp": "2026-08-29"
-      },
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -214,6 +208,16 @@
         {
           "symbol": "FCX",
           "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:HCC",
+          "name": "Warrior Met Coal, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CNR",
+          "name": "Core Natural Resources, Inc.",
           "options_warning": false
         }
       ]
@@ -394,6 +398,11 @@
           "options_warning": true
         },
         {
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
           "options_warning": false
@@ -404,13 +413,13 @@
           "options_warning": false
         },
         {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
           "options_warning": false
         }
       ]
