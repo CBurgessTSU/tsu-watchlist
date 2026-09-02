@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T19:35:37.357165-04:00",
+  "generated_at": "2026-09-01T20:10:45.200192-04:00",
   "sectors_frozen_at": "2026-08-29T02:12:44.695650-04:00",
   "core_sectors": [
     {
@@ -8,7 +8,7 @@
       "tier": "absolute_relative",
       "return_pct": 30.122063262895395,
       "spy_return_pct": 3.729320875298292,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -355,7 +355,7 @@
         {
           "symbol": "NOV",
           "name": "NOV Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -365,8 +365,8 @@
       "tier": "absolute_relative",
       "return_pct": 9.915997759940275,
       "spy_return_pct": 3.729320875298292,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "AMZN",
@@ -430,13 +430,18 @@
       "etf_options_warning": true,
       "stocks": [
         {
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "PLTR",
           "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
@@ -445,28 +450,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NBIS",
-          "name": "Nebius Group N.V.",
-          "options_warning": false
-        },
-        {
           "symbol": "NVDA",
           "name": "NVIDIA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "IREN",
-          "name": "IREN Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
         },
         {
@@ -475,8 +465,18 @@
           "options_warning": false
         },
         {
-          "symbol": "NOW",
-          "name": "ServiceNow, Inc.",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
           "options_warning": false
         }
       ]
@@ -556,7 +556,7 @@
         {
           "symbol": "VRTX",
           "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "GILD",
@@ -581,7 +581,7 @@
         {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "RVMD",

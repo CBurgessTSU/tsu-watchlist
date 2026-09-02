@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T19:35:37.357165-04:00",
+  "generated_at": "2026-09-01T20:10:45.200192-04:00",
   "sectors_frozen_at": "2026-08-29T02:12:44.695650-04:00",
   "core_sectors": [
     {
@@ -8,19 +8,9 @@
       "tier": "absolute_relative",
       "return_pct": 30.122063262895395,
       "spy_return_pct": 3.729320875298292,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PAAS",
-          "name": "Pan American Silver Corp.",
-          "options_warning": false
-        },
         {
           "symbol": "CDE",
           "name": "Coeur Mining, Inc.",
@@ -44,11 +34,6 @@
         {
           "symbol": "BVN",
           "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NYSE:OR",
-          "name": "OR Royalties Inc.",
           "options_warning": false
         }
       ]
@@ -78,11 +63,6 @@
           "options_warning": false
         },
         {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        },
-        {
           "symbol": "FNV",
           "name": "Franco-Nevada Corporation",
           "options_warning": true
@@ -100,11 +80,6 @@
         {
           "symbol": "NST",
           "name": "Northern Star Resources Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "PAAS",
-          "name": "Pan American Silver Corp.",
           "options_warning": false
         }
       ]
@@ -157,11 +132,6 @@
         {
           "symbol": "PLTR",
           "name": "Palantir Technologies Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
@@ -230,13 +200,7 @@
       "spy_return_pct": 3.729320875298292,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "NXE",
-          "name": "NexGen Energy Ltd.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "OIH",
@@ -275,7 +239,7 @@
         {
           "symbol": "NOV",
           "name": "NOV Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -285,27 +249,12 @@
       "tier": "absolute_relative",
       "return_pct": 9.915997759940275,
       "spy_return_pct": 3.729320875298292,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "ANET",
-          "name": "Arista Networks, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BKNG",
-          "name": "Booking Holdings Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "CRM",
           "name": "Salesforce, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NET",
-          "name": "Cloudflare, Inc.",
           "options_warning": false
         }
       ]
@@ -325,28 +274,18 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NOW",
-          "name": "ServiceNow, Inc.",
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
           "options_warning": false
         }
       ]
@@ -380,7 +319,7 @@
         {
           "symbol": "VRTX",
           "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "GILD",
@@ -405,7 +344,7 @@
         {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "RVMD",
