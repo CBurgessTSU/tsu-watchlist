@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-09-01T20:10:45.200192-04:00",
-  "sectors_frozen_at": "2026-08-29T02:12:44.695650-04:00",
+  "generated_at": "2026-09-05T12:38:33.589085-04:00",
+  "sectors_frozen_at": "2026-09-05T11:37:34.031615-04:00",
   "core_sectors": [
     {
       "etf": "SIL",
       "etf_name": "Global X Silver Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 30.122063262895395,
-      "spy_return_pct": 3.729320875298292,
-      "etf_qualified": false,
+      "return_pct": 19.25294062936547,
+      "spy_return_pct": 0.2120855740593175,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PAAS",
+          "name": "Pan American Silver Corp.",
+          "options_warning": false
+        },
         {
           "symbol": "CDE",
           "name": "Coeur Mining, Inc.",
@@ -32,6 +42,11 @@
           "options_warning": false
         },
         {
+          "symbol": "NYSE:OR",
+          "name": "OR Royalties Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "BVN",
           "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
           "options_warning": false
@@ -42,8 +57,8 @@
       "etf": "GDX",
       "etf_name": "VanEck Gold Miners ETF",
       "tier": "absolute_relative",
-      "return_pct": 29.78640270903883,
-      "spy_return_pct": 3.729320875298292,
+      "return_pct": 18.279318758328735,
+      "spy_return_pct": 0.2120855740593175,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -63,9 +78,14 @@
           "options_warning": false
         },
         {
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
+          "options_warning": false
+        },
+        {
           "symbol": "FNV",
           "name": "Franco-Nevada Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "KGC",
@@ -78,56 +98,174 @@
           "options_warning": true
         },
         {
-          "symbol": "NST",
-          "name": "Northern Star Resources Limited",
+          "symbol": "PAAS",
+          "name": "Pan American Silver Corp.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "COPX",
-      "etf_name": "Global X Copper Miners ETF",
+      "etf": "BITQ",
+      "etf_name": "Bitwise Crypto Industry Innovators ETF",
       "tier": "absolute_relative",
-      "return_pct": 18.767295597484267,
-      "spy_return_pct": 3.729320875298292,
+      "return_pct": 17.996460414018102,
+      "spy_return_pct": 0.2120855740593175,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "CRCL",
+          "name": "Circle Internet Group, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XOP",
+      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+      "tier": "absolute_relative",
+      "return_pct": 14.163426057992169,
+      "spy_return_pct": 0.2120855740593175,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "HBM",
-          "name": "Hudbay Minerals Inc.",
+          "symbol": "PBF",
+          "name": "PBF Energy Inc.",
           "options_warning": false
         },
         {
-          "symbol": "TECK",
-          "name": "TECK RESOURCES LTD-CLS B",
+          "symbol": "DK",
+          "name": "Delek US Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NYSE:BHP",
-          "name": "BHP Group Limited",
+          "symbol": "DINO",
+          "name": "HF Sinclair Corporation",
           "options_warning": false
         },
         {
-          "symbol": "SCCO",
-          "name": "Southern Copper Corporation",
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
-          "symbol": "FCX",
-          "name": "Freeport-McMoRan Inc.",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "options_warning": false
+        },
+        {
+          "symbol": "PR",
+          "name": "Permian Resources Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRGY",
+          "name": "Crescent Energy Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "OVV",
+          "name": "Ovintiv Inc.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "IGV",
-      "etf_name": "iShares Expanded Tech-Software Sector ETF",
+      "etf": "XLE",
+      "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 17.35076626299432,
-      "spy_return_pct": 3.729320875298292,
+      "return_pct": 10.144425252167832,
+      "spy_return_pct": 0.2120855740593175,
       "etf_qualified": true,
       "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "options_warning": false
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "SLB",
+          "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WMB",
+          "name": "The Williams Companies, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "OIH",
+      "etf_name": "VanEck Oil Services ETF",
+      "tier": "absolute_relative",
+      "return_pct": 9.041525561391373,
+      "spy_return_pct": 0.2120855740593175,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "SLB",
+          "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:HAL",
+          "name": "Halliburton Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "RIG",
+          "name": "Transocean Ltd.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "BUZZ",
+      "etf_name": "VanEck Social Sentiment ETF",
+      "tier": "absolute_relative",
+      "return_pct": 7.831323850940097,
+      "spy_return_pct": 0.2120855740593175,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "PLTR",
@@ -135,13 +273,59 @@
           "options_warning": false
         },
         {
-          "symbol": "CRM",
-          "name": "Salesforce, Inc.",
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
-          "symbol": "NOW",
-          "name": "ServiceNow, Inc.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "MOO",
+      "etf_name": "VanEck Agribusiness ETF",
+      "tier": "absolute_relative",
+      "return_pct": 7.793321321188595,
+      "spy_return_pct": 0.2120855740593175,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "DE",
+          "name": "Deere & Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "NTR",
+          "name": "Nutrien Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ADM",
+          "name": "Archer-Daniels-Midland Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "CF",
+          "name": "CF Industries Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BG",
+          "name": "Bunge Global SA",
           "options_warning": false
         }
       ]
@@ -150,8 +334,8 @@
       "etf": "XME",
       "etf_name": "State Street SPDR S&P Metals & Mining ETF",
       "tier": "absolute_relative",
-      "return_pct": 16.571765167877484,
-      "spy_return_pct": 3.729320875298292,
+      "return_pct": 7.494340178355685,
+      "spy_return_pct": 0.2120855740593175,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -196,109 +380,17 @@
       "etf": "URA",
       "etf_name": "Global X Uranium ETF",
       "tier": "absolute_relative",
-      "return_pct": 14.728096676737156,
-      "spy_return_pct": 3.729320875298292,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
-      "etf": "OIH",
-      "etf_name": "VanEck Oil Services ETF",
-      "tier": "absolute_relative",
-      "return_pct": 11.302982731554167,
-      "spy_return_pct": 3.729320875298292,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BKR",
-          "name": "Baker Hughes Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "NYSE:HAL",
-          "name": "Halliburton Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "RIG",
-          "name": "Transocean Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "OII",
-          "name": "Oceaneering International, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NOV",
-          "name": "NOV Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "FDN",
-      "etf_name": "First Trust Dow Jones Internet Index Fund",
-      "tier": "absolute_relative",
-      "return_pct": 9.915997759940275,
-      "spy_return_pct": 3.729320875298292,
+      "return_pct": 6.620371666301228,
+      "spy_return_pct": 0.2120855740593175,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "CRM",
-          "name": "Salesforce, Inc.",
+          "symbol": "NXE",
+          "name": "NexGen Energy Ltd.",
           "options_warning": false
         }
       ]
-    },
-    {
-      "etf": "BUZZ",
-      "etf_name": "VanEck Social Sentiment ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.620173600718362,
-      "spy_return_pct": 3.729320875298292,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "MARS",
-      "etf_name": "Roundhill Space & Technology ETF",
-      "tier": "absolute_relative",
-      "return_pct": 7.456327226246273,
-      "spy_return_pct": 3.729320875298292,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
     }
   ],
   "honorable_mentions": [
@@ -306,8 +398,8 @@
       "etf": "IBB",
       "etf_name": "iShares Biotechnology ETF",
       "tier": "honorary",
-      "return_pct": 9.996841440303218,
-      "spy_return_pct": 3.729320875298292,
+      "return_pct": 9.820177658893602,
+      "spy_return_pct": 0.2120855740593175,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
