@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:38:33.589085-04:00",
+  "generated_at": "2026-09-10T19:40:25.034758-04:00",
   "sectors_frozen_at": "2026-09-05T11:37:34.031615-04:00",
   "core_sectors": [
     {
@@ -27,11 +27,6 @@
           "options_warning": false
         },
         {
-          "symbol": "HL",
-          "name": "Hecla Mining Company",
-          "options_warning": false
-        },
-        {
           "symbol": "AG",
           "name": "First Majestic Silver Corp.",
           "options_warning": false
@@ -39,16 +34,6 @@
         {
           "symbol": "SSRM",
           "name": "SSR Mining Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NYSE:OR",
-          "name": "OR Royalties Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BVN",
-          "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
           "options_warning": false
         }
       ]
@@ -112,13 +97,7 @@
       "spy_return_pct": 0.2120855740593175,
       "etf_qualified": true,
       "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "CRCL",
-          "name": "Circle Internet Group, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XOP",
@@ -142,6 +121,11 @@
         {
           "symbol": "DINO",
           "name": "HF Sinclair Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -186,11 +170,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "CVX",
           "name": "Chevron Corporation",
           "options_warning": false
@@ -219,16 +198,6 @@
           "symbol": "SLB",
           "name": "SLB N.V.",
           "options_warning": false
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "WMB",
-          "name": "The Williams Companies, Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -254,6 +223,11 @@
         {
           "symbol": "RIG",
           "name": "Transocean Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NOV",
+          "name": "NOV Inc.",
           "options_warning": false
         }
       ]
@@ -281,16 +255,6 @@
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
-          "options_warning": false
         }
       ]
     },
@@ -306,6 +270,11 @@
         {
           "symbol": "DE",
           "name": "Deere & Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "CTVA",
+          "name": "Corteva, Inc.",
           "options_warning": false
         },
         {
@@ -339,11 +308,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "HL",
-          "name": "Hecla Mining Company",
-          "options_warning": false
-        },
         {
           "symbol": "NEM",
           "name": "Newmont Corporation",
@@ -384,13 +348,7 @@
       "spy_return_pct": 0.2120855740593175,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "NXE",
-          "name": "NexGen Energy Ltd.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     }
   ],
   "honorable_mentions": [
@@ -400,19 +358,9 @@
       "tier": "honorary",
       "return_pct": 9.820177658893602,
       "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VRTX",
-          "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": true
-        },
         {
           "symbol": "GILD",
           "name": "Gilead Sciences, Inc.",
@@ -429,24 +377,9 @@
           "options_warning": true
         },
         {
-          "symbol": "MRNA",
-          "name": "Moderna, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
           "options_warning": true
-        },
-        {
-          "symbol": "RVMD",
-          "name": "Revolution Medicines, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
-          "options_warning": false
         },
         {
           "symbol": "BIIB",

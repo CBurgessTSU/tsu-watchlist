@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:38:33.589085-04:00",
+  "generated_at": "2026-09-10T19:40:25.034758-04:00",
   "sectors_frozen_at": "2026-09-05T11:37:34.031615-04:00",
   "core_sectors": [
     {
@@ -98,13 +98,13 @@
           "options_warning": true
         },
         {
-          "symbol": "NST",
-          "name": "Northern Star Resources Limited",
+          "symbol": "PAAS",
+          "name": "Pan American Silver Corp.",
           "options_warning": false
         },
         {
-          "symbol": "PAAS",
-          "name": "Pan American Silver Corp.",
+          "symbol": "NST",
+          "name": "Northern Star Resources Limited",
           "options_warning": false
         }
       ]
@@ -565,7 +565,7 @@
       "tier": "honorary",
       "return_pct": 9.820177658893602,
       "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -576,7 +576,7 @@
         {
           "symbol": "VRTX",
           "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "GILD",
