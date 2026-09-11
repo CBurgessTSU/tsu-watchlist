@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:40:25.034758-04:00",
+  "generated_at": "2026-09-11T19:39:51.477234-04:00",
   "sectors_frozen_at": "2026-09-05T11:37:34.031615-04:00",
   "core_sectors": [
     {
@@ -24,6 +24,11 @@
         {
           "symbol": "CDE",
           "name": "Coeur Mining, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HL",
+          "name": "Hecla Mining Company",
           "options_warning": false
         },
         {
@@ -152,11 +157,6 @@
           "symbol": "CRGY",
           "name": "Crescent Energy Company",
           "options_warning": false
-        },
-        {
-          "symbol": "OVV",
-          "name": "Ovintiv Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -197,6 +197,11 @@
         {
           "symbol": "SLB",
           "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WMB",
+          "name": "The Williams Companies, Inc.",
           "options_warning": false
         }
       ]
@@ -247,13 +252,33 @@
           "options_warning": false
         },
         {
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "MSFT",
           "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         }
       ]
@@ -305,9 +330,14 @@
       "tier": "absolute_relative",
       "return_pct": 7.494340178355685,
       "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "HL",
+          "name": "Hecla Mining Company",
+          "options_warning": false
+        },
         {
           "symbol": "NEM",
           "name": "Newmont Corporation",
@@ -367,11 +397,6 @@
           "options_warning": false
         },
         {
-          "symbol": "REGN",
-          "name": "Regeneron Pharmaceuticals, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "ARGX",
           "name": "argenx SE",
           "options_warning": true
@@ -379,6 +404,11 @@
         {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
           "options_warning": true
         },
         {

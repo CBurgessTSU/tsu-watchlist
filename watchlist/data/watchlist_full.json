@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:40:25.034758-04:00",
+  "generated_at": "2026-09-11T19:39:51.477234-04:00",
   "sectors_frozen_at": "2026-09-05T11:37:34.031615-04:00",
   "core_sectors": [
     {
@@ -456,7 +456,7 @@
       "tier": "absolute_relative",
       "return_pct": 7.494340178355685,
       "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -586,7 +586,7 @@
         {
           "symbol": "REGN",
           "name": "Regeneron Pharmaceuticals, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "ARGX",
@@ -611,7 +611,7 @@
         {
           "symbol": "ILMN",
           "name": "Illumina, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "BIIB",
