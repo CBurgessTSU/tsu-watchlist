@@ -1,105 +1,13 @@
 {
-  "generated_at": "2026-09-11T19:39:51.477234-04:00",
-  "sectors_frozen_at": "2026-09-05T11:37:34.031615-04:00",
+  "generated_at": "2026-09-12T02:14:24.013638-04:00",
+  "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
-    {
-      "etf": "SIL",
-      "etf_name": "Global X Silver Miners ETF",
-      "tier": "absolute_relative",
-      "return_pct": 19.25294062936547,
-      "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PAAS",
-          "name": "Pan American Silver Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CDE",
-          "name": "Coeur Mining, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "HL",
-          "name": "Hecla Mining Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "AG",
-          "name": "First Majestic Silver Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SSRM",
-          "name": "SSR Mining Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "GDX",
-      "etf_name": "VanEck Gold Miners ETF",
-      "tier": "absolute_relative",
-      "return_pct": 18.279318758328735,
-      "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AEM",
-          "name": "Agnico Eagle Mines Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "B",
-          "name": "Barrick Mining Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FNV",
-          "name": "Franco-Nevada Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "KGC",
-          "name": "Kinross Gold Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "GFI",
-          "name": "Gold Fields Ltd ADR",
-          "options_warning": true
-        },
-        {
-          "symbol": "PAAS",
-          "name": "Pan American Silver Corp.",
-          "options_warning": false
-        }
-      ]
-    },
     {
       "etf": "BITQ",
       "etf_name": "Bitwise Crypto Industry Innovators ETF",
       "tier": "absolute_relative",
-      "return_pct": 17.996460414018102,
-      "spy_return_pct": 0.2120855740593175,
+      "return_pct": 13.544415127528598,
+      "spy_return_pct": -1.061502414270743,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": []
@@ -108,8 +16,8 @@
       "etf": "XOP",
       "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
       "tier": "absolute_relative",
-      "return_pct": 14.163426057992169,
-      "spy_return_pct": 0.2120855740593175,
+      "return_pct": 9.597939298913637,
+      "spy_return_pct": -1.061502414270743,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -161,11 +69,62 @@
       ]
     },
     {
+      "etf": "GDX",
+      "etf_name": "VanEck Gold Miners ETF",
+      "tier": "absolute_relative",
+      "return_pct": 6.750219876868946,
+      "spy_return_pct": -1.061502414270743,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AEM",
+          "name": "Agnico Eagle Mines Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "B",
+          "name": "Barrick Mining Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FNV",
+          "name": "Franco-Nevada Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "KGC",
+          "name": "Kinross Gold Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "GFI",
+          "name": "Gold Fields Ltd ADR",
+          "options_warning": true
+        },
+        {
+          "symbol": "PAAS",
+          "name": "Pan American Silver Corp.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
       "etf": "XLE",
       "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 10.144425252167832,
-      "spy_return_pct": 0.2120855740593175,
+      "return_pct": 6.73439292151401,
+      "spy_return_pct": -1.061502414270743,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -207,32 +166,83 @@
       ]
     },
     {
-      "etf": "OIH",
-      "etf_name": "VanEck Oil Services ETF",
+      "etf": "MOO",
+      "etf_name": "VanEck Agribusiness ETF",
       "tier": "absolute_relative",
-      "return_pct": 9.041525561391373,
-      "spy_return_pct": 0.2120855740593175,
+      "return_pct": 6.502463054187202,
+      "spy_return_pct": -1.061502414270743,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "DE",
+          "name": "Deere & Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "CTVA",
+          "name": "Corteva, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NTR",
+          "name": "Nutrien Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ADM",
+          "name": "Archer-Daniels-Midland Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "CF",
+          "name": "CF Industries Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BG",
+          "name": "Bunge Global SA",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "SIL",
+      "etf_name": "Global X Silver Miners ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.530610009856529,
+      "spy_return_pct": -1.061502414270743,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "SLB",
-          "name": "SLB N.V.",
+          "symbol": "WPM",
+          "name": "Wheaton Precious Metals Corp.",
           "options_warning": false
         },
         {
-          "symbol": "NYSE:HAL",
-          "name": "Halliburton Company",
+          "symbol": "PAAS",
+          "name": "Pan American Silver Corp.",
           "options_warning": false
         },
         {
-          "symbol": "RIG",
-          "name": "Transocean Ltd.",
+          "symbol": "CDE",
+          "name": "Coeur Mining, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NOV",
-          "name": "NOV Inc.",
+          "symbol": "HL",
+          "name": "Hecla Mining Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "AG",
+          "name": "First Majestic Silver Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SSRM",
+          "name": "SSR Mining Inc.",
           "options_warning": false
         }
       ]
@@ -241,8 +251,8 @@
       "etf": "BUZZ",
       "etf_name": "VanEck Social Sentiment ETF",
       "tier": "absolute_relative",
-      "return_pct": 7.831323850940097,
-      "spy_return_pct": 0.2120855740593175,
+      "return_pct": 2.1667580910586848,
+      "spy_return_pct": -1.061502414270743,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -284,101 +294,92 @@
       ]
     },
     {
-      "etf": "MOO",
-      "etf_name": "VanEck Agribusiness ETF",
+      "etf": "XLC",
+      "etf_name": "State Street Communication Services Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 7.793321321188595,
-      "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "return_pct": 2.1129953749886576,
+      "spy_return_pct": -1.061502414270743,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "DE",
-          "name": "Deere & Company",
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CTVA",
-          "name": "Corteva, Inc.",
+          "symbol": "T",
+          "name": "AT&T Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NTR",
-          "name": "Nutrien Ltd.",
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ADM",
-          "name": "Archer-Daniels-Midland Company",
+          "symbol": "DIS",
+          "name": "The Walt Disney Company",
           "options_warning": false
         },
         {
-          "symbol": "CF",
-          "name": "CF Industries Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BG",
-          "name": "Bunge Global SA",
+          "symbol": "WBD",
+          "name": "Warner Bros. Discovery, Inc.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "XME",
-      "etf_name": "State Street SPDR S&P Metals & Mining ETF",
+      "etf": "OIH",
+      "etf_name": "VanEck Oil Services ETF",
       "tier": "absolute_relative",
-      "return_pct": 7.494340178355685,
-      "spy_return_pct": 0.2120855740593175,
+      "return_pct": 1.7979866421450108,
+      "spy_return_pct": -1.061502414270743,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "SLB",
+          "name": "SLB N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:HAL",
+          "name": "Halliburton Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "RIG",
+          "name": "Transocean Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NOV",
+          "name": "NOV Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "COPX",
+      "etf_name": "Global X Copper Miners ETF",
+      "tier": "absolute_relative",
+      "return_pct": 0.2604756511891404,
+      "spy_return_pct": -1.061502414270743,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "HL",
-          "name": "Hecla Mining Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "CDE",
-          "name": "Coeur Mining, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RGLD",
-          "name": "Royal Gold, Inc.",
+          "symbol": "TECK",
+          "name": "TECK RESOURCES LTD-CLS B",
           "options_warning": false
         },
         {
           "symbol": "FCX",
           "name": "Freeport-McMoRan Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "NYSE:HCC",
-          "name": "Warrior Met Coal, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CNR",
-          "name": "Core Natural Resources, Inc.",
-          "options_warning": false
         }
       ]
-    },
-    {
-      "etf": "URA",
-      "etf_name": "Global X Uranium ETF",
-      "tier": "absolute_relative",
-      "return_pct": 6.620371666301228,
-      "spy_return_pct": 0.2120855740593175,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
     }
   ],
   "honorable_mentions": [
@@ -386,8 +387,8 @@
       "etf": "IBB",
       "etf_name": "iShares Biotechnology ETF",
       "tier": "honorary",
-      "return_pct": 9.820177658893602,
-      "spy_return_pct": 0.2120855740593175,
+      "return_pct": 1.1010362694300557,
+      "spy_return_pct": -1.061502414270743,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
