@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:14:24.013638-04:00",
+  "generated_at": "2026-09-12T19:33:08.542454-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -554,13 +554,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
+          "symbol": "VRTX",
+          "name": "Vertex Pharmaceuticals Incorporated",
           "options_warning": false
         },
         {
-          "symbol": "VRTX",
-          "name": "Vertex Pharmaceuticals Incorporated",
+          "symbol": "AMGN",
+          "name": "Amgen Inc.",
           "options_warning": false
         },
         {
@@ -594,9 +594,9 @@
           "options_warning": false
         },
         {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
-          "options_warning": true
+          "symbol": "ALNY",
+          "name": "Alnylam Pharmaceuticals, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "BIIB",
