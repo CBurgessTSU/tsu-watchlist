@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:33:08.542454-04:00",
+  "generated_at": "2026-09-14T19:34:30.823968-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -88,8 +88,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -98,8 +98,8 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -108,8 +108,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PR",
-          "name": "Permian Resources Corporation",
+          "symbol": "CLMT",
+          "name": "Calumet, Inc.",
           "options_warning": false
         },
         {
@@ -118,8 +118,8 @@
           "options_warning": false
         },
         {
-          "symbol": "OVV",
-          "name": "Ovintiv Inc.",
+          "symbol": "PR",
+          "name": "Permian Resources Corporation",
           "options_warning": false
         }
       ]
@@ -235,8 +235,8 @@
           "options_warning": false
         },
         {
-          "symbol": "BKR",
-          "name": "Baker Hughes Company",
+          "symbol": "TRGP",
+          "name": "Targa Resources Corp.",
           "options_warning": false
         }
       ]
@@ -353,13 +353,13 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "TSLA",
-          "name": "Tesla, Inc.",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
@@ -368,13 +368,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
           "options_warning": false
         },
         {
@@ -388,18 +388,18 @@
           "options_warning": false
         },
         {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
-          "options_warning": false
-        },
-        {
           "symbol": "SMCI",
           "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
@@ -410,7 +410,7 @@
       "tier": "absolute_relative",
       "return_pct": 2.1129953749886576,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -466,7 +466,7 @@
       "tier": "absolute_relative",
       "return_pct": 1.7979866421450108,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -556,7 +556,7 @@
         {
           "symbol": "VRTX",
           "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "AMGN",
