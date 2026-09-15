@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:34:30.823968-04:00",
+  "generated_at": "2026-09-15T19:43:19.412644-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -22,23 +22,23 @@
           "options_warning": false
         },
         {
-          "symbol": "BMNR",
-          "name": "Bitmine Immersion Technologies, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "IREN",
           "name": "IREN Limited",
           "options_warning": false
         },
         {
-          "symbol": "FIGR",
-          "name": "Figure Technology Solutions, Inc.",
+          "symbol": "BMNR",
+          "name": "Bitmine Immersion Technologies, Inc.",
           "options_warning": false
         },
         {
           "symbol": "CRCL",
           "name": "Circle Internet Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FIGR",
+          "name": "Figure Technology Solutions, Inc.",
           "options_warning": false
         },
         {
@@ -52,13 +52,13 @@
           "options_warning": false
         },
         {
-          "symbol": "RIOT",
-          "name": "Riot Platforms, Inc.",
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
           "options_warning": false
         },
         {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
+          "symbol": "RIOT",
+          "name": "Riot Platforms, Inc.",
           "options_warning": false
         }
       ]
@@ -88,13 +88,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -130,7 +130,7 @@
       "tier": "absolute_relative",
       "return_pct": 6.750219876868946,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -159,14 +159,14 @@
           "options_warning": false
         },
         {
-          "symbol": "KGC",
-          "name": "Kinross Gold Corporation",
+          "symbol": "GFI",
+          "name": "Gold Fields Ltd ADR",
           "options_warning": false
         },
         {
-          "symbol": "GFI",
-          "name": "Gold Fields Ltd ADR",
-          "options_warning": true
+          "symbol": "KGC",
+          "name": "Kinross Gold Corporation",
+          "options_warning": false
         },
         {
           "symbol": "PAAS",
@@ -266,11 +266,6 @@
           "options_warning": false
         },
         {
-          "symbol": "ZTS",
-          "name": "Zoetis Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "ADM",
           "name": "Archer-Daniels-Midland Company",
           "options_warning": false
@@ -278,6 +273,11 @@
         {
           "symbol": "CF",
           "name": "CF Industries Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ZTS",
+          "name": "Zoetis Inc.",
           "options_warning": false
         },
         {
@@ -410,7 +410,7 @@
       "tier": "absolute_relative",
       "return_pct": 2.1129953749886576,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -434,8 +434,8 @@
           "options_warning": false
         },
         {
-          "symbol": "CMCSA",
-          "name": "Comcast Corporation",
+          "symbol": "DIS",
+          "name": "The Walt Disney Company",
           "options_warning": false
         },
         {
@@ -444,8 +444,8 @@
           "options_warning": false
         },
         {
-          "symbol": "DIS",
-          "name": "The Walt Disney Company",
+          "symbol": "TMUS",
+          "name": "T-Mobile US, Inc.",
           "options_warning": false
         },
         {
@@ -454,8 +454,8 @@
           "options_warning": false
         },
         {
-          "symbol": "TMUS",
-          "name": "T-Mobile US, Inc.",
+          "symbol": "CMCSA",
+          "name": "Comcast Corporation",
           "options_warning": false
         }
       ]
@@ -485,23 +485,23 @@
           "options_warning": false
         },
         {
-          "symbol": "RIG",
-          "name": "Transocean Ltd.",
-          "options_warning": false
-        },
-        {
           "symbol": "TS",
           "name": "Tenaris S.A.",
           "options_warning": false
         },
         {
-          "symbol": "OII",
-          "name": "Oceaneering International, Inc.",
+          "symbol": "RIG",
+          "name": "Transocean Ltd.",
           "options_warning": false
         },
         {
-          "symbol": "NOV",
-          "name": "NOV Inc.",
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "OII",
+          "name": "Oceaneering International, Inc.",
           "options_warning": false
         }
       ]
@@ -556,7 +556,7 @@
         {
           "symbol": "VRTX",
           "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMGN",
@@ -574,14 +574,14 @@
           "options_warning": false
         },
         {
-          "symbol": "ARGX",
-          "name": "argenx SE",
-          "options_warning": true
-        },
-        {
           "symbol": "MRNA",
           "name": "Moderna, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "ARGX",
+          "name": "argenx SE",
+          "options_warning": true
         },
         {
           "symbol": "NTRA",

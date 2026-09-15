@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:34:30.823968-04:00",
+  "generated_at": "2026-09-15T19:43:19.412644-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -10,13 +10,7 @@
       "spy_return_pct": -1.061502414270743,
       "etf_qualified": true,
       "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "CRCL",
-          "name": "Circle Internet Group, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XOP",
@@ -28,6 +22,11 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "PBF",
+          "name": "PBF Energy Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "DK",
           "name": "Delek US Holdings, Inc.",
           "options_warning": false
@@ -38,13 +37,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -80,14 +79,9 @@
       "tier": "absolute_relative",
       "return_pct": 6.750219876868946,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
-          "options_warning": false
-        },
         {
           "symbol": "WPM",
           "name": "Wheaton Precious Metals Corp.",
@@ -97,11 +91,6 @@
           "symbol": "FNV",
           "name": "Franco-Nevada Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "GFI",
-          "name": "Gold Fields Ltd ADR",
-          "options_warning": true
         }
       ]
     },
@@ -233,6 +222,11 @@
           "options_warning": false
         },
         {
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
@@ -243,18 +237,8 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MSFT",
           "name": "Microsoft Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
@@ -265,7 +249,7 @@
       "tier": "absolute_relative",
       "return_pct": 2.1129953749886576,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -305,8 +289,8 @@
           "options_warning": false
         },
         {
-          "symbol": "NOV",
-          "name": "NOV Inc.",
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
           "options_warning": false
         }
       ]
@@ -332,11 +316,6 @@
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "VRTX",
-          "name": "Vertex Pharmaceuticals Incorporated",
-          "options_warning": true
-        },
         {
           "symbol": "GILD",
           "name": "Gilead Sciences, Inc.",
