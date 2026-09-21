@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T19:43:19.412644-04:00",
+  "generated_at": "2026-09-21T19:32:58.099299-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -42,23 +42,23 @@
           "options_warning": false
         },
         {
-          "symbol": "GLXY",
-          "name": "Galaxy Digital Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MARA",
           "name": "MARA Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
+          "symbol": "GLXY",
+          "name": "Galaxy Digital Inc.",
           "options_warning": false
         },
         {
           "symbol": "RIOT",
           "name": "Riot Platforms, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
           "options_warning": false
         }
       ]
@@ -69,19 +69,9 @@
       "tier": "absolute_relative",
       "return_pct": 9.597939298913637,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "PBF",
-          "name": "PBF Energy Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "DK",
-          "name": "Delek US Holdings, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "DINO",
           "name": "HF Sinclair Corporation",
@@ -98,28 +88,38 @@
           "options_warning": false
         },
         {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "PSX",
           "name": "Phillips 66",
           "options_warning": false
         },
         {
-          "symbol": "CLMT",
-          "name": "Calumet, Inc.",
+          "symbol": "DK",
+          "name": "Delek US Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CRGY",
-          "name": "Crescent Energy Company",
+          "symbol": "PARR",
+          "name": "Par Pacific Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PR",
-          "name": "Permian Resources Corporation",
+          "symbol": "PBF",
+          "name": "PBF Energy Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "APA",
+          "name": "APA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "DVN",
+          "name": "Devon Energy Corporation",
           "options_warning": false
         }
       ]
@@ -130,7 +130,7 @@
       "tier": "absolute_relative",
       "return_pct": 6.750219876868946,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -159,13 +159,13 @@
           "options_warning": false
         },
         {
-          "symbol": "GFI",
-          "name": "Gold Fields Ltd ADR",
+          "symbol": "KGC",
+          "name": "Kinross Gold Corporation",
           "options_warning": false
         },
         {
-          "symbol": "KGC",
-          "name": "Kinross Gold Corporation",
+          "symbol": "GFI",
+          "name": "Gold Fields Ltd ADR",
           "options_warning": false
         },
         {
@@ -186,7 +186,7 @@
       "tier": "absolute_relative",
       "return_pct": 6.73439292151401,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -210,13 +210,18 @@
           "options_warning": false
         },
         {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "PSX",
           "name": "Phillips 66",
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "WMB",
+          "name": "The Williams Companies, Inc.",
           "options_warning": false
         },
         {
@@ -227,11 +232,6 @@
         {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "WMB",
-          "name": "The Williams Companies, Inc.",
           "options_warning": false
         },
         {
@@ -247,8 +247,8 @@
       "tier": "absolute_relative",
       "return_pct": 6.502463054187202,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "DE",
@@ -363,6 +363,11 @@
           "options_warning": false
         },
         {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "AAPL",
           "name": "Apple Inc.",
           "options_warning": false
@@ -375,16 +380,11 @@
         {
           "symbol": "SNDK",
           "name": "Sandisk Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -393,13 +393,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
           "options_warning": false
         }
       ]
@@ -429,23 +429,8 @@
           "options_warning": false
         },
         {
-          "symbol": "VZ",
-          "name": "Verizon Communications Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "DIS",
-          "name": "The Walt Disney Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TMUS",
-          "name": "T-Mobile US, Inc.",
+          "symbol": "APP",
+          "name": "AppLovin Corporation",
           "options_warning": false
         },
         {
@@ -454,8 +439,23 @@
           "options_warning": false
         },
         {
-          "symbol": "CMCSA",
-          "name": "Comcast Corporation",
+          "symbol": "DIS",
+          "name": "The Walt Disney Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "TTWO",
+          "name": "Take-Two Interactive Software, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TMUS",
+          "name": "T-Mobile US, Inc.",
           "options_warning": false
         }
       ]
@@ -500,8 +500,8 @@
           "options_warning": false
         },
         {
-          "symbol": "OII",
-          "name": "Oceaneering International, Inc.",
+          "symbol": "NOV",
+          "name": "NOV Inc.",
           "options_warning": false
         }
       ]
@@ -512,7 +512,7 @@
       "tier": "absolute_relative",
       "return_pct": 0.2604756511891404,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -523,7 +523,7 @@
         {
           "symbol": "TECK",
           "name": "TECK RESOURCES LTD-CLS B",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "NYSE:BHP",
@@ -533,7 +533,7 @@
         {
           "symbol": "SCCO",
           "name": "Southern Copper Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "FCX",
@@ -550,8 +550,8 @@
       "tier": "honorary",
       "return_pct": 1.1010362694300557,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "VRTX",
@@ -571,7 +571,7 @@
         {
           "symbol": "REGN",
           "name": "Regeneron Pharmaceuticals, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "MRNA",
@@ -581,12 +581,12 @@
         {
           "symbol": "ARGX",
           "name": "argenx SE",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "RVMD",
@@ -594,13 +594,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ALNY",
-          "name": "Alnylam Pharmaceuticals, Inc.",
-          "options_warning": false
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
+          "options_warning": true
         },
         {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
+          "symbol": "ALNY",
+          "name": "Alnylam Pharmaceuticals, Inc.",
           "options_warning": false
         }
       ]

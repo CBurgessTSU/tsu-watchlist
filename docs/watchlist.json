@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T19:43:19.412644-04:00",
+  "generated_at": "2026-09-21T19:32:58.099299-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -10,7 +10,58 @@
       "spy_return_pct": -1.061502414270743,
       "etf_qualified": true,
       "etf_options_warning": true,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "COIN",
+          "name": "Coinbase Global, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MSTR",
+          "name": "Strategy Inc",
+          "options_warning": false
+        },
+        {
+          "symbol": "IREN",
+          "name": "IREN Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "BMNR",
+          "name": "Bitmine Immersion Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRCL",
+          "name": "Circle Internet Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FIGR",
+          "name": "Figure Technology Solutions, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GLXY",
+          "name": "Galaxy Digital Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RIOT",
+          "name": "Riot Platforms, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XOP",
@@ -18,60 +69,9 @@
       "tier": "absolute_relative",
       "return_pct": 9.597939298913637,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "PBF",
-          "name": "PBF Energy Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "DK",
-          "name": "Delek US Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "DINO",
-          "name": "HF Sinclair Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "CLMT",
-          "name": "Calumet, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CRGY",
-          "name": "Crescent Energy Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "PR",
-          "name": "Permian Resources Corporation",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "GDX",
@@ -79,20 +79,9 @@
       "tier": "absolute_relative",
       "return_pct": 6.750219876868946,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FNV",
-          "name": "Franco-Nevada Corporation",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XLE",
@@ -100,32 +89,12 @@
       "tier": "absolute_relative",
       "return_pct": 6.73439292151401,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "CVX",
-          "name": "Chevron Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "COP",
-          "name": "ConocoPhillips",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "TRGP",
+          "name": "Targa Resources Corp.",
           "options_warning": false
         }
       ]
@@ -136,40 +105,9 @@
       "tier": "absolute_relative",
       "return_pct": 6.502463054187202,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "DE",
-          "name": "Deere & Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "CTVA",
-          "name": "Corteva, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NTR",
-          "name": "Nutrien Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ADM",
-          "name": "Archer-Daniels-Midland Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "CF",
-          "name": "CF Industries Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BG",
-          "name": "Bunge Global SA",
-          "options_warning": false
-        }
-      ]
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
     },
     {
       "etf": "SIL",
@@ -181,23 +119,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "WPM",
-          "name": "Wheaton Precious Metals Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CDE",
-          "name": "Coeur Mining, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "HL",
-          "name": "Hecla Mining Company",
+          "symbol": "AG",
+          "name": "First Majestic Silver Corp.",
           "options_warning": false
         },
         {
           "symbol": "SSRM",
           "name": "SSR Mining Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:OR",
+          "name": "OR Royalties Inc.",
           "options_warning": false
         }
       ]
@@ -212,18 +145,13 @@
       "etf_options_warning": true,
       "stocks": [
         {
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
+        {
           "symbol": "META",
           "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
           "options_warning": false
         },
         {
@@ -232,13 +160,28 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         }
       ]
@@ -258,13 +201,13 @@
           "options_warning": false
         },
         {
-          "symbol": "T",
-          "name": "AT&T Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
-          "symbol": "VZ",
-          "name": "Verizon Communications Inc.",
+          "symbol": "WBD",
+          "name": "Warner Bros. Discovery, Inc.",
           "options_warning": false
         }
       ]
@@ -279,16 +222,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NYSE:HAL",
-          "name": "Halliburton Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "TS",
-          "name": "Tenaris S.A.",
-          "options_warning": false
-        },
-        {
           "symbol": "SEI",
           "name": "Solaris Energy Infrastructure, Inc.",
           "options_warning": false
@@ -301,9 +234,30 @@
       "tier": "absolute_relative",
       "return_pct": 0.2604756511891404,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "HBM",
+          "name": "Hudbay Minerals Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TECK",
+          "name": "TECK RESOURCES LTD-CLS B",
+          "options_warning": true
+        },
+        {
+          "symbol": "SCCO",
+          "name": "Southern Copper Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        }
+      ]
     }
   ],
   "honorable_mentions": [
@@ -313,8 +267,8 @@
       "tier": "honorary",
       "return_pct": 1.1010362694300557,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "GILD",
@@ -322,19 +276,24 @@
           "options_warning": false
         },
         {
-          "symbol": "ARGX",
-          "name": "argenx SE",
+          "symbol": "REGN",
+          "name": "Regeneron Pharmaceuticals, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "NTRA",
           "name": "Natera, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
-          "options_warning": false
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
+          "options_warning": true
         }
       ]
     }
