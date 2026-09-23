@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:39:19.773344-04:00",
+  "generated_at": "2026-09-23T19:39:09.354264-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -22,23 +22,8 @@
           "options_warning": false
         },
         {
-          "symbol": "IREN",
-          "name": "IREN Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "BMNR",
-          "name": "Bitmine Immersion Technologies, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "CRCL",
           "name": "Circle Internet Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FIGR",
-          "name": "Figure Technology Solutions, Inc.",
           "options_warning": false
         },
         {
@@ -47,18 +32,33 @@
           "options_warning": false
         },
         {
-          "symbol": "GLXY",
-          "name": "Galaxy Digital Inc.",
+          "symbol": "CLSK",
+          "name": "CleanSpark, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "RIOT",
-          "name": "Riot Platforms, Inc.",
+          "symbol": "BMNR",
+          "name": "Bitmine Immersion Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PURR",
+          "name": "Hyperliquid Strategies Inc.",
           "options_warning": false
         },
         {
           "symbol": "HUT",
           "name": "Hut 8 Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CIFR",
+          "name": "Cipher Digital Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BTDR",
+          "name": "Bitdeer Technologies Group",
           "options_warning": false
         }
       ]
@@ -73,18 +73,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "DINO",
           "name": "HF Sinclair Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
@@ -93,8 +83,28 @@
           "options_warning": false
         },
         {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "DK",
           "name": "Delek US Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "DVN",
+          "name": "Devon Energy Corporation",
           "options_warning": false
         },
         {
@@ -108,18 +118,8 @@
           "options_warning": false
         },
         {
-          "symbol": "APA",
-          "name": "APA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "DVN",
-          "name": "Devon Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
           "options_warning": false
         }
       ]
@@ -134,13 +134,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
+          "symbol": "AEM",
+          "name": "Agnico Eagle Mines Limited",
           "options_warning": false
         },
         {
-          "symbol": "AEM",
-          "name": "Agnico Eagle Mines Limited",
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
           "options_warning": false
         },
         {
@@ -205,8 +205,8 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         },
         {
@@ -215,8 +215,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PSX",
-          "name": "Phillips 66",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -271,13 +271,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CF",
-          "name": "CF Industries Holdings, Inc.",
+          "symbol": "ZTS",
+          "name": "Zoetis Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ZTS",
-          "name": "Zoetis Inc.",
+          "symbol": "CF",
+          "name": "CF Industries Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -410,7 +410,7 @@
       "tier": "absolute_relative",
       "return_pct": 2.1129953749886576,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -490,13 +490,13 @@
           "options_warning": true
         },
         {
-          "symbol": "RIG",
-          "name": "Transocean Ltd.",
+          "symbol": "SEI",
+          "name": "Solaris Energy Infrastructure, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SEI",
-          "name": "Solaris Energy Infrastructure, Inc.",
+          "symbol": "RIG",
+          "name": "Transocean Ltd.",
           "options_warning": false
         },
         {
@@ -526,11 +526,6 @@
           "options_warning": false
         },
         {
-          "symbol": "NYSE:BHP",
-          "name": "BHP Group Limited",
-          "options_warning": false
-        },
-        {
           "symbol": "SCCO",
           "name": "Southern Copper Corporation",
           "options_warning": false
@@ -538,6 +533,11 @@
         {
           "symbol": "FCX",
           "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:BHP",
+          "name": "BHP Group Limited",
           "options_warning": false
         }
       ]
@@ -559,13 +559,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VRTX",
-          "name": "Vertex Pharmaceuticals Incorporated",
+          "symbol": "AMGN",
+          "name": "Amgen Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
+          "symbol": "VRTX",
+          "name": "Vertex Pharmaceuticals Incorporated",
           "options_warning": false
         },
         {
@@ -589,14 +589,14 @@
           "options_warning": false
         },
         {
-          "symbol": "RVMD",
-          "name": "Revolution Medicines, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "ILMN",
           "name": "Illumina, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "RVMD",
+          "name": "Revolution Medicines, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "ALNY",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:39:19.773344-04:00",
+  "generated_at": "2026-09-23T19:39:09.354264-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -12,8 +12,13 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CLSK",
+          "name": "CleanSpark, Inc.",
           "options_warning": false
         },
         {
@@ -22,28 +27,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CRCL",
-          "name": "Circle Internet Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MARA",
-          "name": "MARA Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GLXY",
-          "name": "Galaxy Digital Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RIOT",
-          "name": "Riot Platforms, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "HUT",
           "name": "Hut 8 Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CIFR",
+          "name": "Cipher Digital Inc.",
           "options_warning": false
         }
       ]
@@ -58,18 +48,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "DINO",
           "name": "HF Sinclair Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
@@ -78,13 +58,18 @@
           "options_warning": false
         },
         {
-          "symbol": "DK",
-          "name": "Delek US Holdings, Inc.",
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
-          "symbol": "PARR",
-          "name": "Par Pacific Holdings, Inc.",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "DVN",
+          "name": "Devon Energy Corporation",
           "options_warning": false
         }
       ]
@@ -109,8 +94,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         },
         {
@@ -119,8 +109,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PSX",
-          "name": "Phillips 66",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         }
       ]
@@ -143,11 +133,6 @@
           "symbol": "NTR",
           "name": "Nutrien Ltd.",
           "options_warning": true
-        },
-        {
-          "symbol": "ADM",
-          "name": "Archer-Daniels-Midland Company",
-          "options_warning": false
         }
       ]
     },
@@ -170,11 +155,6 @@
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
-          "options_warning": false
-        },
         {
           "symbol": "MRNA",
           "name": "Moderna, Inc.",
@@ -218,7 +198,7 @@
       "tier": "absolute_relative",
       "return_pct": 2.1129953749886576,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
