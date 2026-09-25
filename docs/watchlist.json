@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:31:44.320968-04:00",
+  "generated_at": "2026-09-25T19:38:23.550994-04:00",
   "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
   "core_sectors": [
     {
@@ -12,6 +12,11 @@
       "etf_options_warning": true,
       "stocks": [
         {
+          "symbol": "SECZ",
+          "name": "Securitize Corp.",
+          "options_warning": false
+        },
+        {
           "symbol": "MARA",
           "name": "MARA Holdings, Inc.",
           "options_warning": false
@@ -19,11 +24,6 @@
         {
           "symbol": "CLSK",
           "name": "CleanSpark, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SECZ",
-          "name": "Securitize Corp.",
           "options_warning": false
         },
         {
@@ -44,32 +44,17 @@
       "tier": "absolute_relative",
       "return_pct": 9.597939298913637,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": true
+        },
+        {
           "symbol": "PSX",
           "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "DINO",
-          "name": "HF Sinclair Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "DVN",
-          "name": "Devon Energy Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "APA",
-          "name": "APA Corporation",
           "options_warning": false
         },
         {
@@ -78,13 +63,8 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "CVX",
-          "name": "Chevron Corporation",
+          "symbol": "DINO",
+          "name": "HF Sinclair Corporation",
           "options_warning": false
         }
       ]
@@ -109,14 +89,9 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "CVX",
-          "name": "Chevron Corporation",
-          "options_warning": false
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": true
         },
         {
           "symbol": "PSX",
@@ -127,11 +102,6 @@
           "symbol": "MPC",
           "name": "Marathon Petroleum Corporation",
           "options_warning": false
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": true
         }
       ]
     },
@@ -208,7 +178,7 @@
       "tier": "absolute_relative",
       "return_pct": 2.1129953749886576,
       "spy_return_pct": -1.061502414270743,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
