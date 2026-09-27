@@ -1,13 +1,106 @@
 {
-  "generated_at": "2026-09-25T19:38:23.550994-04:00",
-  "sectors_frozen_at": "2026-09-12T01:33:52.934208-04:00",
+  "generated_at": "2026-09-27T02:06:03.379880-04:00",
+  "sectors_frozen_at": "2026-09-27T01:31:37.078904-04:00",
   "core_sectors": [
+    {
+      "etf": "SMH",
+      "etf_name": "VanEck Semiconductor ETF",
+      "tier": "absolute_relative",
+      "return_pct": 9.1387,
+      "spy_return_pct": 0.6879177109440304,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "BUZZ",
+      "etf_name": "VanEck Social Sentiment ETF",
+      "tier": "absolute_relative",
+      "return_pct": 7.7324,
+      "spy_return_pct": 0.6879177109440304,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLK",
+      "etf_name": "State Street Technology Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 7.3452,
+      "spy_return_pct": 0.6879177109440304,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        }
+      ]
+    },
     {
       "etf": "BITQ",
       "etf_name": "Bitwise Crypto Industry Innovators ETF",
       "tier": "absolute_relative",
-      "return_pct": 13.544415127528598,
-      "spy_return_pct": -1.061502414270743,
+      "return_pct": 6.5509,
+      "spy_return_pct": 0.6879177109440304,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -39,145 +132,63 @@
       ]
     },
     {
-      "etf": "XOP",
-      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+      "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
-      "return_pct": 9.597939298913637,
-      "spy_return_pct": -1.061502414270743,
+      "return_pct": 3.5355,
+      "spy_return_pct": 0.6879177109440304,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "DINO",
-          "name": "HF Sinclair Corporation",
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "GDX",
-      "etf_name": "VanEck Gold Miners ETF",
+      "etf": "MARS",
+      "etf_name": "Roundhill Space & Technology ETF",
       "tier": "absolute_relative",
-      "return_pct": 6.750219876868946,
-      "spy_return_pct": -1.061502414270743,
+      "return_pct": 2.7603,
+      "spy_return_pct": 0.6879177109440304,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": []
     },
     {
-      "etf": "XLE",
-      "etf_name": "State Street Energy Select Sector SPDR ETF",
+      "etf": "FDN",
+      "etf_name": "First Trust Dow Jones Internet Index Fund",
       "tier": "absolute_relative",
-      "return_pct": 6.73439292151401,
-      "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": true
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "MOO",
-      "etf_name": "VanEck Agribusiness ETF",
-      "tier": "absolute_relative",
-      "return_pct": 6.502463054187202,
-      "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "DE",
-          "name": "Deere & Company",
-          "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "SIL",
-      "etf_name": "Global X Silver Miners ETF",
-      "tier": "absolute_relative",
-      "return_pct": 5.530610009856529,
-      "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
-      "etf": "BUZZ",
-      "etf_name": "VanEck Social Sentiment ETF",
-      "tier": "absolute_relative",
-      "return_pct": 2.1667580910586848,
-      "spy_return_pct": -1.061502414270743,
+      "return_pct": 1.1657,
+      "spy_return_pct": 0.6879177109440304,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "MRNA",
-          "name": "Moderna, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
-          "options_warning": false
-        },
         {
           "symbol": "META",
           "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "ANET",
+          "name": "Arista Networks, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
-          "options_warning": true
         }
       ]
     },
     {
       "etf": "XLC",
       "etf_name": "State Street Communication Services Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 2.1129953749886576,
-      "spy_return_pct": -1.061502414270743,
+      "tier": "absolute",
+      "return_pct": 0.3108,
+      "spy_return_pct": 0.6879177109440304,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
@@ -192,70 +203,7 @@
           "options_warning": false
         }
       ]
-    },
-    {
-      "etf": "OIH",
-      "etf_name": "VanEck Oil Services ETF",
-      "tier": "absolute_relative",
-      "return_pct": 1.7979866421450108,
-      "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "TS",
-          "name": "Tenaris S.A.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SEI",
-          "name": "Solaris Energy Infrastructure, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "COPX",
-      "etf_name": "Global X Copper Miners ETF",
-      "tier": "absolute_relative",
-      "return_pct": 0.2604756511891404,
-      "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
     }
   ],
-  "honorable_mentions": [
-    {
-      "etf": "IBB",
-      "etf_name": "iShares Biotechnology ETF",
-      "tier": "honorary",
-      "return_pct": 1.1010362694300557,
-      "spy_return_pct": -1.061502414270743,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "GILD",
-          "name": "Gilead Sciences, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MRNA",
-          "name": "Moderna, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NTRA",
-          "name": "Natera, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
-          "options_warning": false
-        }
-      ]
-    }
-  ]
+  "honorable_mentions": []
 }
