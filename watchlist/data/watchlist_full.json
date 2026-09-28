@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T02:06:03.379880-04:00",
+  "generated_at": "2026-09-27T20:02:15.112573-04:00",
   "sectors_frozen_at": "2026-09-27T01:31:37.078904-04:00",
   "core_sectors": [
     {
@@ -32,13 +32,13 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -57,8 +57,8 @@
           "options_warning": false
         },
         {
-          "symbol": "KLAC",
-          "name": "KLA Corporation",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -83,18 +83,8 @@
           "options_warning": false
         },
         {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
-          "options_warning": false
-        },
-        {
           "symbol": "META",
           "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -103,23 +93,33 @@
           "options_warning": false
         },
         {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
+        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "NBIS",
           "name": "Nebius Group N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "IREN",
-          "name": "IREN Limited",
-          "options_warning": false
-        },
-        {
-          "symbol": "TSLA",
-          "name": "Tesla, Inc.",
           "options_warning": false
         }
       ]
