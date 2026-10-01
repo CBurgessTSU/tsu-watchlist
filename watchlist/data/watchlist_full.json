@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:27:35.964282-04:00",
+  "generated_at": "2026-09-30T20:28:44.914188-04:00",
   "sectors_frozen_at": "2026-09-27T01:31:37.078904-04:00",
   "core_sectors": [
     {
@@ -42,23 +42,23 @@
           "options_warning": false
         },
         {
-          "symbol": "SKHY",
-          "name": "SK hynix Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "TXN",
           "name": "Texas Instruments Incorporated",
           "options_warning": false
         },
         {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
+          "symbol": "KLAC",
+          "name": "KLA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding N.V.",
           "options_warning": false
         }
       ]
@@ -83,8 +83,8 @@
           "options_warning": false
         },
         {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
           "options_warning": false
         },
         {
@@ -93,13 +93,13 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -108,9 +108,9 @@
           "options_warning": false
         },
         {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
-          "options_warning": true
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
         },
         {
           "symbol": "AAPL",
@@ -118,8 +118,8 @@
           "options_warning": false
         },
         {
-          "symbol": "NBIS",
-          "name": "Nebius Group N.V.",
+          "symbol": "ASTS",
+          "name": "AST SpaceMobile, Inc.",
           "options_warning": false
         }
       ]
@@ -179,8 +179,8 @@
           "options_warning": false
         },
         {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -191,8 +191,8 @@
       "tier": "absolute_relative",
       "return_pct": 6.5509,
       "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "MSTR",
@@ -215,13 +215,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MARA",
-          "name": "MARA Holdings, Inc.",
+          "symbol": "BMNR",
+          "name": "Bitmine Immersion Technologies, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BMNR",
-          "name": "Bitmine Immersion Technologies, Inc.",
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -230,13 +230,13 @@
           "options_warning": false
         },
         {
-          "symbol": "PURR",
-          "name": "Hyperliquid Strategies Inc.",
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
           "options_warning": false
         },
         {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
+          "symbol": "PURR",
+          "name": "Hyperliquid Strategies Inc.",
           "options_warning": false
         },
         {
@@ -252,7 +252,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.5355,
       "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -388,13 +388,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
+          "symbol": "NFLX",
+          "name": "Netflix, Inc.",
           "options_warning": false
         },
         {
@@ -403,18 +403,18 @@
           "options_warning": false
         },
         {
-          "symbol": "CRM",
-          "name": "Salesforce, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "BKNG",
           "name": "Booking Holdings Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
+          "symbol": "CRM",
+          "name": "Salesforce, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NET",
+          "name": "Cloudflare, Inc.",
           "options_warning": false
         }
       ]
@@ -464,8 +464,8 @@
           "options_warning": false
         },
         {
-          "symbol": "TMUS",
-          "name": "T-Mobile US, Inc.",
+          "symbol": "NFLX",
+          "name": "Netflix, Inc.",
           "options_warning": false
         },
         {

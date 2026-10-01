@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:27:35.964282-04:00",
+  "generated_at": "2026-09-30T20:28:44.914188-04:00",
   "sectors_frozen_at": "2026-09-27T01:31:37.078904-04:00",
   "core_sectors": [
     {
@@ -22,13 +22,13 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
@@ -48,8 +48,8 @@
           "options_warning": false
         },
         {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
           "options_warning": false
         },
         {
@@ -58,19 +58,19 @@
           "options_warning": false
         },
         {
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "INTC",
           "name": "Intel Corporation",
           "options_warning": false
         },
         {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
-          "options_warning": true
         },
         {
           "symbol": "AAPL",
@@ -104,6 +104,11 @@
           "options_warning": false
         },
         {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "INTC",
           "name": "Intel Corporation",
           "options_warning": false
@@ -121,8 +126,8 @@
       "tier": "absolute_relative",
       "return_pct": 6.5509,
       "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "SECZ",
@@ -133,16 +138,6 @@
           "symbol": "BMNR",
           "name": "Bitmine Immersion Technologies, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "CLSK",
-          "name": "CleanSpark, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
-          "options_warning": false
         }
       ]
     },
@@ -152,7 +147,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.5355,
       "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -185,7 +180,13 @@
       "spy_return_pct": 0.6879177109440304,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "GSAT",
+          "name": "Globalstar, Inc.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "FDN",
@@ -204,6 +205,11 @@
         {
           "symbol": "ANET",
           "name": "Arista Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NET",
+          "name": "Cloudflare, Inc.",
           "options_warning": false
         }
       ]
