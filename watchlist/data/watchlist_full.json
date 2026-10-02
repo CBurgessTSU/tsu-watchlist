@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:28:44.914188-04:00",
+  "generated_at": "2026-10-01T20:31:05.209417-04:00",
   "sectors_frozen_at": "2026-09-27T01:31:37.078904-04:00",
   "core_sectors": [
     {
@@ -179,8 +179,8 @@
           "options_warning": false
         },
         {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         }
       ]
@@ -388,13 +388,13 @@
           "options_warning": false
         },
         {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
+          "symbol": "NFLX",
+          "name": "Netflix, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
@@ -413,8 +413,8 @@
           "options_warning": false
         },
         {
-          "symbol": "NET",
-          "name": "Cloudflare, Inc.",
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]
@@ -449,8 +449,8 @@
           "options_warning": false
         },
         {
-          "symbol": "APP",
-          "name": "AppLovin Corporation",
+          "symbol": "TTWO",
+          "name": "Take-Two Interactive Software, Inc.",
           "options_warning": false
         },
         {
@@ -459,18 +459,18 @@
           "options_warning": false
         },
         {
-          "symbol": "TTWO",
-          "name": "Take-Two Interactive Software, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
+          "symbol": "APP",
+          "name": "AppLovin Corporation",
           "options_warning": false
         },
         {
           "symbol": "VZ",
           "name": "Verizon Communications Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TMUS",
+          "name": "T-Mobile US, Inc.",
           "options_warning": false
         }
       ]
