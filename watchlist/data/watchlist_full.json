@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-01T20:31:05.209417-04:00",
-  "sectors_frozen_at": "2026-09-27T01:31:37.078904-04:00",
+  "generated_at": "2026-10-03T02:47:35.485241-04:00",
+  "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
       "etf": "SMH",
       "etf_name": "VanEck Semiconductor ETF",
       "tier": "absolute_relative",
-      "return_pct": 9.1387,
-      "spy_return_pct": 0.6879177109440304,
+      "return_pct": 14.554570556605139,
+      "spy_return_pct": 0.5854984578388844,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -42,13 +42,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
+          "symbol": "TXN",
+          "name": "Texas Instruments Incorporated",
           "options_warning": false
         },
         {
@@ -64,72 +64,11 @@
       ]
     },
     {
-      "etf": "BUZZ",
-      "etf_name": "VanEck Social Sentiment ETF",
-      "tier": "absolute_relative",
-      "return_pct": 7.7324,
-      "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "MRNA",
-          "name": "Moderna, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
-          "options_warning": false
-        },
-        {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "XLK",
       "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 7.3452,
-      "spy_return_pct": 0.6879177109440304,
+      "return_pct": 8.828976034858393,
+      "spy_return_pct": 0.5854984578388844,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -154,13 +93,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AVGO",
-          "name": "Broadcom Inc.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "AVGO",
+          "name": "Broadcom Inc.",
           "options_warning": false
         },
         {
@@ -186,62 +125,62 @@
       ]
     },
     {
-      "etf": "BITQ",
-      "etf_name": "Bitwise Crypto Industry Innovators ETF",
+      "etf": "BUZZ",
+      "etf_name": "VanEck Social Sentiment ETF",
       "tier": "absolute_relative",
-      "return_pct": 6.5509,
-      "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": false,
+      "return_pct": 7.176373171404915,
+      "spy_return_pct": 0.5854984578388844,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
         {
           "symbol": "MSTR",
           "name": "Strategy Inc",
           "options_warning": false
         },
         {
-          "symbol": "COIN",
-          "name": "Coinbase Global, Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
-          "symbol": "CRCL",
-          "name": "Circle Internet Group, Inc.",
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SECZ",
-          "name": "Securitize Corp.",
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BMNR",
-          "name": "Bitmine Immersion Technologies, Inc.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MARA",
-          "name": "MARA Holdings, Inc.",
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "CLSK",
-          "name": "CleanSpark, Inc.",
+          "symbol": "NBIS",
+          "name": "Nebius Group N.V.",
           "options_warning": false
         },
         {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PURR",
-          "name": "Hyperliquid Strategies Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CIFR",
-          "name": "Cipher Digital Inc.",
+          "symbol": "SNDK",
+          "name": "Sandisk Corporation",
           "options_warning": false
         }
       ]
@@ -250,9 +189,9 @@
       "etf": "IGV",
       "etf_name": "iShares Expanded Tech-Software Sector ETF",
       "tier": "absolute_relative",
-      "return_pct": 3.5355,
-      "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": false,
+      "return_pct": 4.8443241152581695,
+      "spy_return_pct": 0.5854984578388844,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -296,13 +235,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ADBE",
-          "name": "Adobe Inc.",
+          "symbol": "CDNS",
+          "name": "Cadence Design Systems, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "DDOG",
-          "name": "Datadog, Inc.",
+          "symbol": "ADBE",
+          "name": "Adobe Inc.",
           "options_warning": false
         }
       ]
@@ -311,8 +250,8 @@
       "etf": "MARS",
       "etf_name": "Roundhill Space & Technology ETF",
       "tier": "absolute_relative",
-      "return_pct": 2.7603,
-      "spy_return_pct": 0.6879177109440304,
+      "return_pct": 4.305835010060366,
+      "spy_return_pct": 0.5854984578388844,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
@@ -364,12 +303,73 @@
       ]
     },
     {
+      "etf": "BITQ",
+      "etf_name": "Bitwise Crypto Industry Innovators ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.5670356703566997,
+      "spy_return_pct": 0.5854984578388844,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "MSTR",
+          "name": "Strategy Inc",
+          "options_warning": false
+        },
+        {
+          "symbol": "COIN",
+          "name": "Coinbase Global, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRCL",
+          "name": "Circle Internet Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BMNR",
+          "name": "Bitmine Immersion Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SECZ",
+          "name": "Securitize Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PURR",
+          "name": "Hyperliquid Strategies Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CLSK",
+          "name": "CleanSpark, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GLXY",
+          "name": "Galaxy Digital Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
       "etf": "FDN",
       "etf_name": "First Trust Dow Jones Internet Index Fund",
       "tier": "absolute_relative",
-      "return_pct": 1.1657,
-      "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": false,
+      "return_pct": 1.5171021956226882,
+      "spy_return_pct": 0.5854984578388844,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -388,13 +388,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
+          "symbol": "NFLX",
+          "name": "Netflix, Inc.",
           "options_warning": false
         },
         {
@@ -403,74 +403,18 @@
           "options_warning": false
         },
         {
-          "symbol": "BKNG",
-          "name": "Booking Holdings Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "CRM",
           "name": "Salesforce, Inc.",
           "options_warning": false
         },
         {
+          "symbol": "BKNG",
+          "name": "Booking Holdings Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "SNOW",
           "name": "Snowflake Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLC",
-      "etf_name": "State Street Communication Services Select Sector SPDR ETF",
-      "tier": "absolute",
-      "return_pct": 0.3108,
-      "spy_return_pct": 0.6879177109440304,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "WBD",
-          "name": "Warner Bros. Discovery, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "DIS",
-          "name": "The Walt Disney Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "TTWO",
-          "name": "Take-Two Interactive Software, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "T",
-          "name": "AT&T Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "APP",
-          "name": "AppLovin Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "VZ",
-          "name": "Verizon Communications Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TMUS",
-          "name": "T-Mobile US, Inc.",
           "options_warning": false
         }
       ]
