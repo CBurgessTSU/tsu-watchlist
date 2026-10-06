@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T02:47:35.485241-04:00",
+  "generated_at": "2026-10-05T20:28:51.657210-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -37,18 +37,8 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "AMAT",
           "name": "Applied Materials, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
           "options_warning": false
         },
         {
@@ -57,8 +47,18 @@
           "options_warning": false
         },
         {
-          "symbol": "ASML",
-          "name": "ASML Holding N.V.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "TXN",
+          "name": "Texas Instruments Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         }
       ]
@@ -93,23 +93,18 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "AVGO",
           "name": "Broadcom Inc.",
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -121,6 +116,11 @@
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -131,16 +131,11 @@
       "return_pct": 7.176373171404915,
       "spy_return_pct": 0.5854984578388844,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "MRNA",
           "name": "Moderna, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
           "options_warning": false
         },
         {
@@ -149,8 +144,13 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
@@ -159,8 +159,8 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -179,8 +179,8 @@
           "options_warning": false
         },
         {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         }
       ]
@@ -191,7 +191,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -370,7 +370,7 @@
       "return_pct": 1.5171021956226882,
       "spy_return_pct": 0.5854984578388844,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "META",

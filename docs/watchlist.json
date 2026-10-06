@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T02:47:35.485241-04:00",
+  "generated_at": "2026-10-05T20:28:51.657210-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -24,6 +24,11 @@
         {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KLAC",
+          "name": "KLA Corporation",
           "options_warning": false
         },
         {
@@ -91,7 +96,7 @@
       "return_pct": 7.176373171404915,
       "spy_return_pct": 0.5854984578388844,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "MRNA",
@@ -104,8 +109,13 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
@@ -114,8 +124,8 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         },
         {
@@ -134,8 +144,8 @@
           "options_warning": false
         },
         {
-          "symbol": "SNDK",
-          "name": "Sandisk Corporation",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         }
       ]
@@ -146,7 +156,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -189,6 +199,11 @@
           "symbol": "GSAT",
           "name": "Globalstar, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "MDA",
+          "name": "MDA Space Ltd.",
+          "options_warning": false
         }
       ]
     },
@@ -207,8 +222,13 @@
           "options_warning": false
         },
         {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
+          "symbol": "BMNR",
+          "name": "Bitmine Immersion Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SECZ",
+          "name": "Securitize Corp.",
           "options_warning": false
         }
       ]
@@ -220,7 +240,7 @@
       "return_pct": 1.5171021956226882,
       "spy_return_pct": 0.5854984578388844,
       "etf_qualified": true,
-      "etf_options_warning": false,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "META",
@@ -235,6 +255,11 @@
         {
           "symbol": "ANET",
           "name": "Arista Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]
