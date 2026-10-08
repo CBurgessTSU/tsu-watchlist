@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:28:51.657210-04:00",
+  "generated_at": "2026-10-07T21:15:05.924206-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -32,23 +32,18 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "AMAT",
           "name": "Applied Materials, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "KLAC",
-          "name": "KLA Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "KLAC",
+          "name": "KLA Corporation",
           "options_warning": false
         },
         {
@@ -59,6 +54,11 @@
         {
           "symbol": "LRCX",
           "name": "Lam Research Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
@@ -113,13 +113,13 @@
           "options_warning": false
         },
         {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -159,16 +159,6 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "NVDA",
           "name": "NVIDIA Corporation",
           "options_warning": false
@@ -179,8 +169,18 @@
           "options_warning": false
         },
         {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASTS",
+          "name": "AST SpaceMobile, Inc.",
           "options_warning": false
         }
       ]
@@ -191,7 +191,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -200,13 +200,13 @@
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
@@ -225,13 +225,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CRM",
-          "name": "Salesforce, Inc.",
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "FTNT",
-          "name": "Fortinet, Inc.",
+          "symbol": "CRM",
+          "name": "Salesforce, Inc.",
           "options_warning": false
         },
         {
@@ -240,8 +240,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ADBE",
-          "name": "Adobe Inc.",
+          "symbol": "SNPS",
+          "name": "Synopsys, Inc.",
           "options_warning": false
         }
       ]
@@ -308,8 +308,8 @@
       "tier": "absolute_relative",
       "return_pct": 3.5670356703566997,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "MSTR",
@@ -332,18 +332,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SECZ",
-          "name": "Securitize Corp.",
+          "symbol": "PURR",
+          "name": "Hyperliquid Strategies Inc.",
           "options_warning": false
         },
         {
           "symbol": "MARA",
           "name": "MARA Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PURR",
-          "name": "Hyperliquid Strategies Inc.",
           "options_warning": false
         },
         {
@@ -357,8 +352,13 @@
           "options_warning": false
         },
         {
-          "symbol": "GLXY",
-          "name": "Galaxy Digital Inc.",
+          "symbol": "SECZ",
+          "name": "Securitize Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BTDR",
+          "name": "Bitdeer Technologies Group",
           "options_warning": false
         }
       ]
@@ -369,8 +369,8 @@
       "tier": "absolute_relative",
       "return_pct": 1.5171021956226882,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "META",
@@ -413,8 +413,8 @@
           "options_warning": false
         },
         {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
+          "symbol": "ORCL",
+          "name": "Oracle Corporation",
           "options_warning": false
         }
       ]

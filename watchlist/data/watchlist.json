@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:28:51.657210-04:00",
+  "generated_at": "2026-10-07T21:15:05.924206-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -12,11 +12,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
@@ -27,18 +22,8 @@
           "options_warning": false
         },
         {
-          "symbol": "KLAC",
-          "name": "KLA Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "INTC",
           "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
           "options_warning": false
         }
       ]
@@ -52,11 +37,6 @@
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
         {
           "symbol": "AAPL",
           "name": "Apple Inc.",
@@ -104,11 +84,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
-          "options_warning": false
-        },
-        {
           "symbol": "GME",
           "name": "GameStop Corp.",
           "options_warning": false
@@ -124,28 +99,13 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "NBIS",
-          "name": "Nebius Group N.V.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
@@ -156,22 +116,17 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PANW",
-          "name": "Palo Alto Networks, Inc.",
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
           "symbol": "PLTR",
           "name": "Palantir Technologies Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -201,8 +156,8 @@
           "options_warning": false
         },
         {
-          "symbol": "MDA",
-          "name": "MDA Space Ltd.",
+          "symbol": "VSAT",
+          "name": "Viasat, Inc.",
           "options_warning": false
         }
       ]
@@ -213,17 +168,27 @@
       "tier": "absolute_relative",
       "return_pct": 3.5670356703566997,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
-        {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
-          "options_warning": false
-        },
         {
           "symbol": "BMNR",
           "name": "Bitmine Immersion Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CLSK",
+          "name": "CleanSpark, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HUT",
+          "name": "Hut 8 Corp.",
           "options_warning": false
         },
         {
@@ -239,8 +204,8 @@
       "tier": "absolute_relative",
       "return_pct": 1.5171021956226882,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "META",
@@ -248,18 +213,8 @@
           "options_warning": false
         },
         {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "ANET",
           "name": "Arista Networks, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]
