@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:15:05.924206-04:00",
+  "generated_at": "2026-10-08T20:59:58.302649-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -17,13 +17,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         }
       ]
@@ -43,11 +43,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
@@ -60,11 +55,6 @@
         {
           "symbol": "INTC",
           "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
           "options_warning": false
         }
       ]
@@ -116,22 +106,12 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
@@ -149,18 +129,7 @@
       "spy_return_pct": 0.5854984578388844,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "GSAT",
-          "name": "Globalstar, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VSAT",
-          "name": "Viasat, Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "BITQ",
@@ -177,16 +146,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MARA",
-          "name": "MARA Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CLSK",
-          "name": "CleanSpark, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "HUT",
           "name": "Hut 8 Corp.",
           "options_warning": false
@@ -194,6 +153,16 @@
         {
           "symbol": "SECZ",
           "name": "Securitize Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CLSK",
+          "name": "CleanSpark, Inc.",
           "options_warning": false
         }
       ]

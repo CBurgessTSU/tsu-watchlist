@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:15:05.924206-04:00",
+  "generated_at": "2026-10-08T20:59:58.302649-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -32,18 +32,8 @@
           "options_warning": false
         },
         {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KLAC",
-          "name": "KLA Corporation",
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
           "options_warning": false
         },
         {
@@ -52,13 +42,23 @@
           "options_warning": false
         },
         {
-          "symbol": "LRCX",
-          "name": "Lam Research Corporation",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KLAC",
+          "name": "KLA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding N.V.",
           "options_warning": false
         }
       ]
@@ -191,7 +191,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -337,16 +337,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MARA",
-          "name": "MARA Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CLSK",
-          "name": "CleanSpark, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "HUT",
           "name": "Hut 8 Corp.",
           "options_warning": false
@@ -354,6 +344,16 @@
         {
           "symbol": "SECZ",
           "name": "Securitize Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MARA",
+          "name": "MARA Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CLSK",
+          "name": "CleanSpark, Inc.",
           "options_warning": false
         },
         {
