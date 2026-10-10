@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:59:58.302649-04:00",
+  "generated_at": "2026-10-09T20:27:59.490320-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -32,18 +32,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
-          "options_warning": false
-        },
-        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
           "options_warning": false
         },
         {
@@ -52,13 +47,18 @@
           "options_warning": false
         },
         {
+          "symbol": "TXN",
+          "name": "Texas Instruments Incorporated",
+          "options_warning": false
+        },
+        {
           "symbol": "KLAC",
           "name": "KLA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "ASML",
-          "name": "ASML Holding N.V.",
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
@@ -108,13 +108,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CSCO",
-          "name": "Cisco Systems, Inc.",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
           "options_warning": false
         },
         {
@@ -139,11 +139,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
-          "options_warning": false
-        },
-        {
           "symbol": "GME",
           "name": "GameStop Corp.",
           "options_warning": false
@@ -154,18 +149,13 @@
           "options_warning": false
         },
         {
+          "symbol": "MSTR",
+          "name": "Strategy Inc",
+          "options_warning": false
+        },
+        {
           "symbol": "META",
           "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "NBIS",
-          "name": "Nebius Group N.V.",
           "options_warning": false
         },
         {
@@ -174,13 +164,23 @@
           "options_warning": false
         },
         {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "INTC",
           "name": "Intel Corporation",
           "options_warning": false
         },
         {
-          "symbol": "ASTS",
-          "name": "AST SpaceMobile, Inc.",
+          "symbol": "NBIS",
+          "name": "Nebius Group N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
           "options_warning": false
         }
       ]
@@ -191,7 +191,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -200,13 +200,13 @@
           "options_warning": false
         },
         {
-          "symbol": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -308,8 +308,8 @@
       "tier": "absolute_relative",
       "return_pct": 3.5670356703566997,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "MSTR",
@@ -342,11 +342,6 @@
           "options_warning": false
         },
         {
-          "symbol": "SECZ",
-          "name": "Securitize Corp.",
-          "options_warning": false
-        },
-        {
           "symbol": "MARA",
           "name": "MARA Holdings, Inc.",
           "options_warning": false
@@ -354,6 +349,11 @@
         {
           "symbol": "CLSK",
           "name": "CleanSpark, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SECZ",
+          "name": "Securitize Corp.",
           "options_warning": false
         },
         {
@@ -388,13 +388,13 @@
           "options_warning": false
         },
         {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
+          "symbol": "NFLX",
+          "name": "Netflix, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
@@ -413,8 +413,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ORCL",
-          "name": "Oracle Corporation",
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]

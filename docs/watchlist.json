@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:59:58.302649-04:00",
+  "generated_at": "2026-10-09T20:27:59.490320-04:00",
   "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
   "core_sectors": [
     {
@@ -12,8 +12,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
@@ -22,8 +32,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KLAC",
+          "name": "KLA Corporation",
           "options_warning": false
         }
       ]
@@ -38,8 +53,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
@@ -53,8 +73,18 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -94,8 +124,8 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
           "options_warning": false
         }
       ]
@@ -106,17 +136,42 @@
       "tier": "absolute_relative",
       "return_pct": 4.8443241152581695,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
+          "options_warning": false
+        },
         {
           "symbol": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "FTNT",
           "name": "Fortinet, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CDNS",
+          "name": "Cadence Design Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNPS",
+          "name": "Synopsys, Inc.",
           "options_warning": false
         }
       ]
@@ -129,7 +184,13 @@
       "spy_return_pct": 0.5854984578388844,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "GSAT",
+          "name": "Globalstar, Inc.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "BITQ",
@@ -137,32 +198,12 @@
       "tier": "absolute_relative",
       "return_pct": 3.5670356703566997,
       "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "BMNR",
-          "name": "Bitmine Immersion Technologies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "HUT",
-          "name": "Hut 8 Corp.",
-          "options_warning": false
-        },
         {
           "symbol": "SECZ",
           "name": "Securitize Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MARA",
-          "name": "MARA Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CLSK",
-          "name": "CleanSpark, Inc.",
           "options_warning": false
         }
       ]
@@ -182,8 +223,23 @@
           "options_warning": false
         },
         {
+          "symbol": "AMZN",
+          "name": "Amazon.com, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "ANET",
           "name": "Arista Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]
