@@ -1,13 +1,54 @@
 {
-  "generated_at": "2026-10-09T20:27:59.490320-04:00",
-  "sectors_frozen_at": "2026-10-03T02:14:22.436936-04:00",
+  "generated_at": "2026-10-10T02:58:50.915408-04:00",
+  "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
+    {
+      "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
+      "tier": "absolute_relative",
+      "return_pct": 11.333992094861657,
+      "spy_return_pct": 2.736761542826227,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CDNS",
+          "name": "Cadence Design Systems, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
     {
       "etf": "SMH",
       "etf_name": "VanEck Semiconductor ETF",
       "tier": "absolute_relative",
-      "return_pct": 14.554570556605139,
-      "spy_return_pct": 0.5854984578388844,
+      "return_pct": 7.683658170914565,
+      "spy_return_pct": 2.736761542826227,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -47,8 +88,8 @@
       "etf": "XLK",
       "etf_name": "State Street Technology Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 8.828976034858393,
-      "spy_return_pct": 0.5854984578388844,
+      "return_pct": 7.32102364755427,
+      "spy_return_pct": 2.736761542826227,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -90,11 +131,42 @@
       ]
     },
     {
+      "etf": "FDN",
+      "etf_name": "First Trust Dow Jones Internet Index Fund",
+      "tier": "absolute_relative",
+      "return_pct": 5.541155866900183,
+      "spy_return_pct": 2.736761542826227,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ANET",
+          "name": "Arista Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
       "etf": "BUZZ",
       "etf_name": "VanEck Social Sentiment ETF",
       "tier": "absolute_relative",
-      "return_pct": 7.176373171404915,
-      "spy_return_pct": 0.5854984578388844,
+      "return_pct": 4.758020663404028,
+      "spy_return_pct": 2.736761542826227,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -131,102 +203,66 @@
       ]
     },
     {
-      "etf": "IGV",
-      "etf_name": "iShares Expanded Tech-Software Sector ETF",
+      "etf": "XLV",
+      "etf_name": "State Street Health Care Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.8443241152581695,
-      "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": true,
+      "return_pct": 3.1087770131594805,
+      "spy_return_pct": 2.736761542826227,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PANW",
-          "name": "Palo Alto Networks, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "FTNT",
-          "name": "Fortinet, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CDNS",
-          "name": "Cadence Design Systems, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNPS",
-          "name": "Synopsys, Inc.",
+          "symbol": "ABBV",
+          "name": "AbbVie Inc.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "MARS",
-      "etf_name": "Roundhill Space & Technology ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.305835010060366,
-      "spy_return_pct": 0.5854984578388844,
+      "etf": "FFTY",
+      "etf_name": "CapForce IBD 50 ETF",
+      "tier": "absolute",
+      "return_pct": 1.6949152542372836,
+      "spy_return_pct": 2.736761542826227,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "GSAT",
-          "name": "Globalstar, Inc.",
+          "symbol": "ECO",
+          "name": "Okeanis Eco Tankers Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RBRK",
+          "name": "Rubrik, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "HNGE",
+          "name": "Hinge Health, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "LITE",
+          "name": "Lumentum Holdings Inc.",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "BITQ",
-      "etf_name": "Bitwise Crypto Industry Innovators ETF",
-      "tier": "absolute_relative",
-      "return_pct": 3.5670356703566997,
-      "spy_return_pct": 0.5854984578388844,
+      "etf": "IYZ",
+      "etf_name": "iShares U.S. Telecommunications ETF",
+      "tier": "absolute",
+      "return_pct": 1.2336892052194681,
+      "spy_return_pct": 2.736761542826227,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "SECZ",
-          "name": "Securitize Corp.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "FDN",
-      "etf_name": "First Trust Dow Jones Internet Index Fund",
-      "tier": "absolute_relative",
-      "return_pct": 1.5171021956226882,
-      "spy_return_pct": 0.5854984578388844,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMZN",
-          "name": "Amazon.com, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
@@ -238,8 +274,55 @@
           "options_warning": false
         },
         {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
+          "symbol": "CIEN",
+          "name": "Ciena Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "LITE",
+          "name": "Lumentum Holdings Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UI",
+          "name": "Ubiquiti Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLY",
+      "etf_name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+      "tier": "absolute",
+      "return_pct": 0.7949267595569909,
+      "spy_return_pct": 2.736761542826227,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "MAR",
+          "name": "Marriott International, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "PHO",
+      "etf_name": "Invesco Water Resources ETF",
+      "tier": "absolute",
+      "return_pct": 0.7639194946378769,
+      "spy_return_pct": 2.736761542826227,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "WAT",
+          "name": "Waters Corporation",
+          "options_warning": true
+        },
+        {
+          "symbol": "A",
+          "name": "Agilent Technologies, Inc.",
           "options_warning": false
         }
       ]
