@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:58:50.915408-04:00",
+  "generated_at": "2026-10-10T20:41:04.685531-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -248,8 +248,13 @@
           "options_warning": false
         },
         {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NTAP",
+          "name": "NetApp, Inc.",
           "options_warning": false
         }
       ]

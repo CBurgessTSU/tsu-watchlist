@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:58:50.915408-04:00",
+  "generated_at": "2026-10-10T20:41:04.685531-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -98,6 +98,11 @@
           "options_warning": false
         },
         {
+          "symbol": "TXN",
+          "name": "Texas Instruments Incorporated",
+          "options_warning": false
+        },
+        {
           "symbol": "MRVL",
           "name": "Marvell Technology, Inc.",
           "options_warning": false
@@ -108,18 +113,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TXN",
-          "name": "Texas Instruments Incorporated",
-          "options_warning": false
-        },
-        {
           "symbol": "KLAC",
           "name": "KLA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
+          "symbol": "ASML",
+          "name": "ASML Holding N.V.",
           "options_warning": false
         }
       ]
@@ -378,6 +378,11 @@
           "options_warning": false
         },
         {
+          "symbol": "LPG",
+          "name": "Dorian LPG Ltd.",
+          "options_warning": false
+        },
+        {
           "symbol": "RBRK",
           "name": "Rubrik, Inc.",
           "options_warning": false
@@ -385,11 +390,6 @@
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "LPG",
-          "name": "Dorian LPG Ltd.",
           "options_warning": false
         },
         {
@@ -413,13 +413,13 @@
           "options_warning": false
         },
         {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "WT",
-          "name": "WisdomTree, Inc.",
+          "symbol": "NTAP",
+          "name": "NetApp, Inc.",
           "options_warning": false
         }
       ]
@@ -596,13 +596,13 @@
           "options_warning": false
         },
         {
-          "symbol": "XYL",
-          "name": "Xylem Inc.",
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AWK",
-          "name": "American Water Works Company, Inc.",
+          "symbol": "XYL",
+          "name": "Xylem Inc.",
           "options_warning": false
         }
       ]
