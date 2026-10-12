@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:41:04.685531-04:00",
+  "generated_at": "2026-10-11T20:41:12.389817-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -261,13 +261,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
+          "symbol": "MSTR",
+          "name": "Strategy Inc",
           "options_warning": false
         },
         {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
@@ -286,18 +286,18 @@
           "options_warning": false
         },
         {
-          "symbol": "INTC",
-          "name": "Intel Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "NBIS",
-          "name": "Nebius Group N.V.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
           "symbol": "TSLA",
           "name": "Tesla, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corporation",
           "options_warning": false
         }
       ]
@@ -596,13 +596,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AWK",
-          "name": "American Water Works Company, Inc.",
+          "symbol": "XYL",
+          "name": "Xylem Inc.",
           "options_warning": false
         },
         {
-          "symbol": "XYL",
-          "name": "Xylem Inc.",
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
           "options_warning": false
         }
       ]
