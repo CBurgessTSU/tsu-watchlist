@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:41:12.389817-04:00",
+  "generated_at": "2026-10-12T22:20:23.553486-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -35,11 +35,6 @@
           "symbol": "FTNT",
           "name": "Fortinet, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "CDNS",
-          "name": "Cadence Design Systems, Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -60,11 +55,6 @@
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
@@ -109,11 +99,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "PLTR",
           "name": "Palantir Technologies Inc.",
           "options_warning": false
@@ -136,8 +121,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.541155866900183,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "META",
@@ -167,8 +152,8 @@
       "tier": "absolute_relative",
       "return_pct": 4.758020663404028,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "MRNA",
@@ -181,18 +166,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "META",
           "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
@@ -211,6 +191,11 @@
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Company",
+          "options_warning": false
+        },
         {
           "symbol": "ABBV",
           "name": "AbbVie Inc.",
@@ -238,24 +223,19 @@
           "options_warning": false
         },
         {
-          "symbol": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "HNGE",
           "name": "Hinge Health, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NTRA",
-          "name": "Natera, Inc.",
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NTAP",
-          "name": "NetApp, Inc.",
-          "options_warning": false
+          "symbol": "LITE",
+          "name": "Lumentum Holdings Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -286,12 +266,7 @@
         {
           "symbol": "LITE",
           "name": "Lumentum Holdings Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UI",
-          "name": "Ubiquiti Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
