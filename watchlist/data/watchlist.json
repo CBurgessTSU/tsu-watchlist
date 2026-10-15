@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:20:23.553486-04:00",
+  "generated_at": "2026-10-14T23:30:03.582747-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -12,13 +12,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PANW",
-          "name": "Palo Alto Networks, Inc.",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
           "options_warning": false
         },
         {
@@ -27,13 +27,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
+          "symbol": "SNPS",
+          "name": "Synopsys, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "FTNT",
-          "name": "Fortinet, Inc.",
+          "symbol": "DDOG",
+          "name": "Datadog, Inc.",
           "options_warning": false
         }
       ]
@@ -44,32 +44,12 @@
       "tier": "absolute_relative",
       "return_pct": 7.683658170914565,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KLAC",
-          "name": "KLA Corporation",
           "options_warning": false
         }
       ]
@@ -80,19 +60,9 @@
       "tier": "absolute_relative",
       "return_pct": 7.32102364755427,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
-          "options_warning": false
-        },
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices, Inc.",
@@ -107,11 +77,6 @@
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
-          "options_warning": false
         }
       ]
     },
@@ -121,27 +86,12 @@
       "tier": "absolute_relative",
       "return_pct": 5.541155866900183,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
         {
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ANET",
-          "name": "Arista Networks, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]
@@ -166,18 +116,8 @@
           "options_warning": false
         },
         {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "PLTR",
           "name": "Palantir Technologies Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
           "options_warning": false
         }
       ]
@@ -188,7 +128,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.1087770131594805,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -218,13 +158,13 @@
           "options_warning": false
         },
         {
-          "symbol": "RBRK",
-          "name": "Rubrik, Inc.",
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "HNGE",
-          "name": "Hinge Health, Inc.",
+          "symbol": "RBRK",
+          "name": "Rubrik, Inc.",
           "options_warning": false
         },
         {
@@ -233,9 +173,9 @@
           "options_warning": false
         },
         {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
-          "options_warning": true
+          "symbol": "HNGE",
+          "name": "Hinge Health, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -252,21 +192,6 @@
           "symbol": "CSCO",
           "name": "Cisco Systems, Inc.",
           "options_warning": false
-        },
-        {
-          "symbol": "ANET",
-          "name": "Arista Networks, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CIEN",
-          "name": "Ciena Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
-          "options_warning": true
         }
       ]
     },

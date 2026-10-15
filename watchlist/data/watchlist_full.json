@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:20:23.553486-04:00",
+  "generated_at": "2026-10-14T23:30:03.582747-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -12,23 +12,23 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "PANW",
-          "name": "Palo Alto Networks, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "PLTR",
           "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
           "options_warning": false
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -42,23 +42,23 @@
           "options_warning": false
         },
         {
-          "symbol": "FTNT",
-          "name": "Fortinet, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "CRM",
           "name": "Salesforce, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CDNS",
-          "name": "Cadence Design Systems, Inc.",
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ADBE",
-          "name": "Adobe Inc.",
+          "symbol": "SNPS",
+          "name": "Synopsys, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "DDOG",
+          "name": "Datadog, Inc.",
           "options_warning": false
         }
       ]
@@ -69,7 +69,7 @@
       "tier": "absolute_relative",
       "return_pct": 7.683658170914565,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -93,23 +93,23 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "TXN",
           "name": "Texas Instruments Incorporated",
           "options_warning": false
         },
         {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "AMAT",
           "name": "Applied Materials, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
           "options_warning": false
         },
         {
@@ -130,7 +130,7 @@
       "tier": "absolute_relative",
       "return_pct": 7.32102364755427,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -179,8 +179,8 @@
           "options_warning": false
         },
         {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
+          "symbol": "LRCX",
+          "name": "Lam Research Corporation",
           "options_warning": false
         }
       ]
@@ -191,8 +191,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.541155866900183,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "META",
@@ -225,13 +225,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
+          "symbol": "CRM",
+          "name": "Salesforce, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CRM",
-          "name": "Salesforce, Inc.",
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         },
         {
@@ -266,13 +266,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
+          "symbol": "META",
+          "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "META",
-          "name": "Meta Platforms, Inc.",
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
@@ -281,13 +281,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TSLA",
-          "name": "Tesla, Inc.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "TSLA",
+          "name": "Tesla, Inc.",
           "options_warning": false
         },
         {
@@ -296,8 +296,8 @@
           "options_warning": false
         },
         {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         }
       ]
@@ -308,7 +308,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.1087770131594805,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -378,28 +378,13 @@
           "options_warning": false
         },
         {
-          "symbol": "RBRK",
-          "name": "Rubrik, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "HNGE",
-          "name": "Hinge Health, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "LPG",
-          "name": "Dorian LPG Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SCCO",
-          "name": "Southern Copper Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "ERO",
           "name": "Ero Copper Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
           "options_warning": false
         },
         {
@@ -408,8 +393,13 @@
           "options_warning": false
         },
         {
-          "symbol": "AUGO",
-          "name": "Aura Minerals Inc.",
+          "symbol": "RBRK",
+          "name": "Rubrik, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TER",
+          "name": "Teradyne, Inc.",
           "options_warning": false
         },
         {
@@ -418,9 +408,14 @@
           "options_warning": false
         },
         {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
-          "options_warning": true
+          "symbol": "HNGE",
+          "name": "Hinge Health, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -454,23 +449,18 @@
           "options_warning": false
         },
         {
-          "symbol": "CIEN",
-          "name": "Ciena Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "SPCX",
           "name": "Space Exploration Technologies Corp.",
           "options_warning": false
         },
         {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
-          "options_warning": true
+          "symbol": "CIEN",
+          "name": "Ciena Corporation",
+          "options_warning": false
         },
         {
-          "symbol": "TMUS",
-          "name": "T-Mobile US, Inc.",
+          "symbol": "LITE",
+          "name": "Lumentum Holdings Inc.",
           "options_warning": false
         },
         {
@@ -481,6 +471,11 @@
         {
           "symbol": "UI",
           "name": "Ubiquiti Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TMUS",
+          "name": "T-Mobile US, Inc.",
           "options_warning": false
         }
       ]
@@ -510,13 +505,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MCD",
-          "name": "McDonald's Corporation",
+          "symbol": "TJX",
+          "name": "The TJX Companies, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "TJX",
-          "name": "The TJX Companies, Inc.",
+          "symbol": "MCD",
+          "name": "McDonald's Corporation",
           "options_warning": false
         },
         {
@@ -540,8 +535,8 @@
           "options_warning": false
         },
         {
-          "symbol": "DASH",
-          "name": "DoorDash, Inc.",
+          "symbol": "HLT",
+          "name": "Hilton Worldwide Holdings Inc.",
           "options_warning": false
         }
       ]
@@ -596,13 +591,13 @@
           "options_warning": false
         },
         {
-          "symbol": "XYL",
-          "name": "Xylem Inc.",
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "AWK",
-          "name": "American Water Works Company, Inc.",
+          "symbol": "XYL",
+          "name": "Xylem Inc.",
           "options_warning": false
         }
       ]
