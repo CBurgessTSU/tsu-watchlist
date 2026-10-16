@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:30:03.582747-04:00",
+  "generated_at": "2026-10-15T20:49:20.056302-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -52,13 +52,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SNPS",
-          "name": "Synopsys, Inc.",
+          "symbol": "DDOG",
+          "name": "Datadog, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "DDOG",
-          "name": "Datadog, Inc.",
+          "symbol": "SNPS",
+          "name": "Synopsys, Inc.",
           "options_warning": false
         }
       ]
@@ -98,18 +98,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AMAT",
-          "name": "Applied Materials, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MRVL",
           "name": "Marvell Technology, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
@@ -120,6 +115,11 @@
         {
           "symbol": "ASML",
           "name": "ASML Holding N.V.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ADI",
+          "name": "Analog Devices, Inc.",
           "options_warning": false
         }
       ]
@@ -191,8 +191,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.541155866900183,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "META",
@@ -210,13 +210,13 @@
           "options_warning": false
         },
         {
-          "symbol": "GOOGL",
-          "name": "Alphabet Inc.",
+          "symbol": "NFLX",
+          "name": "Netflix, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "NFLX",
-          "name": "Netflix, Inc.",
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc.",
           "options_warning": false
         },
         {
@@ -230,13 +230,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SNOW",
-          "name": "Snowflake Inc.",
+          "symbol": "BKNG",
+          "name": "Booking Holdings Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BKNG",
-          "name": "Booking Holdings Inc.",
+          "symbol": "SNOW",
+          "name": "Snowflake Inc.",
           "options_warning": false
         }
       ]
@@ -261,23 +261,28 @@
           "options_warning": false
         },
         {
-          "symbol": "MSTR",
-          "name": "Strategy Inc",
-          "options_warning": false
-        },
-        {
           "symbol": "META",
           "name": "Meta Platforms, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
+          "symbol": "MSTR",
+          "name": "Strategy Inc",
           "options_warning": false
         },
         {
           "symbol": "PLTR",
           "name": "Palantir Technologies Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
@@ -288,11 +293,6 @@
         {
           "symbol": "TSLA",
           "name": "Tesla, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA Corporation",
           "options_warning": false
         },
         {
@@ -378,8 +378,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ERO",
-          "name": "Ero Copper Corp.",
+          "symbol": "HALO",
+          "name": "Halozyme Therapeutics, Inc.",
           "options_warning": false
         },
         {
@@ -388,8 +388,8 @@
           "options_warning": false
         },
         {
-          "symbol": "HALO",
-          "name": "Halozyme Therapeutics, Inc.",
+          "symbol": "ERO",
+          "name": "Ero Copper Corp.",
           "options_warning": false
         },
         {
@@ -398,8 +398,8 @@
           "options_warning": false
         },
         {
-          "symbol": "TER",
-          "name": "Teradyne, Inc.",
+          "symbol": "HNGE",
+          "name": "Hinge Health, Inc.",
           "options_warning": false
         },
         {
@@ -408,8 +408,8 @@
           "options_warning": false
         },
         {
-          "symbol": "HNGE",
-          "name": "Hinge Health, Inc.",
+          "symbol": "TER",
+          "name": "Teradyne, Inc.",
           "options_warning": false
         },
         {
@@ -454,8 +454,18 @@
           "options_warning": false
         },
         {
+          "symbol": "MSI",
+          "name": "Motorola Solutions, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "CIEN",
           "name": "Ciena Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "TMUS",
+          "name": "T-Mobile US, Inc.",
           "options_warning": false
         },
         {
@@ -464,18 +474,8 @@
           "options_warning": false
         },
         {
-          "symbol": "MSI",
-          "name": "Motorola Solutions, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UI",
-          "name": "Ubiquiti Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TMUS",
-          "name": "T-Mobile US, Inc.",
+          "symbol": "CMCSA",
+          "name": "Comcast Corporation",
           "options_warning": false
         }
       ]
@@ -520,13 +520,13 @@
           "options_warning": false
         },
         {
-          "symbol": "LOW",
-          "name": "Lowe's Companies, Inc.",
+          "symbol": "SBUX",
+          "name": "Starbucks Corporation",
           "options_warning": false
         },
         {
-          "symbol": "SBUX",
-          "name": "Starbucks Corporation",
+          "symbol": "LOW",
+          "name": "Lowe's Companies, Inc.",
           "options_warning": false
         },
         {
@@ -535,8 +535,8 @@
           "options_warning": false
         },
         {
-          "symbol": "HLT",
-          "name": "Hilton Worldwide Holdings Inc.",
+          "symbol": "ROST",
+          "name": "Ross Stores, Inc.",
           "options_warning": false
         }
       ]
@@ -581,13 +581,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TRMB",
-          "name": "Trimble Inc.",
+          "symbol": "VLTO",
+          "name": "Veralto Corporation",
           "options_warning": false
         },
         {
-          "symbol": "VLTO",
-          "name": "Veralto Corporation",
+          "symbol": "TRMB",
+          "name": "Trimble Inc.",
           "options_warning": false
         },
         {
