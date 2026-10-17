@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:49:20.056302-04:00",
+  "generated_at": "2026-10-16T20:42:04.194713-04:00",
   "sectors_frozen_at": "2026-10-10T02:12:06.647821-04:00",
   "core_sectors": [
     {
@@ -8,7 +8,7 @@
       "tier": "absolute_relative",
       "return_pct": 11.333992094861657,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -52,13 +52,13 @@
           "options_warning": false
         },
         {
-          "symbol": "DDOG",
-          "name": "Datadog, Inc.",
+          "symbol": "ADBE",
+          "name": "Adobe Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SNPS",
-          "name": "Synopsys, Inc.",
+          "symbol": "INTU",
+          "name": "Intuit Inc.",
           "options_warning": false
         }
       ]
@@ -98,11 +98,6 @@
           "options_warning": false
         },
         {
-          "symbol": "MRVL",
-          "name": "Marvell Technology, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MU",
           "name": "Micron Technology, Inc.",
           "options_warning": false
@@ -113,13 +108,18 @@
           "options_warning": false
         },
         {
-          "symbol": "ASML",
-          "name": "ASML Holding N.V.",
+          "symbol": "MRVL",
+          "name": "Marvell Technology, Inc.",
           "options_warning": false
         },
         {
           "symbol": "ADI",
           "name": "Analog Devices, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding N.V.",
           "options_warning": false
         }
       ]
@@ -191,8 +191,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.541155866900183,
       "spy_return_pct": 2.736761542826227,
-      "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_qualified": false,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "META",
@@ -220,13 +220,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ANET",
-          "name": "Arista Networks, Inc.",
+          "symbol": "CRM",
+          "name": "Salesforce, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "CRM",
-          "name": "Salesforce, Inc.",
+          "symbol": "ANET",
+          "name": "Arista Networks, Inc.",
           "options_warning": false
         },
         {
@@ -271,8 +271,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PLTR",
-          "name": "Palantir Technologies Inc.",
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
           "options_warning": false
         },
         {
@@ -281,18 +281,18 @@
           "options_warning": false
         },
         {
-          "symbol": "SMCI",
-          "name": "Super Micro Computer, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "AAPL",
-          "name": "Apple Inc.",
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
           "options_warning": false
         },
         {
           "symbol": "TSLA",
           "name": "Tesla, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
           "options_warning": false
         },
         {
@@ -327,13 +327,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MRK",
-          "name": "Merck & Co., Inc.",
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
           "options_warning": false
         },
         {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
+          "symbol": "MRK",
+          "name": "Merck & Co., Inc.",
           "options_warning": false
         },
         {
@@ -373,11 +373,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "ECO",
-          "name": "Okeanis Eco Tankers Corp.",
-          "options_warning": false
-        },
-        {
           "symbol": "HALO",
           "name": "Halozyme Therapeutics, Inc.",
           "options_warning": false
@@ -388,13 +383,18 @@
           "options_warning": false
         },
         {
-          "symbol": "ERO",
-          "name": "Ero Copper Corp.",
+          "symbol": "ECO",
+          "name": "Okeanis Eco Tankers Corp.",
           "options_warning": false
         },
         {
           "symbol": "RBRK",
           "name": "Rubrik, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ERO",
+          "name": "Ero Copper Corp.",
           "options_warning": false
         },
         {
@@ -408,13 +408,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TER",
-          "name": "Teradyne, Inc.",
+          "symbol": "MU",
+          "name": "Micron Technology, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MU",
-          "name": "Micron Technology, Inc.",
+          "symbol": "ZETA",
+          "name": "Zeta Global Holdings Corp.",
           "options_warning": false
         }
       ]
@@ -464,18 +464,18 @@
           "options_warning": false
         },
         {
+          "symbol": "CMCSA",
+          "name": "Comcast Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "TMUS",
           "name": "T-Mobile US, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "LITE",
-          "name": "Lumentum Holdings Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CMCSA",
-          "name": "Comcast Corporation",
+          "symbol": "UI",
+          "name": "Ubiquiti Inc.",
           "options_warning": false
         }
       ]
@@ -535,8 +535,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ROST",
-          "name": "Ross Stores, Inc.",
+          "symbol": "HLT",
+          "name": "Hilton Worldwide Holdings Inc.",
           "options_warning": false
         }
       ]
