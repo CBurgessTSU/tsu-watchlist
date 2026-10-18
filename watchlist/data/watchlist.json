@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:38:51.498969-04:00",
+  "generated_at": "2026-10-18T19:48:40.962110-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -38,13 +38,18 @@
           "options_warning": false
         },
         {
-          "symbol": "VSXY",
-          "name": "Victoria's Secret & Co.",
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
+          "symbol": "SIG",
+          "name": "Signet Jewelers Limited",
+          "options_warning": false
+        },
+        {
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
           "options_warning": false
         }
       ]
@@ -119,12 +124,12 @@
         {
           "symbol": "WAT",
           "name": "Waters Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "A",
           "name": "Agilent Technologies, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -176,16 +181,11 @@
         {
           "symbol": "RGA",
           "name": "Reinsurance Group of America, Incorporated",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AIG",
           "name": "American International Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MET",
-          "name": "MetLife, Inc.",
           "options_warning": false
         }
       ]
