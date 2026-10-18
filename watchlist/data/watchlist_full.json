@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:56:18.090280-04:00",
+  "generated_at": "2026-10-17T20:38:51.498969-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -291,6 +291,11 @@
           "options_warning": false
         },
         {
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "COP",
           "name": "ConocoPhillips",
           "options_warning": false
@@ -298,11 +303,6 @@
         {
           "symbol": "MUR",
           "name": "Murphy Oil Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
           "options_warning": false
         }
       ]
@@ -317,13 +317,13 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
+          "symbol": "FERG",
+          "name": "Ferguson Enterprises Inc.",
           "options_warning": false
         },
         {
-          "symbol": "FERG",
-          "name": "Ferguson Enterprises Inc.",
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
           "options_warning": false
         },
         {
