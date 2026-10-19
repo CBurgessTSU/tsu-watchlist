@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:48:40.962110-04:00",
+  "generated_at": "2026-10-19T19:38:33.992232-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -329,7 +329,7 @@
         {
           "symbol": "WAT",
           "name": "Waters Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "IDXX",
@@ -344,7 +344,7 @@
         {
           "symbol": "A",
           "name": "Agilent Technologies, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "VLTO",
@@ -568,7 +568,7 @@
         {
           "symbol": "RGA",
           "name": "Reinsurance Group of America, Incorporated",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "SKWD",
