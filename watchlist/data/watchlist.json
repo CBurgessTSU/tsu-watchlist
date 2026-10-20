@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:38:33.992232-04:00",
+  "generated_at": "2026-10-20T19:39:15.746792-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -12,8 +12,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
           "options_warning": false
         }
       ]
@@ -38,18 +38,13 @@
           "options_warning": false
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "SIG",
-          "name": "Signet Jewelers Limited",
-          "options_warning": false
-        },
-        {
           "symbol": "VSXY",
           "name": "Victoria's Secret & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         }
       ]
@@ -60,7 +55,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.95,
       "spy_return_pct": 0.09,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -83,18 +78,7 @@
       "spy_return_pct": 0.09,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PFE",
-          "name": "Pfizer Inc.",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XOP",
@@ -106,13 +90,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
+          "symbol": "APA",
+          "name": "APA Corporation",
           "options_warning": false
         },
         {
           "symbol": "MUR",
           "name": "Murphy Oil Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "EOG",
+          "name": "EOG Resources, Inc.",
           "options_warning": false
         }
       ]
@@ -127,14 +116,9 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "WAT",
-          "name": "Waters Corporation",
-          "options_warning": true
-        },
-        {
           "symbol": "A",
           "name": "Agilent Technologies, Inc.",
-          "options_warning": true
+          "options_warning": false
         }
       ]
     },
@@ -183,13 +167,18 @@
           "options_warning": true
         },
         {
+          "symbol": "SKWD",
+          "name": "Skyward Specialty Insurance Group, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "WRB",
           "name": "W. R. Berkley Corporation",
           "options_warning": false
         },
         {
-          "symbol": "AIG",
-          "name": "American International Group, Inc.",
+          "symbol": "WTM",
+          "name": "White Mountains Insurance Group, Ltd.",
           "options_warning": false
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:38:33.992232-04:00",
+  "generated_at": "2026-10-20T19:39:15.746792-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -32,13 +32,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         },
         {
-          "symbol": "PSX",
-          "name": "Phillips 66",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -93,8 +93,8 @@
           "options_warning": false
         },
         {
-          "symbol": "RVLV",
-          "name": "Revolve Group, Inc.",
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
           "options_warning": false
         },
         {
@@ -103,23 +103,23 @@
           "options_warning": false
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "EBAY",
           "name": "eBay Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SIG",
-          "name": "Signet Jewelers Limited",
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "VSXY",
-          "name": "Victoria's Secret & Co.",
+          "symbol": "BKE",
+          "name": "The Buckle, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RVLV",
+          "name": "Revolve Group, Inc.",
           "options_warning": false
         }
       ]
@@ -130,7 +130,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.95,
       "spy_return_pct": 0.09,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -174,13 +174,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TGT",
-          "name": "Target Corporation",
+          "symbol": "PEP",
+          "name": "PepsiCo, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PEP",
-          "name": "PepsiCo, Inc.",
+          "symbol": "TGT",
+          "name": "Target Corporation",
           "options_warning": false
         }
       ]
@@ -276,18 +276,8 @@
           "options_warning": false
         },
         {
-          "symbol": "PBF",
-          "name": "PBF Energy Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "APA",
           "name": "APA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
           "options_warning": false
         },
         {
@@ -301,8 +291,18 @@
           "options_warning": false
         },
         {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
           "options_warning": false
         }
       ]
@@ -329,7 +329,7 @@
         {
           "symbol": "WAT",
           "name": "Waters Corporation",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "IDXX",
@@ -344,7 +344,7 @@
         {
           "symbol": "A",
           "name": "Agilent Technologies, Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "VLTO",
@@ -525,13 +525,13 @@
           "options_warning": false
         },
         {
-          "symbol": "APD",
-          "name": "Air Products and Chemicals, Inc.",
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "STLD",
-          "name": "Steel Dynamics, Inc.",
+          "symbol": "APD",
+          "name": "Air Products and Chemicals, Inc.",
           "options_warning": false
         },
         {
@@ -561,6 +561,11 @@
           "options_warning": false
         },
         {
+          "symbol": "KMPR",
+          "name": "Kemper Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "RNR",
           "name": "RenaissanceRe Holdings Ltd.",
           "options_warning": false
@@ -573,26 +578,11 @@
         {
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "WRB",
-          "name": "W. R. Berkley Corporation",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "AIG",
           "name": "American International Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KMPR",
-          "name": "Kemper Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "CB",
-          "name": "Chubb Limited",
           "options_warning": false
         },
         {
@@ -601,8 +591,18 @@
           "options_warning": false
         },
         {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
+          "symbol": "EG",
+          "name": "Everest Group, Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WRB",
+          "name": "W. R. Berkley Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "WTM",
+          "name": "White Mountains Insurance Group, Ltd.",
           "options_warning": false
         }
       ]
