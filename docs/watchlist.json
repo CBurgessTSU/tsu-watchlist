@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:39:15.746792-04:00",
+  "generated_at": "2026-10-21T19:37:56.054072-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -8,12 +8,22 @@
       "tier": "absolute_relative",
       "return_pct": 5.83,
       "spy_return_pct": 0.09,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "options_warning": false
+        },
+        {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KMI",
+          "name": "Kinder Morgan, Inc.",
           "options_warning": false
         }
       ]
@@ -24,8 +34,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.07,
       "spy_return_pct": 0.09,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "GME",
@@ -38,13 +48,18 @@
           "options_warning": false
         },
         {
+          "symbol": "ASO",
+          "name": "Academy Sports and Outdoors, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "VSXY",
           "name": "Victoria's Secret & Co.",
           "options_warning": false
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
           "options_warning": false
         }
       ]
@@ -67,6 +82,11 @@
           "symbol": "COST",
           "name": "Costco Wholesale Corporation",
           "options_warning": false
+        },
+        {
+          "symbol": "PM",
+          "name": "Philip Morris International Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -78,7 +98,18 @@
       "spy_return_pct": 0.09,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "TMO",
+          "name": "Thermo Fisher Scientific Inc.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XOP",
@@ -89,16 +120,6 @@
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
-        {
-          "symbol": "APA",
-          "name": "APA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "MUR",
-          "name": "Murphy Oil Corporation",
-          "options_warning": false
-        },
         {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
@@ -112,8 +133,8 @@
       "tier": "absolute_relative",
       "return_pct": 2.35,
       "spy_return_pct": 0.09,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "A",
@@ -162,23 +183,28 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "RGA",
-          "name": "Reinsurance Group of America, Incorporated",
-          "options_warning": true
-        },
-        {
           "symbol": "SKWD",
           "name": "Skyward Specialty Insurance Group, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "WRB",
-          "name": "W. R. Berkley Corporation",
-          "options_warning": false
+          "symbol": "RGA",
+          "name": "Reinsurance Group of America, Incorporated",
+          "options_warning": true
+        },
+        {
+          "symbol": "MRSH",
+          "name": "Marsh & McLennan Companies, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "WTM",
           "name": "White Mountains Insurance Group, Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TRV",
+          "name": "The Travelers Companies, Inc.",
           "options_warning": false
         }
       ]
