@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:37:56.054072-04:00",
+  "generated_at": "2026-10-22T19:29:53.326963-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -12,13 +12,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "COP",
-          "name": "ConocoPhillips",
-          "options_warning": false
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
@@ -35,7 +30,7 @@
       "return_pct": 5.07,
       "spy_return_pct": 0.09,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "GME",
@@ -53,13 +48,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VSXY",
-          "name": "Victoria's Secret & Co.",
-          "options_warning": false
+          "symbol": "GO",
+          "name": "Grocery Outlet Holding Corp.",
+          "options_warning": true
         },
         {
-          "symbol": "BBWI",
-          "name": "Bath & Body Works, Inc.",
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         }
       ]
@@ -81,6 +76,11 @@
         {
           "symbol": "COST",
           "name": "Costco Wholesale Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PG",
+          "name": "The Procter & Gamble Company",
           "options_warning": false
         },
         {
@@ -107,7 +107,7 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": false
+          "options_warning": true
         }
       ]
     },
@@ -121,8 +121,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "EOG",
-          "name": "EOG Resources, Inc.",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         }
       ]
@@ -183,19 +183,9 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "SKWD",
-          "name": "Skyward Specialty Insurance Group, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "RGA",
-          "name": "Reinsurance Group of America, Incorporated",
-          "options_warning": true
-        },
-        {
-          "symbol": "MRSH",
-          "name": "Marsh & McLennan Companies, Inc.",
-          "options_warning": true
+          "symbol": "TRV",
+          "name": "The Travelers Companies, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "WTM",
@@ -203,9 +193,9 @@
           "options_warning": false
         },
         {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
-          "options_warning": false
+          "symbol": "MRSH",
+          "name": "Marsh & McLennan Companies, Inc.",
+          "options_warning": true
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:37:56.054072-04:00",
+  "generated_at": "2026-10-22T19:29:53.326963-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -32,13 +32,13 @@
           "options_warning": false
         },
         {
-          "symbol": "PSX",
-          "name": "Phillips 66",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         },
         {
@@ -70,7 +70,7 @@
       "return_pct": 5.07,
       "spy_return_pct": 0.09,
       "etf_qualified": true,
-      "etf_options_warning": true,
+      "etf_options_warning": false,
       "stocks": [
         {
           "symbol": "GME",
@@ -93,23 +93,8 @@
           "options_warning": false
         },
         {
-          "symbol": "RVLV",
-          "name": "Revolve Group, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "EBAY",
           "name": "eBay Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASO",
-          "name": "Academy Sports and Outdoors, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TJX",
-          "name": "The TJX Companies, Inc.",
           "options_warning": false
         },
         {
@@ -118,8 +103,23 @@
           "options_warning": false
         },
         {
-          "symbol": "BBWI",
-          "name": "Bath & Body Works, Inc.",
+          "symbol": "ASO",
+          "name": "Academy Sports and Outdoors, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GO",
+          "name": "Grocery Outlet Holding Corp.",
+          "options_warning": true
+        },
+        {
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TJX",
+          "name": "The TJX Companies, Inc.",
           "options_warning": false
         }
       ]
@@ -222,7 +222,7 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "AMGN",
@@ -418,13 +418,13 @@
           "options_warning": false
         },
         {
-          "symbol": "XEL",
-          "name": "Xcel Energy Inc.",
+          "symbol": "VST",
+          "name": "Vistra Corp.",
           "options_warning": false
         },
         {
-          "symbol": "VST",
-          "name": "Vistra Corp.",
+          "symbol": "XEL",
+          "name": "Xcel Energy Inc.",
           "options_warning": false
         }
       ]
@@ -454,13 +454,13 @@
           "options_warning": false
         },
         {
-          "symbol": "TJX",
-          "name": "The TJX Companies, Inc.",
+          "symbol": "MCD",
+          "name": "McDonald's Corporation",
           "options_warning": false
         },
         {
-          "symbol": "MCD",
-          "name": "McDonald's Corporation",
+          "symbol": "TJX",
+          "name": "The TJX Companies, Inc.",
           "options_warning": false
         },
         {
@@ -510,23 +510,18 @@
           "options_warning": false
         },
         {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "VMC",
           "name": "Vulcan Materials Company",
           "options_warning": false
         },
         {
-          "symbol": "SHW",
-          "name": "The Sherwin-Williams Company",
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
           "options_warning": false
         },
         {
-          "symbol": "APD",
-          "name": "Air Products and Chemicals, Inc.",
+          "symbol": "SHW",
+          "name": "The Sherwin-Williams Company",
           "options_warning": false
         },
         {
@@ -537,6 +532,11 @@
         {
           "symbol": "NUE",
           "name": "Nucor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "APD",
+          "name": "Air Products and Chemicals, Inc.",
           "options_warning": false
         },
         {
@@ -566,13 +566,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SKWD",
-          "name": "Skyward Specialty Insurance Group, Inc.",
-          "options_warning": true
+          "symbol": "RGA",
+          "name": "Reinsurance Group of America, Incorporated",
+          "options_warning": false
         },
         {
-          "symbol": "KMPR",
-          "name": "Kemper Corporation",
+          "symbol": "SKWD",
+          "name": "Skyward Specialty Insurance Group, Inc.",
           "options_warning": false
         },
         {
@@ -581,13 +581,13 @@
           "options_warning": false
         },
         {
-          "symbol": "RGA",
-          "name": "Reinsurance Group of America, Incorporated",
-          "options_warning": true
+          "symbol": "TRV",
+          "name": "The Travelers Companies, Inc.",
+          "options_warning": false
         },
         {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
+          "symbol": "WTM",
+          "name": "White Mountains Insurance Group, Ltd.",
           "options_warning": false
         },
         {
@@ -596,13 +596,13 @@
           "options_warning": true
         },
         {
-          "symbol": "WTM",
-          "name": "White Mountains Insurance Group, Ltd.",
+          "symbol": "EG",
+          "name": "Everest Group, Ltd.",
           "options_warning": false
         },
         {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
           "options_warning": false
         }
       ]
