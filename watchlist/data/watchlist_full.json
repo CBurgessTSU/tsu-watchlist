@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:29:53.326963-04:00",
+  "generated_at": "2026-10-23T19:26:20.176181-04:00",
   "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
   "core_sectors": [
     {
@@ -73,8 +73,8 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
+          "symbol": "KSS",
+          "name": "Kohl's Corporation",
           "options_warning": false
         },
         {
@@ -83,8 +83,8 @@
           "options_warning": false
         },
         {
-          "symbol": "KSS",
-          "name": "Kohl's Corporation",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
           "options_warning": false
         },
         {
@@ -93,13 +93,13 @@
           "options_warning": false
         },
         {
-          "symbol": "EBAY",
-          "name": "eBay Inc.",
-          "options_warning": false
+          "symbol": "GO",
+          "name": "Grocery Outlet Holding Corp.",
+          "options_warning": true
         },
         {
-          "symbol": "VSXY",
-          "name": "Victoria's Secret & Co.",
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
           "options_warning": false
         },
         {
@@ -108,18 +108,18 @@
           "options_warning": false
         },
         {
-          "symbol": "GO",
-          "name": "Grocery Outlet Holding Corp.",
-          "options_warning": true
-        },
-        {
           "symbol": "BJ",
           "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "TJX",
-          "name": "The TJX Companies, Inc.",
+          "symbol": "KR",
+          "name": "The Kroger Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EBAY",
+          "name": "eBay Inc.",
           "options_warning": false
         }
       ]
@@ -252,7 +252,7 @@
       "tier": "absolute_relative",
       "return_pct": 4.07,
       "spy_return_pct": 0.09,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -266,13 +266,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MUR",
-          "name": "Murphy Oil Corporation",
+          "symbol": "APA",
+          "name": "APA Corporation",
           "options_warning": false
         },
         {
-          "symbol": "PSX",
-          "name": "Phillips 66",
+          "symbol": "MUR",
+          "name": "Murphy Oil Corporation",
           "options_warning": false
         },
         {
@@ -281,18 +281,8 @@
           "options_warning": false
         },
         {
-          "symbol": "APA",
-          "name": "APA Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "OVV",
-          "name": "Ovintiv Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PBF",
-          "name": "PBF Energy Inc.",
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         },
         {
@@ -301,8 +291,18 @@
           "options_warning": false
         },
         {
+          "symbol": "OVV",
+          "name": "Ovintiv Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
           "options_warning": false
         }
       ]
@@ -339,7 +339,7 @@
         {
           "symbol": "ROP",
           "name": "Roper Technologies, Inc.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "A",
@@ -418,13 +418,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VST",
-          "name": "Vistra Corp.",
+          "symbol": "XEL",
+          "name": "Xcel Energy Inc.",
           "options_warning": false
         },
         {
-          "symbol": "XEL",
-          "name": "Xcel Energy Inc.",
+          "symbol": "EXC",
+          "name": "Exelon Corporation",
           "options_warning": false
         }
       ]
@@ -510,6 +510,11 @@
           "options_warning": false
         },
         {
+          "symbol": "SHW",
+          "name": "The Sherwin-Williams Company",
+          "options_warning": false
+        },
+        {
           "symbol": "VMC",
           "name": "Vulcan Materials Company",
           "options_warning": false
@@ -520,13 +525,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SHW",
-          "name": "The Sherwin-Williams Company",
+          "symbol": "APD",
+          "name": "Air Products and Chemicals, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "STLD",
-          "name": "Steel Dynamics, Inc.",
+          "symbol": "MLM",
+          "name": "Martin Marietta Materials, Inc.",
           "options_warning": false
         },
         {
@@ -535,13 +540,8 @@
           "options_warning": false
         },
         {
-          "symbol": "APD",
-          "name": "Air Products and Chemicals, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MLM",
-          "name": "Martin Marietta Materials, Inc.",
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
           "options_warning": false
         }
       ]
@@ -561,8 +561,23 @@
           "options_warning": false
         },
         {
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRSH",
+          "name": "Marsh & McLennan Companies, Inc.",
+          "options_warning": true
+        },
+        {
           "symbol": "RNR",
           "name": "RenaissanceRe Holdings Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BRO",
+          "name": "Brown & Brown, Inc.",
           "options_warning": false
         },
         {
@@ -571,8 +586,13 @@
           "options_warning": false
         },
         {
-          "symbol": "SKWD",
-          "name": "Skyward Specialty Insurance Group, Inc.",
+          "symbol": "AJG",
+          "name": "Arthur J. Gallagher & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EG",
+          "name": "Everest Group, Ltd.",
           "options_warning": false
         },
         {
@@ -583,26 +603,6 @@
         {
           "symbol": "TRV",
           "name": "The Travelers Companies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "WTM",
-          "name": "White Mountains Insurance Group, Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MRSH",
-          "name": "Marsh & McLennan Companies, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "EG",
-          "name": "Everest Group, Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
           "options_warning": false
         }
       ]
