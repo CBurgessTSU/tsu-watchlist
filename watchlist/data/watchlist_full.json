@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T19:26:20.176181-04:00",
-  "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
+  "generated_at": "2026-10-24T02:14:00.153986-04:00",
+  "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
   "core_sectors": [
     {
       "etf": "XLE",
       "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.83,
-      "spy_return_pct": 0.09,
+      "return_pct": 10.751,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -64,194 +64,11 @@
       ]
     },
     {
-      "etf": "XRT",
-      "etf_name": "State Street SPDR S&P Retail ETF",
-      "tier": "absolute_relative",
-      "return_pct": 5.07,
-      "spy_return_pct": 0.09,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "KSS",
-          "name": "Kohl's Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "OLLI",
-          "name": "Ollie's Bargain Outlet Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ETSY",
-          "name": "Etsy, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GO",
-          "name": "Grocery Outlet Holding Corp.",
-          "options_warning": true
-        },
-        {
-          "symbol": "BBWI",
-          "name": "Bath & Body Works, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASO",
-          "name": "Academy Sports and Outdoors, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KR",
-          "name": "The Kroger Co.",
-          "options_warning": false
-        },
-        {
-          "symbol": "EBAY",
-          "name": "eBay Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLP",
-      "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.95,
-      "spy_return_pct": 0.09,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "WMT",
-          "name": "Walmart Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "COST",
-          "name": "Costco Wholesale Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PG",
-          "name": "The Procter & Gamble Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "KO",
-          "name": "The Coca-Cola Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "PM",
-          "name": "Philip Morris International Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "MO",
-          "name": "Altria Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CL",
-          "name": "Colgate-Palmolive Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "MDLZ",
-          "name": "Mondelez International, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "PEP",
-          "name": "PepsiCo, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TGT",
-          "name": "Target Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLV",
-      "etf_name": "State Street Health Care Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.68,
-      "spy_return_pct": 0.09,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "Eli Lilly and Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "JNJ",
-          "name": "Johnson & Johnson",
-          "options_warning": false
-        },
-        {
-          "symbol": "ABBV",
-          "name": "AbbVie Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
-          "options_warning": false
-        },
-        {
-          "symbol": "MRK",
-          "name": "Merck & Co., Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TMO",
-          "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "AMGN",
-          "name": "Amgen Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GILD",
-          "name": "Gilead Sciences, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ABT",
-          "name": "Abbott Laboratories",
-          "options_warning": false
-        },
-        {
-          "symbol": "PFE",
-          "name": "Pfizer Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "XOP",
       "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
       "tier": "absolute_relative",
-      "return_pct": 4.07,
-      "spy_return_pct": 0.09,
+      "return_pct": 9.584,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -308,72 +125,11 @@
       ]
     },
     {
-      "etf": "PHO",
-      "etf_name": "Invesco Water Resources ETF",
-      "tier": "absolute_relative",
-      "return_pct": 2.35,
-      "spy_return_pct": 0.09,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "FERG",
-          "name": "Ferguson Enterprises Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "WAT",
-          "name": "Waters Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "IDXX",
-          "name": "IDEXX Laboratories, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ROP",
-          "name": "Roper Technologies, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "A",
-          "name": "Agilent Technologies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TRMB",
-          "name": "Trimble Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLTO",
-          "name": "Veralto Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AWK",
-          "name": "American Water Works Company, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "XYL",
-          "name": "Xylem Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "XLU",
       "etf_name": "State Street Utilities Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 1.25,
-      "spy_return_pct": 0.09,
+      "return_pct": 8.13,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
@@ -430,118 +186,245 @@
       ]
     },
     {
-      "etf": "XLY",
-      "etf_name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+      "etf": "XLP",
+      "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 0.96,
-      "spy_return_pct": 0.09,
-      "etf_qualified": false,
+      "return_pct": 8.029,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "AMZN",
-          "name": "Amazon.com, Inc.",
+          "symbol": "WMT",
+          "name": "Walmart Inc.",
           "options_warning": false
         },
         {
-          "symbol": "TSLA",
-          "name": "Tesla, Inc.",
+          "symbol": "COST",
+          "name": "Costco Wholesale Corporation",
           "options_warning": false
         },
         {
-          "symbol": "HD",
-          "name": "The Home Depot, Inc.",
+          "symbol": "PG",
+          "name": "The Procter & Gamble Company",
           "options_warning": false
         },
         {
-          "symbol": "MCD",
-          "name": "McDonald's Corporation",
+          "symbol": "KO",
+          "name": "The Coca-Cola Company",
           "options_warning": false
         },
         {
-          "symbol": "TJX",
-          "name": "The TJX Companies, Inc.",
+          "symbol": "PM",
+          "name": "Philip Morris International Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BKNG",
-          "name": "Booking Holdings Inc.",
+          "symbol": "MO",
+          "name": "Altria Group, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SBUX",
-          "name": "Starbucks Corporation",
+          "symbol": "CL",
+          "name": "Colgate-Palmolive Company",
           "options_warning": false
         },
         {
-          "symbol": "LOW",
-          "name": "Lowe's Companies, Inc.",
+          "symbol": "MDLZ",
+          "name": "Mondelez International, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MAR",
-          "name": "Marriott International, Inc.",
+          "symbol": "PEP",
+          "name": "PepsiCo, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "HLT",
-          "name": "Hilton Worldwide Holdings Inc.",
+          "symbol": "TGT",
+          "name": "Target Corporation",
           "options_warning": false
         }
       ]
     },
     {
-      "etf": "XLB",
-      "etf_name": "State Street Materials Select Sector SPDR ETF",
+      "etf": "XRT",
+      "etf_name": "State Street SPDR S&P Retail ETF",
       "tier": "absolute_relative",
-      "return_pct": 0.41,
-      "spy_return_pct": 0.09,
-      "etf_qualified": false,
+      "return_pct": 6.76,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "NEM",
-          "name": "Newmont Corporation",
+          "symbol": "KSS",
+          "name": "Kohl's Corporation",
           "options_warning": false
         },
         {
-          "symbol": "FCX",
-          "name": "Freeport-McMoRan Inc.",
+          "symbol": "OLLI",
+          "name": "Ollie's Bargain Outlet Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SHW",
-          "name": "The Sherwin-Williams Company",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
           "options_warning": false
         },
         {
-          "symbol": "VMC",
-          "name": "Vulcan Materials Company",
+          "symbol": "ETSY",
+          "name": "Etsy, Inc.",
           "options_warning": false
         },
+        {
+          "symbol": "GO",
+          "name": "Grocery Outlet Holding Corp.",
+          "options_warning": true
+        },
+        {
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASO",
+          "name": "Academy Sports and Outdoors, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KR",
+          "name": "The Kroger Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EBAY",
+          "name": "eBay Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "PHO",
+      "etf_name": "Invesco Water Resources ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.773,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
         {
           "symbol": "ECL",
           "name": "Ecolab Inc.",
           "options_warning": false
         },
         {
-          "symbol": "APD",
-          "name": "Air Products and Chemicals, Inc.",
+          "symbol": "FERG",
+          "name": "Ferguson Enterprises Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MLM",
-          "name": "Martin Marietta Materials, Inc.",
+          "symbol": "WAT",
+          "name": "Waters Corporation",
           "options_warning": false
         },
         {
-          "symbol": "NUE",
-          "name": "Nucor Corporation",
+          "symbol": "IDXX",
+          "name": "IDEXX Laboratories, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "STLD",
-          "name": "Steel Dynamics, Inc.",
+          "symbol": "ROP",
+          "name": "Roper Technologies, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "A",
+          "name": "Agilent Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TRMB",
+          "name": "Trimble Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLTO",
+          "name": "Veralto Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "XYL",
+          "name": "Xylem Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLV",
+      "etf_name": "State Street Health Care Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 5.54,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson",
+          "options_warning": false
+        },
+        {
+          "symbol": "ABBV",
+          "name": "AbbVie Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRK",
+          "name": "Merck & Co., Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "TMO",
+          "name": "Thermo Fisher Scientific Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ABT",
+          "name": "Abbott Laboratories",
+          "options_warning": false
+        },
+        {
+          "symbol": "PFE",
+          "name": "Pfizer Inc.",
           "options_warning": false
         }
       ]
@@ -550,8 +433,8 @@
       "etf": "KIE",
       "etf_name": "State Street SPDR S&P Insurance ETF",
       "tier": "absolute_relative",
-      "return_pct": 0.27,
-      "spy_return_pct": 0.09,
+      "return_pct": 5.463,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
@@ -606,7 +489,247 @@
           "options_warning": false
         }
       ]
+    },
+    {
+      "etf": "XLB",
+      "etf_name": "State Street Materials Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.281,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "NEM",
+          "name": "Newmont Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SHW",
+          "name": "The Sherwin-Williams Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "VMC",
+          "name": "Vulcan Materials Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "APD",
+          "name": "Air Products and Chemicals, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MLM",
+          "name": "Martin Marietta Materials, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.21,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ORCL",
+          "name": "Oracle Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "NOW",
+          "name": "ServiceNow, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CRM",
+          "name": "Salesforce, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ADBE",
+          "name": "Adobe Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "INTU",
+          "name": "Intuit Inc.",
+          "options_warning": false
+        }
+      ]
     }
   ],
-  "honorable_mentions": []
+  "honorable_mentions": [
+    {
+      "etf": "XLRE",
+      "etf_name": "State Street Real Estate Select Sector SPDR ETF",
+      "tier": "honorary",
+      "return_pct": 2.209,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "WELL",
+          "name": "Welltower Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "PLD",
+          "name": "Prologis, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EQIX",
+          "name": "Equinix, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMT",
+          "name": "American Tower Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSA",
+          "name": "Public Storage",
+          "options_warning": false
+        },
+        {
+          "symbol": "SPG",
+          "name": "Simon Property Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VMRK",
+          "name": "Vivmark Residential",
+          "options_warning": false
+        },
+        {
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "O",
+          "name": "Realty Income Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "NYSE:CBRE",
+          "name": "CBRE Group, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IBB",
+      "etf_name": "iShares Biotechnology ETF",
+      "tier": "honorary",
+      "return_pct": -0.722,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VRTX",
+          "name": "Vertex Pharmaceuticals Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "REGN",
+          "name": "Regeneron Pharmaceuticals, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NTRA",
+          "name": "Natera, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ARGX",
+          "name": "argenx SE",
+          "options_warning": false
+        },
+        {
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RVMD",
+          "name": "Revolution Medicines, Inc.",
+          "options_warning": false
+        }
+      ]
+    }
+  ]
 }

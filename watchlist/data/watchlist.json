@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T19:26:20.176181-04:00",
-  "sectors_frozen_at": "2026-10-17T01:15:17.629802-04:00",
+  "generated_at": "2026-10-24T02:14:00.153986-04:00",
+  "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
   "core_sectors": [
     {
       "etf": "XLE",
       "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.83,
-      "spy_return_pct": 0.09,
+      "return_pct": 10.751,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -24,11 +24,68 @@
       ]
     },
     {
+      "etf": "XOP",
+      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+      "tier": "absolute_relative",
+      "return_pct": 9.584,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLU",
+      "etf_name": "State Street Utilities Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.13,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
+    },
+    {
+      "etf": "XLP",
+      "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.029,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "WMT",
+          "name": "Walmart Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "COST",
+          "name": "Costco Wholesale Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PG",
+          "name": "The Procter & Gamble Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "PM",
+          "name": "Philip Morris International Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
       "etf": "XRT",
       "etf_name": "State Street SPDR S&P Retail ETF",
       "tier": "absolute_relative",
-      "return_pct": 5.07,
-      "spy_return_pct": 0.09,
+      "return_pct": 6.76,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -70,79 +127,11 @@
       ]
     },
     {
-      "etf": "XLP",
-      "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.95,
-      "spy_return_pct": 0.09,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "WMT",
-          "name": "Walmart Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "COST",
-          "name": "Costco Wholesale Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "PG",
-          "name": "The Procter & Gamble Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "PM",
-          "name": "Philip Morris International Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLV",
-      "etf_name": "State Street Health Care Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.68,
-      "spy_return_pct": 0.09,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
-          "options_warning": false
-        },
-        {
-          "symbol": "TMO",
-          "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "XOP",
-      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
-      "tier": "absolute_relative",
-      "return_pct": 4.07,
-      "spy_return_pct": 0.09,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "PHO",
       "etf_name": "Invesco Water Resources ETF",
       "tier": "absolute_relative",
-      "return_pct": 2.35,
-      "spy_return_pct": 0.09,
+      "return_pct": 5.773,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": true,
       "etf_options_warning": true,
       "stocks": [
@@ -159,38 +148,23 @@
       ]
     },
     {
-      "etf": "XLU",
-      "etf_name": "State Street Utilities Select Sector SPDR ETF",
+      "etf": "XLV",
+      "etf_name": "State Street Health Care Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 1.25,
-      "spy_return_pct": 0.09,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
-      "etf": "XLY",
-      "etf_name": "State Street Consumer Discretionary Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 0.96,
-      "spy_return_pct": 0.09,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
-    },
-    {
-      "etf": "XLB",
-      "etf_name": "State Street Materials Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 0.41,
-      "spy_return_pct": 0.09,
-      "etf_qualified": false,
+      "return_pct": 5.54,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "STLD",
-          "name": "Steel Dynamics, Inc.",
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
           "options_warning": false
+        },
+        {
+          "symbol": "TMO",
+          "name": "Thermo Fisher Scientific Inc.",
+          "options_warning": true
         }
       ]
     },
@@ -198,8 +172,8 @@
       "etf": "KIE",
       "etf_name": "State Street SPDR S&P Insurance ETF",
       "tier": "absolute_relative",
-      "return_pct": 0.27,
-      "spy_return_pct": 0.09,
+      "return_pct": 5.463,
+      "spy_return_pct": -0.9398055215203649,
       "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
@@ -214,7 +188,54 @@
           "options_warning": false
         }
       ]
+    },
+    {
+      "etf": "XLB",
+      "etf_name": "State Street Materials Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.281,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "IGV",
+      "etf_name": "iShares Expanded Tech-Software Sector ETF",
+      "tier": "absolute_relative",
+      "return_pct": 3.21,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": []
     }
   ],
-  "honorable_mentions": []
+  "honorable_mentions": [
+    {
+      "etf": "XLRE",
+      "etf_name": "State Street Real Estate Select Sector SPDR ETF",
+      "tier": "honorary",
+      "return_pct": 2.209,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
+    },
+    {
+      "etf": "IBB",
+      "etf_name": "iShares Biotechnology ETF",
+      "tier": "honorary",
+      "return_pct": -0.722,
+      "spy_return_pct": -0.9398055215203649,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": []
+    }
+  ]
 }
