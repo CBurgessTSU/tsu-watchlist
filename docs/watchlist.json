@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:33:03.457367-04:00",
+  "generated_at": "2026-10-25T19:36:52.830481-04:00",
   "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
   "core_sectors": [
     {
@@ -31,13 +31,7 @@
       "spy_return_pct": -0.9398055215203649,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        }
-      ]
+      "stocks": []
     },
     {
       "etf": "XLU",
@@ -100,9 +94,14 @@
           "options_warning": false
         },
         {
-          "symbol": "GO",
-          "name": "Grocery Outlet Holding Corp.",
-          "options_warning": true
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KR",
+          "name": "The Kroger Co.",
+          "options_warning": false
         },
         {
           "symbol": "BBWI",
@@ -112,16 +111,6 @@
         {
           "symbol": "ASO",
           "name": "Academy Sports and Outdoors, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KR",
-          "name": "The Kroger Co.",
           "options_warning": false
         }
       ]
@@ -185,6 +174,11 @@
         {
           "symbol": "TRV",
           "name": "The Travelers Companies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WTM",
+          "name": "White Mountains Insurance Group, Ltd.",
           "options_warning": false
         }
       ]

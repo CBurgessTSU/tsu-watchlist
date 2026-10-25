@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:33:03.457367-04:00",
+  "generated_at": "2026-10-25T19:36:52.830481-04:00",
   "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
   "core_sectors": [
     {
@@ -32,23 +32,23 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "PSX",
           "name": "Phillips 66",
           "options_warning": false
         },
         {
-          "symbol": "WMB",
-          "name": "The Williams Companies, Inc.",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WMB",
+          "name": "The Williams Companies, Inc.",
           "options_warning": false
         },
         {
@@ -73,16 +73,6 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "DINO",
-          "name": "HF Sinclair Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "APA",
           "name": "APA Corporation",
           "options_warning": false
@@ -93,23 +83,23 @@
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
           "options_warning": false
         },
         {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "options_warning": false
-        },
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
+          "symbol": "DINO",
+          "name": "HF Sinclair Corporation",
           "options_warning": false
         },
         {
           "symbol": "OVV",
           "name": "Ovintiv Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
           "options_warning": false
         },
         {
@@ -120,6 +110,16 @@
         {
           "symbol": "COP",
           "name": "ConocoPhillips",
+          "options_warning": false
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "RRC",
+          "name": "Range Resources Corporation",
           "options_warning": false
         }
       ]
@@ -261,11 +261,6 @@
           "options_warning": false
         },
         {
-          "symbol": "OLLI",
-          "name": "Ollie's Bargain Outlet Holdings, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "GME",
           "name": "GameStop Corp.",
           "options_warning": false
@@ -276,18 +271,18 @@
           "options_warning": false
         },
         {
-          "symbol": "GO",
-          "name": "Grocery Outlet Holding Corp.",
-          "options_warning": true
-        },
-        {
-          "symbol": "BBWI",
-          "name": "Bath & Body Works, Inc.",
+          "symbol": "OLLI",
+          "name": "Ollie's Bargain Outlet Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "ASO",
-          "name": "Academy Sports and Outdoors, Inc.",
+          "symbol": "CART",
+          "name": "Maplebear Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
           "options_warning": false
         },
         {
@@ -301,8 +296,13 @@
           "options_warning": false
         },
         {
-          "symbol": "EBAY",
-          "name": "eBay Inc.",
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ASO",
+          "name": "Academy Sports and Outdoors, Inc.",
           "options_warning": false
         }
       ]
@@ -444,18 +444,18 @@
           "options_warning": false
         },
         {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MRSH",
           "name": "Marsh & McLennan Companies, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "RNR",
-          "name": "RenaissanceRe Holdings Ltd.",
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "AJG",
+          "name": "Arthur J. Gallagher & Co.",
           "options_warning": false
         },
         {
@@ -464,13 +464,18 @@
           "options_warning": false
         },
         {
-          "symbol": "RGA",
-          "name": "Reinsurance Group of America, Incorporated",
+          "symbol": "RNR",
+          "name": "RenaissanceRe Holdings Ltd.",
           "options_warning": false
         },
         {
-          "symbol": "AJG",
-          "name": "Arthur J. Gallagher & Co.",
+          "symbol": "TRV",
+          "name": "The Travelers Companies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "WTM",
+          "name": "White Mountains Insurance Group, Ltd.",
           "options_warning": false
         },
         {
@@ -481,11 +486,6 @@
         {
           "symbol": "AIG",
           "name": "American International Group, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
           "options_warning": false
         }
       ]
@@ -510,6 +510,11 @@
           "options_warning": false
         },
         {
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "SHW",
           "name": "The Sherwin-Williams Company",
           "options_warning": false
@@ -520,18 +525,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "APD",
           "name": "Air Products and Chemicals, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MLM",
-          "name": "Martin Marietta Materials, Inc.",
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
           "options_warning": false
         },
         {
@@ -540,8 +540,8 @@
           "options_warning": false
         },
         {
-          "symbol": "STLD",
-          "name": "Steel Dynamics, Inc.",
+          "symbol": "MLM",
+          "name": "Martin Marietta Materials, Inc.",
           "options_warning": false
         }
       ]
@@ -561,13 +561,13 @@
           "options_warning": false
         },
         {
-          "symbol": "MSFT",
-          "name": "Microsoft Corporation",
+          "symbol": "PANW",
+          "name": "Palo Alto Networks, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "PANW",
-          "name": "Palo Alto Networks, Inc.",
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
           "options_warning": false
         },
         {
@@ -591,13 +591,13 @@
           "options_warning": false
         },
         {
-          "symbol": "ADBE",
-          "name": "Adobe Inc.",
+          "symbol": "FTNT",
+          "name": "Fortinet, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "FTNT",
-          "name": "Fortinet, Inc.",
+          "symbol": "ADBE",
+          "name": "Adobe Inc.",
           "options_warning": false
         },
         {
@@ -649,13 +649,13 @@
           "options_warning": false
         },
         {
-          "symbol": "VMRK",
-          "name": "Vivmark Residential",
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
+          "symbol": "VMRK",
+          "name": "Vivmark Residential",
           "options_warning": false
         },
         {
@@ -664,8 +664,8 @@
           "options_warning": false
         },
         {
-          "symbol": "NYSE:CBRE",
-          "name": "CBRE Group, Inc.",
+          "symbol": "DLR",
+          "name": "Digital Realty Trust, Inc.",
           "options_warning": false
         }
       ]
