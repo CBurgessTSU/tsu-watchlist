@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:36:52.830481-04:00",
+  "generated_at": "2026-10-26T19:35:45.251441-04:00",
   "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
   "core_sectors": [
     {
@@ -89,8 +89,8 @@
           "options_warning": false
         },
         {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
           "options_warning": false
         },
         {
@@ -172,13 +172,13 @@
           "options_warning": true
         },
         {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
+          "symbol": "BRO",
+          "name": "Brown & Brown, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "WTM",
-          "name": "White Mountains Insurance Group, Ltd.",
+          "symbol": "TRV",
+          "name": "The Travelers Companies, Inc.",
           "options_warning": false
         }
       ]
