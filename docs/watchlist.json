@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T21:54:40.006983-04:00",
-  "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
+  "generated_at": "2026-10-31T17:06:45.427650-04:00",
+  "sectors_frozen_at": "2026-10-31T16:29:07.617370-04:00",
   "core_sectors": [
     {
       "etf": "XLE",
       "etf_name": "State Street Energy Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 10.751,
-      "spy_return_pct": -0.9398055215203649,
+      "return_pct": 11.67464114832535,
+      "spy_return_pct": -1.0824749015039492,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -29,68 +29,11 @@
       ]
     },
     {
-      "etf": "XOP",
-      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
-      "tier": "absolute_relative",
-      "return_pct": 9.584,
-      "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "RRC",
-          "name": "Range Resources Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "CVX",
-          "name": "Chevron Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLU",
-      "etf_name": "State Street Utilities Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 8.13,
-      "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "AEP",
-          "name": "American Electric Power Company, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "D",
-          "name": "Dominion Energy, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "XEL",
-          "name": "Xcel Energy Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "EXC",
-          "name": "Exelon Corporation",
-          "options_warning": false
-        }
-      ]
-    },
-    {
       "etf": "XLP",
       "etf_name": "State Street Consumer Staples Select Sector SPDR ETF",
       "tier": "absolute_relative",
-      "return_pct": 8.029,
-      "spy_return_pct": -0.9398055215203649,
+      "return_pct": 11.315822233287687,
+      "spy_return_pct": -1.0824749015039492,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -137,11 +80,228 @@
       ]
     },
     {
+      "etf": "XLV",
+      "etf_name": "State Street Health Care Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 11.233453670276795,
+      "spy_return_pct": -1.0824749015039492,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "ABBV",
+          "name": "AbbVie Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
+          "options_warning": false
+        },
+        {
+          "symbol": "TMO",
+          "name": "Thermo Fisher Scientific Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ABT",
+          "name": "Abbott Laboratories",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XOP",
+      "etf_name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+      "tier": "absolute_relative",
+      "return_pct": 10.558871405317415,
+      "spy_return_pct": -1.0824749015039492,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "RRC",
+          "name": "Range Resources Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLU",
+      "etf_name": "State Street Utilities Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 9.450604838709676,
+      "spy_return_pct": -1.0824749015039492,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "AEP",
+          "name": "American Electric Power Company, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "D",
+          "name": "Dominion Energy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "XEL",
+          "name": "Xcel Energy Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EXC",
+          "name": "Exelon Corporation",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "PHO",
+      "etf_name": "Invesco Water Resources ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.838719197284938,
+      "spy_return_pct": -1.0824749015039492,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ROP",
+          "name": "Roper Technologies, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "A",
+          "name": "Agilent Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLTO",
+          "name": "Veralto Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "XLB",
+      "etf_name": "State Street Materials Select Sector SPDR ETF",
+      "tier": "absolute_relative",
+      "return_pct": 8.652657601977754,
+      "spy_return_pct": -1.0824749015039492,
+      "etf_qualified": true,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SHW",
+          "name": "The Sherwin-Williams Company",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "OIH",
+      "etf_name": "VanEck Oil Services ETF",
+      "tier": "absolute_relative",
+      "return_pct": 7.989609571788403,
+      "spy_return_pct": -1.0824749015039492,
+      "etf_qualified": false,
+      "etf_options_warning": false,
+      "stocks": [
+        {
+          "symbol": "NYSE:HAL",
+          "name": "Halliburton Company",
+          "options_warning": false
+        }
+      ]
+    },
+    {
+      "etf": "KIE",
+      "etf_name": "State Street SPDR S&P Insurance ETF",
+      "tier": "absolute_relative",
+      "return_pct": 7.583178517142386,
+      "spy_return_pct": -1.0824749015039492,
+      "etf_qualified": true,
+      "etf_options_warning": true,
+      "stocks": [
+        {
+          "symbol": "MRSH",
+          "name": "Marsh & McLennan Companies, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "SIGI",
+          "name": "Selective Insurance Group, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "AJG",
+          "name": "Arthur J. Gallagher & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EG",
+          "name": "Everest Group, Ltd.",
+          "options_warning": true
+        }
+      ]
+    },
+    {
       "etf": "XRT",
       "etf_name": "State Street SPDR S&P Retail ETF",
       "tier": "absolute_relative",
-      "return_pct": 6.76,
-      "spy_return_pct": -0.9398055215203649,
+      "return_pct": 7.383200193657702,
+      "spy_return_pct": -1.0824749015039492,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -186,150 +346,6 @@
           "options_warning": false
         }
       ]
-    },
-    {
-      "etf": "PHO",
-      "etf_name": "Invesco Water Resources ETF",
-      "tier": "absolute_relative",
-      "return_pct": 5.773,
-      "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ROP",
-          "name": "Roper Technologies, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "A",
-          "name": "Agilent Technologies, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "VLTO",
-          "name": "Veralto Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "AWK",
-          "name": "American Water Works Company, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "XLV",
-      "etf_name": "State Street Health Care Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 5.54,
-      "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "LLY",
-          "name": "Eli Lilly and Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "ABBV",
-          "name": "AbbVie Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
-          "options_warning": false
-        },
-        {
-          "symbol": "TMO",
-          "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "GILD",
-          "name": "Gilead Sciences, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "KIE",
-      "etf_name": "State Street SPDR S&P Insurance ETF",
-      "tier": "absolute_relative",
-      "return_pct": 5.463,
-      "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": true,
-      "etf_options_warning": true,
-      "stocks": [
-        {
-          "symbol": "MRSH",
-          "name": "Marsh & McLennan Companies, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "SIGI",
-          "name": "Selective Insurance Group, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "AJG",
-          "name": "Arthur J. Gallagher & Co.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "EG",
-          "name": "Everest Group, Ltd.",
-          "options_warning": true
-        }
-      ]
-    },
-    {
-      "etf": "XLB",
-      "etf_name": "State Street Materials Select Sector SPDR ETF",
-      "tier": "absolute_relative",
-      "return_pct": 3.281,
-      "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": true,
-      "etf_options_warning": false,
-      "stocks": [
-        {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "NUE",
-          "name": "Nucor Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "STLD",
-          "name": "Steel Dynamics, Inc.",
-          "options_warning": false
-        }
-      ]
-    },
-    {
-      "etf": "IGV",
-      "etf_name": "iShares Expanded Tech-Software Sector ETF",
-      "tier": "absolute_relative",
-      "return_pct": 3.21,
-      "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
-      "etf_options_warning": false,
-      "stocks": []
     }
   ],
   "honorable_mentions": [
@@ -337,8 +353,8 @@
       "etf": "XLRE",
       "etf_name": "State Street Real Estate Select Sector SPDR ETF",
       "tier": "honorary",
-      "return_pct": 2.209,
-      "spy_return_pct": -0.9398055215203649,
+      "return_pct": 6.12094395280236,
+      "spy_return_pct": -1.0824749015039492,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
@@ -363,8 +379,8 @@
       "etf": "IBB",
       "etf_name": "iShares Biotechnology ETF",
       "tier": "honorary",
-      "return_pct": -0.722,
-      "spy_return_pct": -0.9398055215203649,
+      "return_pct": 5.6564381433288125,
+      "spy_return_pct": -1.0824749015039492,
       "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
