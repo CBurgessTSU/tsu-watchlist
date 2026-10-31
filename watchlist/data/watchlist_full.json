@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:35:45.251441-04:00",
+  "generated_at": "2026-10-30T21:54:40.006983-04:00",
   "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
   "core_sectors": [
     {
@@ -37,6 +37,11 @@
           "options_warning": false
         },
         {
+          "symbol": "WMB",
+          "name": "The Williams Companies, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "VLO",
           "name": "Valero Energy Corporation",
           "options_warning": false
@@ -47,18 +52,13 @@
           "options_warning": false
         },
         {
-          "symbol": "WMB",
-          "name": "The Williams Companies, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "SLB",
           "name": "SLB N.V.",
           "options_warning": false
         },
         {
-          "symbol": "KMI",
-          "name": "Kinder Morgan, Inc.",
+          "symbol": "TRGP",
+          "name": "Targa Resources Corp.",
           "options_warning": false
         }
       ]
@@ -73,8 +73,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "RRC",
+          "name": "Range Resources Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "APA",
           "name": "APA Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
           "options_warning": false
         },
         {
@@ -83,23 +93,8 @@
           "options_warning": false
         },
         {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corporation",
-          "options_warning": false
-        },
-        {
-          "symbol": "DINO",
-          "name": "HF Sinclair Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "OVV",
           "name": "Ovintiv Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corporation",
           "options_warning": false
         },
         {
@@ -113,13 +108,18 @@
           "options_warning": false
         },
         {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "CVX",
           "name": "Chevron Corporation",
           "options_warning": false
         },
         {
-          "symbol": "RRC",
-          "name": "Range Resources Corporation",
+          "symbol": "PR",
+          "name": "Permian Resources Corporation",
           "options_warning": false
         }
       ]
@@ -261,13 +261,18 @@
           "options_warning": false
         },
         {
-          "symbol": "GME",
-          "name": "GameStop Corp.",
+          "symbol": "VSXY",
+          "name": "Victoria's Secret & Co.",
           "options_warning": false
         },
         {
           "symbol": "ETSY",
           "name": "Etsy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
           "options_warning": false
         },
         {
@@ -281,28 +286,23 @@
           "options_warning": false
         },
         {
-          "symbol": "VSXY",
-          "name": "Victoria's Secret & Co.",
+          "symbol": "GME",
+          "name": "GameStop Corp.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ULTA",
+          "name": "Ulta Beauty, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "AEO",
+          "name": "American Eagle Outfitters, Inc.",
           "options_warning": false
         },
         {
           "symbol": "BJ",
           "name": "BJ's Wholesale Club Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KR",
-          "name": "The Kroger Co.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BBWI",
-          "name": "Bath & Body Works, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "ASO",
-          "name": "Academy Sports and Outdoors, Inc.",
           "options_warning": false
         }
       ]
@@ -317,13 +317,13 @@
       "etf_options_warning": true,
       "stocks": [
         {
-          "symbol": "ECL",
-          "name": "Ecolab Inc.",
+          "symbol": "FERG",
+          "name": "Ferguson Enterprises Inc.",
           "options_warning": false
         },
         {
-          "symbol": "FERG",
-          "name": "Ferguson Enterprises Inc.",
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
           "options_warning": false
         },
         {
@@ -359,11 +359,6 @@
         {
           "symbol": "AWK",
           "name": "American Water Works Company, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "XYL",
-          "name": "Xylem Inc.",
           "options_warning": false
         }
       ]
@@ -405,7 +400,7 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": true
+          "options_warning": false
         },
         {
           "symbol": "AMGN",
@@ -435,9 +430,14 @@
       "tier": "absolute_relative",
       "return_pct": 5.463,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
+        {
+          "symbol": "KMPR",
+          "name": "Kemper Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "BWIN",
           "name": "The Baldwin Insurance Group, Inc.",
@@ -449,9 +449,9 @@
           "options_warning": true
         },
         {
-          "symbol": "RYAN",
-          "name": "Ryan Specialty Holdings, Inc.",
-          "options_warning": false
+          "symbol": "SIGI",
+          "name": "Selective Insurance Group, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "AJG",
@@ -459,18 +459,8 @@
           "options_warning": false
         },
         {
-          "symbol": "BRO",
-          "name": "Brown & Brown, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "RNR",
-          "name": "RenaissanceRe Holdings Ltd.",
-          "options_warning": false
-        },
-        {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -479,9 +469,14 @@
           "options_warning": false
         },
         {
+          "symbol": "AFG",
+          "name": "American Financial Group, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "EG",
           "name": "Everest Group, Ltd.",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "AIG",
@@ -496,7 +491,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.281,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -510,18 +505,18 @@
           "options_warning": false
         },
         {
+          "symbol": "VMC",
+          "name": "Vulcan Materials Company",
+          "options_warning": false
+        },
+        {
           "symbol": "ECL",
           "name": "Ecolab Inc.",
           "options_warning": false
         },
         {
-          "symbol": "SHW",
-          "name": "The Sherwin-Williams Company",
-          "options_warning": false
-        },
-        {
-          "symbol": "VMC",
-          "name": "Vulcan Materials Company",
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
           "options_warning": false
         },
         {
@@ -535,13 +530,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NUE",
-          "name": "Nucor Corporation",
+          "symbol": "MLM",
+          "name": "Martin Marietta Materials, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MLM",
-          "name": "Martin Marietta Materials, Inc.",
+          "symbol": "SHW",
+          "name": "The Sherwin-Williams Company",
           "options_warning": false
         }
       ]
@@ -552,7 +547,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.21,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -581,18 +576,13 @@
           "options_warning": false
         },
         {
-          "symbol": "NOW",
-          "name": "ServiceNow, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "CRM",
           "name": "Salesforce, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "FTNT",
-          "name": "Fortinet, Inc.",
+          "symbol": "NOW",
+          "name": "ServiceNow, Inc.",
           "options_warning": false
         },
         {
@@ -601,8 +591,13 @@
           "options_warning": false
         },
         {
-          "symbol": "INTU",
-          "name": "Intuit Inc.",
+          "symbol": "CDNS",
+          "name": "Cadence Design Systems, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SNPS",
+          "name": "Synopsys, Inc.",
           "options_warning": false
         }
       ]
@@ -615,7 +610,7 @@
       "tier": "honorary",
       "return_pct": 2.209,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -641,7 +636,7 @@
         {
           "symbol": "PSA",
           "name": "Public Storage",
-          "options_warning": false
+          "options_warning": true
         },
         {
           "symbol": "SPG",
@@ -649,8 +644,8 @@
           "options_warning": false
         },
         {
-          "symbol": "VTR",
-          "name": "Ventas, Inc.",
+          "symbol": "DLR",
+          "name": "Digital Realty Trust, Inc.",
           "options_warning": false
         },
         {
@@ -664,8 +659,8 @@
           "options_warning": false
         },
         {
-          "symbol": "DLR",
-          "name": "Digital Realty Trust, Inc.",
+          "symbol": "CCI",
+          "name": "Crown Castle Inc.",
           "options_warning": false
         }
       ]
@@ -676,7 +671,7 @@
       "tier": "honorary",
       "return_pct": -0.722,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
         {
@@ -695,14 +690,14 @@
           "options_warning": false
         },
         {
-          "symbol": "REGN",
-          "name": "Regeneron Pharmaceuticals, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MRNA",
           "name": "Moderna, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "REGN",
+          "name": "Regeneron Pharmaceuticals, Inc.",
+          "options_warning": true
         },
         {
           "symbol": "NTRA",
@@ -720,13 +715,13 @@
           "options_warning": false
         },
         {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
+          "symbol": "RVMD",
+          "name": "Revolution Medicines, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "RVMD",
-          "name": "Revolution Medicines, Inc.",
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
           "options_warning": false
         }
       ]

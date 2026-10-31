@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:35:45.251441-04:00",
+  "generated_at": "2026-10-30T21:54:40.006983-04:00",
   "sectors_frozen_at": "2026-10-24T01:39:19.348475-04:00",
   "core_sectors": [
     {
@@ -12,13 +12,18 @@
       "etf_options_warning": false,
       "stocks": [
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
           "options_warning": false
         },
         {
-          "symbol": "KMI",
-          "name": "Kinder Morgan, Inc.",
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
           "options_warning": false
         }
       ]
@@ -31,7 +36,23 @@
       "spy_return_pct": -0.9398055215203649,
       "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "RRC",
+          "name": "Range Resources Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corporation",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XLU",
@@ -41,7 +62,28 @@
       "spy_return_pct": -0.9398055215203649,
       "etf_qualified": false,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "AEP",
+          "name": "American Electric Power Company, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "D",
+          "name": "Dominion Energy, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "XEL",
+          "name": "Xcel Energy Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "EXC",
+          "name": "Exelon Corporation",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "XLP",
@@ -68,8 +110,28 @@
           "options_warning": false
         },
         {
+          "symbol": "KO",
+          "name": "The Coca-Cola Company",
+          "options_warning": false
+        },
+        {
           "symbol": "PM",
           "name": "Philip Morris International Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "MO",
+          "name": "Altria Group, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "CL",
+          "name": "Colgate-Palmolive Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "MDLZ",
+          "name": "Mondelez International, Inc.",
           "options_warning": false
         }
       ]
@@ -94,13 +156,8 @@
           "options_warning": false
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "KR",
-          "name": "The Kroger Co.",
+          "symbol": "ETSY",
+          "name": "Etsy, Inc.",
           "options_warning": false
         },
         {
@@ -109,8 +166,23 @@
           "options_warning": false
         },
         {
-          "symbol": "ASO",
-          "name": "Academy Sports and Outdoors, Inc.",
+          "symbol": "CART",
+          "name": "Maplebear Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "ULTA",
+          "name": "Ulta Beauty, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "AEO",
+          "name": "American Eagle Outfitters, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         }
       ]
@@ -125,6 +197,11 @@
       "etf_options_warning": true,
       "stocks": [
         {
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "ROP",
           "name": "Roper Technologies, Inc.",
           "options_warning": true
@@ -132,6 +209,16 @@
         {
           "symbol": "A",
           "name": "Agilent Technologies, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "VLTO",
+          "name": "Veralto Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "AWK",
+          "name": "American Water Works Company, Inc.",
           "options_warning": false
         }
       ]
@@ -146,6 +233,16 @@
       "etf_options_warning": false,
       "stocks": [
         {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Company",
+          "options_warning": false
+        },
+        {
+          "symbol": "ABBV",
+          "name": "AbbVie Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "UNH",
           "name": "UnitedHealth Group Incorporated",
           "options_warning": false
@@ -153,7 +250,12 @@
         {
           "symbol": "TMO",
           "name": "Thermo Fisher Scientific Inc.",
-          "options_warning": true
+          "options_warning": false
+        },
+        {
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
+          "options_warning": false
         }
       ]
     },
@@ -163,8 +265,8 @@
       "tier": "absolute_relative",
       "return_pct": 5.463,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
-      "etf_options_warning": false,
+      "etf_qualified": true,
+      "etf_options_warning": true,
       "stocks": [
         {
           "symbol": "MRSH",
@@ -172,14 +274,24 @@
           "options_warning": true
         },
         {
-          "symbol": "BRO",
-          "name": "Brown & Brown, Inc.",
+          "symbol": "SIGI",
+          "name": "Selective Insurance Group, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "AJG",
+          "name": "Arthur J. Gallagher & Co.",
           "options_warning": false
         },
         {
-          "symbol": "TRV",
-          "name": "The Travelers Companies, Inc.",
+          "symbol": "RYAN",
+          "name": "Ryan Specialty Holdings, Inc.",
           "options_warning": false
+        },
+        {
+          "symbol": "EG",
+          "name": "Everest Group, Ltd.",
+          "options_warning": true
         }
       ]
     },
@@ -189,9 +301,19 @@
       "tier": "absolute_relative",
       "return_pct": 3.281,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
       "stocks": [
+        {
+          "symbol": "ECL",
+          "name": "Ecolab Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
+          "options_warning": false
+        },
         {
           "symbol": "STLD",
           "name": "Steel Dynamics, Inc.",
@@ -205,7 +327,7 @@
       "tier": "absolute_relative",
       "return_pct": 3.21,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": true,
+      "etf_qualified": false,
       "etf_options_warning": false,
       "stocks": []
     }
@@ -217,9 +339,25 @@
       "tier": "honorary",
       "return_pct": 2.209,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "AMT",
+          "name": "American Tower Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "PSA",
+          "name": "Public Storage",
+          "options_warning": true
+        },
+        {
+          "symbol": "CCI",
+          "name": "Crown Castle Inc.",
+          "options_warning": false
+        }
+      ]
     },
     {
       "etf": "IBB",
@@ -227,9 +365,25 @@
       "tier": "honorary",
       "return_pct": -0.722,
       "spy_return_pct": -0.9398055215203649,
-      "etf_qualified": false,
+      "etf_qualified": true,
       "etf_options_warning": false,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "GILD",
+          "name": "Gilead Sciences, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "REGN",
+          "name": "Regeneron Pharmaceuticals, Inc.",
+          "options_warning": true
+        },
+        {
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
+          "options_warning": false
+        }
+      ]
     }
   ]
 }
