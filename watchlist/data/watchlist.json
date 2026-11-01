@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:32:18.052551-04:00",
+  "generated_at": "2026-11-01T18:34:29.449120-05:00",
   "sectors_frozen_at": "2026-10-31T16:29:07.617370-04:00",
   "core_sectors": [
     {
@@ -275,14 +275,14 @@
           "options_warning": true
         },
         {
-          "symbol": "SIGI",
-          "name": "Selective Insurance Group, Inc.",
-          "options_warning": true
-        },
-        {
           "symbol": "AJG",
           "name": "Arthur J. Gallagher & Co.",
           "options_warning": false
+        },
+        {
+          "symbol": "EG",
+          "name": "Everest Group, Ltd.",
+          "options_warning": true
         },
         {
           "symbol": "RYAN",
@@ -290,8 +290,13 @@
           "options_warning": false
         },
         {
-          "symbol": "EG",
-          "name": "Everest Group, Ltd.",
+          "symbol": "ACGL",
+          "name": "Arch Capital Group Ltd.",
+          "options_warning": false
+        },
+        {
+          "symbol": "SIGI",
+          "name": "Selective Insurance Group, Inc.",
           "options_warning": true
         }
       ]
@@ -311,8 +316,18 @@
           "options_warning": false
         },
         {
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "VSXY",
           "name": "Victoria's Secret & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "REAL",
+          "name": "The RealReal, Inc.",
           "options_warning": false
         },
         {
@@ -321,8 +336,8 @@
           "options_warning": false
         },
         {
-          "symbol": "BBWI",
-          "name": "Bath & Body Works, Inc.",
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         },
         {
@@ -331,18 +346,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ULTA",
-          "name": "Ulta Beauty, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "AEO",
-          "name": "American Eagle Outfitters, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
+          "symbol": "KR",
+          "name": "The Kroger Co.",
           "options_warning": false
         }
       ]
@@ -367,11 +372,6 @@
           "symbol": "PSA",
           "name": "Public Storage",
           "options_warning": true
-        },
-        {
-          "symbol": "CCI",
-          "name": "Crown Castle Inc.",
-          "options_warning": false
         }
       ]
     },

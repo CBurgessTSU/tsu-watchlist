@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:32:18.052551-04:00",
+  "generated_at": "2026-11-01T18:34:29.449120-05:00",
   "sectors_frozen_at": "2026-10-31T16:29:07.617370-04:00",
   "core_sectors": [
     {
@@ -37,13 +37,13 @@
           "options_warning": false
         },
         {
-          "symbol": "WMB",
-          "name": "The Williams Companies, Inc.",
+          "symbol": "VLO",
+          "name": "Valero Energy Corporation",
           "options_warning": false
         },
         {
-          "symbol": "VLO",
-          "name": "Valero Energy Corporation",
+          "symbol": "WMB",
+          "name": "The Williams Companies, Inc.",
           "options_warning": false
         },
         {
@@ -149,13 +149,13 @@
           "options_warning": false
         },
         {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Incorporated",
+          "symbol": "MRK",
+          "name": "Merck & Co., Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MRK",
-          "name": "Merck & Co., Inc.",
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Incorporated",
           "options_warning": false
         },
         {
@@ -205,13 +205,18 @@
           "options_warning": false
         },
         {
+          "symbol": "MUR",
+          "name": "Murphy Oil Corporation",
+          "options_warning": false
+        },
+        {
           "symbol": "XOM",
           "name": "ExxonMobil Holdings Corporation",
           "options_warning": false
         },
         {
-          "symbol": "MUR",
-          "name": "Murphy Oil Corporation",
+          "symbol": "COP",
+          "name": "ConocoPhillips",
           "options_warning": false
         },
         {
@@ -222,11 +227,6 @@
         {
           "symbol": "EOG",
           "name": "EOG Resources, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "COP",
-          "name": "ConocoPhillips",
           "options_warning": false
         },
         {
@@ -378,11 +378,6 @@
           "options_warning": false
         },
         {
-          "symbol": "FCX",
-          "name": "Freeport-McMoRan Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "VMC",
           "name": "Vulcan Materials Company",
           "options_warning": false
@@ -393,23 +388,28 @@
           "options_warning": false
         },
         {
-          "symbol": "NUE",
-          "name": "Nucor Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "APD",
           "name": "Air Products and Chemicals, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "STLD",
-          "name": "Steel Dynamics, Inc.",
+          "symbol": "MLM",
+          "name": "Martin Marietta Materials, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "MLM",
-          "name": "Martin Marietta Materials, Inc.",
+          "symbol": "FCX",
+          "name": "Freeport-McMoRan Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "NUE",
+          "name": "Nucor Corporation",
+          "options_warning": false
+        },
+        {
+          "symbol": "STLD",
+          "name": "Steel Dynamics, Inc.",
           "options_warning": false
         },
         {
@@ -480,24 +480,24 @@
           "options_warning": false
         },
         {
-          "symbol": "BWIN",
-          "name": "The Baldwin Insurance Group, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "MRSH",
           "name": "Marsh & McLennan Companies, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "SIGI",
-          "name": "Selective Insurance Group, Inc.",
-          "options_warning": true
+          "symbol": "BWIN",
+          "name": "The Baldwin Insurance Group, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "AJG",
           "name": "Arthur J. Gallagher & Co.",
           "options_warning": false
+        },
+        {
+          "symbol": "EG",
+          "name": "Everest Group, Ltd.",
+          "options_warning": true
         },
         {
           "symbol": "RYAN",
@@ -510,18 +510,18 @@
           "options_warning": false
         },
         {
-          "symbol": "AFG",
-          "name": "American Financial Group, Inc.",
+          "symbol": "ACGL",
+          "name": "Arch Capital Group Ltd.",
           "options_warning": false
         },
         {
-          "symbol": "EG",
-          "name": "Everest Group, Ltd.",
+          "symbol": "SIGI",
+          "name": "Selective Insurance Group, Inc.",
           "options_warning": true
         },
         {
-          "symbol": "AIG",
-          "name": "American International Group, Inc.",
+          "symbol": "AFG",
+          "name": "American Financial Group, Inc.",
           "options_warning": false
         }
       ]
@@ -541,8 +541,18 @@
           "options_warning": false
         },
         {
+          "symbol": "BBWI",
+          "name": "Bath & Body Works, Inc.",
+          "options_warning": false
+        },
+        {
           "symbol": "VSXY",
           "name": "Victoria's Secret & Co.",
+          "options_warning": false
+        },
+        {
+          "symbol": "REAL",
+          "name": "The RealReal, Inc.",
           "options_warning": false
         },
         {
@@ -551,18 +561,8 @@
           "options_warning": false
         },
         {
-          "symbol": "BBWI",
-          "name": "Bath & Body Works, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "OLLI",
           "name": "Ollie's Bargain Outlet Holdings, Inc.",
-          "options_warning": false
-        },
-        {
-          "symbol": "CART",
-          "name": "Maplebear Inc.",
           "options_warning": false
         },
         {
@@ -571,18 +571,18 @@
           "options_warning": false
         },
         {
-          "symbol": "ULTA",
-          "name": "Ulta Beauty, Inc.",
-          "options_warning": true
-        },
-        {
-          "symbol": "AEO",
-          "name": "American Eagle Outfitters, Inc.",
+          "symbol": "BJ",
+          "name": "BJ's Wholesale Club Holdings, Inc.",
           "options_warning": false
         },
         {
-          "symbol": "BJ",
-          "name": "BJ's Wholesale Club Holdings, Inc.",
+          "symbol": "CART",
+          "name": "Maplebear Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "KR",
+          "name": "The Kroger Co.",
           "options_warning": false
         }
       ]
@@ -634,18 +634,18 @@
           "options_warning": false
         },
         {
-          "symbol": "O",
-          "name": "Realty Income Corporation",
-          "options_warning": false
-        },
-        {
           "symbol": "VMRK",
           "name": "Vivmark Residential",
           "options_warning": false
         },
         {
-          "symbol": "CCI",
-          "name": "Crown Castle Inc.",
+          "symbol": "VTR",
+          "name": "Ventas, Inc.",
+          "options_warning": false
+        },
+        {
+          "symbol": "O",
+          "name": "Realty Income Corporation",
           "options_warning": false
         }
       ]
@@ -675,14 +675,14 @@
           "options_warning": false
         },
         {
-          "symbol": "MRNA",
-          "name": "Moderna, Inc.",
-          "options_warning": false
-        },
-        {
           "symbol": "REGN",
           "name": "Regeneron Pharmaceuticals, Inc.",
           "options_warning": true
+        },
+        {
+          "symbol": "MRNA",
+          "name": "Moderna, Inc.",
+          "options_warning": false
         },
         {
           "symbol": "NTRA",
@@ -695,8 +695,8 @@
           "options_warning": false
         },
         {
-          "symbol": "ILMN",
-          "name": "Illumina, Inc.",
+          "symbol": "BIIB",
+          "name": "Biogen Inc.",
           "options_warning": false
         },
         {
@@ -705,8 +705,8 @@
           "options_warning": false
         },
         {
-          "symbol": "BIIB",
-          "name": "Biogen Inc.",
+          "symbol": "ILMN",
+          "name": "Illumina, Inc.",
           "options_warning": false
         }
       ]
